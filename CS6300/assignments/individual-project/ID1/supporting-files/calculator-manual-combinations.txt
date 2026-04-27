@@ -1,0 +1,9 @@
+# Manually-generated combinations
+# Using the calculator example, you should NOT do the following:
+Functions:
+    Add.
+    Add and multiply.
+    Add and multiply and divide.
+    Multiply and add.
+    Multiply and divide and add.
+    Divide and... # etc 
