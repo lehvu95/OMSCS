@@ -1,0 +1,2720 @@
+1
+00:00:06,070 --> 00:00:10,170
+right hello everyone my
+name is shin and this is
+
+2
+00:00:10,170 --> 00:00:14,650
+paula hi everyone how are
+you i hope you're having
+
+3
+00:00:14,650 --> 00:00:19,290
+a good first tour of this
+master maybe even more
+
+4
+00:00:19,290 --> 00:00:23,450
+closer to the earth but
+anyway who is counting
+
+5
+00:00:24,230 --> 00:00:28,350
+welcome to the cs6300
+subway development process
+
+6
+00:00:28,350 --> 00:00:33,610
+of this hour so let me
+see this is week seven
+
+7
+00:00:33,810 --> 00:00:37,650
+and this week students
+are supposed to
+
+8
+00:00:37,650 --> 00:00:42,730
+watch lecture P3O4
+unified software process
+
+9
+00:00:42,790 --> 00:00:46,550
+and P4L1 testing
+general concept.
+
+10
+00:00:47,210 --> 00:00:51,130
+This week students are supposed
+
+11
+00:00:51,130 --> 00:00:53,390
+to submit two different
+
+12
+00:00:54,430 --> 00:00:58,310
+submissions on well two
+different submissions
+
+13
+00:00:58,310 --> 00:01:03,050
+one is group project
+deliverable 2 which is
+
+14
+00:01:04,130 --> 00:01:09,610
+So one member of the team
+will submit on Canvas and
+
+15
+00:01:09,610 --> 00:01:13,590
+the remaining team members
+should at least double
+
+16
+00:01:13,590 --> 00:01:16,310
+-check because this is the
+shared responsibility.
+
+17
+00:01:17,110 --> 00:01:21,530
+If the team forgets, then
+everybody will be affected.
+
+18
+00:01:21,570 --> 00:01:24,950
+So yeah, it's one
+person doing, but the
+
+19
+00:01:24,950 --> 00:01:26,650
+other should be double
+-checked as well.
+
+20
+00:01:27,190 --> 00:01:30,890
+That is the GPD tool, right?
+
+21
+00:01:30,970 --> 00:01:35,810
+And the other is individual
+assessment or design.
+
+22
+00:01:36,090 --> 00:01:41,050
+This one, each
+individual student
+
+23
+00:01:41,050 --> 00:01:44,310
+should be submitting
+on Grayscope,
+
+24
+00:01:44,310 --> 00:01:49,210
+not on Canvas, on Grayscope.
+And it is your own that
+
+25
+00:01:49,210 --> 00:01:55,150
+you evaluate other team
+members, teammates from GPD,
+
+26
+00:01:55,150 --> 00:01:59,830
+the one when you were doing
+design and discussion.
+
+27
+00:02:00,070 --> 00:02:01,110
+Remember,
+
+28
+00:02:01,230 --> 00:02:04,570
+do not forget you have two
+
+29
+00:02:04,570 --> 00:02:07,210
+different submissions
+this week.
+
+30
+00:02:10,370 --> 00:02:13,450
+That's pretty much,
+we are now in a
+
+31
+00:02:13,450 --> 00:02:16,430
+second level of a
+group project, so I
+
+32
+00:02:16,430 --> 00:02:18,590
+think most of the
+question is for that.
+
+33
+00:02:21,190 --> 00:02:23,710
+Let's go to the first question.
+
+34
+00:02:26,430 --> 00:02:31,250
+So the question is, I
+was curious whether there
+
+35
+00:02:31,250 --> 00:02:34,550
+were sample more
+detailed direction we can
+
+36
+00:02:34,550 --> 00:02:41,850
+use for deliverables in
+group deliverable two.
+
+37
+00:02:41,850 --> 00:02:45,850
+It's the question here.
+And then it's hard
+
+38
+00:02:45,850 --> 00:02:48,030
+for me to understand
+what level of detail we
+
+39
+00:02:48,030 --> 00:02:50,730
+need to provide without
+samples like that.
+
+40
+00:02:51,290 --> 00:02:59,390
+and actually if if you
+follow that um that link
+
+41
+00:02:59,390 --> 00:03:04,090
+example uh for each template
+then there is already
+
+42
+00:03:04,090 --> 00:03:08,030
+one um there are there
+are two answers from the
+
+43
+00:03:08,030 --> 00:03:13,290
+staff and um are not so
+these these are samples
+
+44
+00:03:14,330 --> 00:03:18,570
+for well project plan
+use case and test plan
+
+45
+00:03:18,570 --> 00:03:22,530
+there are some other
+templates that we include
+
+46
+00:03:22,530 --> 00:03:25,530
+in the group project
+as well but these are
+
+47
+00:03:25,530 --> 00:03:31,180
+also good one as for
+whether it is sufficient
+
+48
+00:03:31,230 --> 00:03:35,650
+enough then I think
+Paula has answered this
+
+49
+00:03:35,650 --> 00:03:39,510
+multiple multiple times
+in previous office hours.
+
+50
+00:03:39,950 --> 00:03:45,750
+It's by balance. And sometimes
+you know it when you see
+
+51
+00:03:45,750 --> 00:03:49,570
+it. Sometimes if you put
+your shoes in another team
+
+52
+00:03:49,570 --> 00:03:54,590
+member who just received
+these documents or these
+
+53
+00:03:54,590 --> 00:03:58,490
+artifacts, whether they can
+get started and resume or
+
+54
+00:03:58,490 --> 00:04:02,110
+continue, or they don't have
+enough information or they just
+
+55
+00:04:02,110 --> 00:04:06,510
+get confused by a lot of
+uh tmi and then they just
+
+56
+00:04:06,510 --> 00:04:10,270
+put put everything into ai
+and say summarize this for me
+
+57
+00:04:11,470 --> 00:04:18,410
+but yeah um paula do you
+have yeah no yeah i no i just
+
+58
+00:04:18,410 --> 00:04:21,480
+really i think there are
+a couple of key things uh
+
+59
+00:04:21,480 --> 00:04:24,630
+in the deliverable descriptions
+because when i saw the
+
+60
+00:04:24,630 --> 00:04:27,390
+question i went back reading
+it and there are things
+
+61
+00:04:27,390 --> 00:04:31,050
+like you know imagine you're
+the ta is grading and he's
+
+62
+00:04:31,050 --> 00:04:33,930
+reading it and he's there
+is written right like he
+
+63
+00:04:33,930 --> 00:04:36,770
+doesn't have to ask themselves
+questions so are we are we
+
+64
+00:04:36,770 --> 00:04:40,750
+expecting you to write 50
+pages of material no of
+
+65
+00:04:40,750 --> 00:04:44,310
+course not but if you are
+coherent you follow the structure
+
+66
+00:04:44,310 --> 00:04:50,010
+of the templates and and
+and and and you and people
+
+67
+00:04:50,010 --> 00:04:53,550
+that read and haven't written
+them understand and things
+
+68
+00:04:53,550 --> 00:04:56,770
+are coherent with each
+other then then you are on
+
+69
+00:04:56,770 --> 00:05:01,730
+the right track right so uh
+this is really a big part
+
+70
+00:05:01,730 --> 00:05:05,240
+of of the work right try to
+understand what is enough
+
+71
+00:05:05,240 --> 00:05:12,770
+and and what is too much uh
+and so it's uh it's try for
+
+72
+00:05:12,770 --> 00:05:15,650
+a second to look at this
+from outside and somebody is
+
+73
+00:05:15,650 --> 00:05:19,090
+reading it and you look at
+your project plan would they
+
+74
+00:05:19,090 --> 00:05:23,590
+understand how i will carry
+out this project yes or
+
+75
+00:05:23,590 --> 00:05:27,830
+no i mean if the answer is
+oh here is not that very
+
+76
+00:05:27,830 --> 00:05:31,430
+clear who does what then
+maybe no right and so you need
+
+77
+00:05:31,430 --> 00:05:34,330
+to clarify something if here
+you say oh i fell asleep
+
+78
+00:05:34,330 --> 00:05:37,370
+when i was rereading my
+project plan maybe you put too
+
+79
+00:05:37,370 --> 00:05:40,770
+much right i fall asleep
+many times when i reread my
+
+80
+00:05:40,770 --> 00:05:43,870
+papers that's not a very
+good sign but but this is the
+
+81
+00:05:43,870 --> 00:05:46,890
+point right each of these
+documents has to do something
+
+82
+00:05:46,890 --> 00:05:50,730
+and so reread them try to
+you know try to distance
+
+83
+00:05:50,730 --> 00:05:53,830
+yourself from the document
+and the fact that you know the
+
+84
+00:05:53,830 --> 00:05:58,350
+rationale why you wrote it
+because when your TAs read
+
+85
+00:05:58,350 --> 00:06:01,030
+them to grade them they are
+not in your head so they
+
+86
+00:06:01,030 --> 00:06:04,610
+read what is written and
+if it's enough they will
+
+87
+00:06:04,610 --> 00:06:08,970
+understand if it's not then
+it's the moment in which you're
+
+88
+00:06:08,970 --> 00:06:12,550
+losing points and there
+are mismatching so remember
+
+89
+00:06:12,550 --> 00:06:16,410
+what each each of the document
+is supposed to be doing
+
+90
+00:06:16,890 --> 00:06:19,810
+follow the template make
+sure that all the section
+
+91
+00:06:19,810 --> 00:06:24,290
+are there my suggestion you
+know i come from classical
+
+92
+00:06:24,290 --> 00:06:26,670
+study before studying
+engineering so i study
+
+93
+00:06:26,670 --> 00:06:28,830
+latin and greek that
+people might think that is
+
+94
+00:06:28,830 --> 00:06:31,410
+completely useless but i
+think instead i've learned a
+
+95
+00:06:31,410 --> 00:06:34,480
+lot because the things that
+i do when i read things
+
+96
+00:06:34,480 --> 00:06:38,370
+that i have to do i i light
+all the main points and
+
+97
+00:06:38,370 --> 00:06:41,810
+i go back to that to make
+sure i cover all of them
+
+98
+00:06:41,810 --> 00:06:44,550
+so sometimes the description
+of your assignment
+
+99
+00:06:44,550 --> 00:06:48,690
+and deliverable are are
+long but they're not long
+
+100
+00:06:48,690 --> 00:06:53,370
+unintentionally each piece
+is kind of a guide for you
+
+101
+00:06:53,370 --> 00:06:57,490
+to do it right so i think
+you have all the answer
+
+102
+00:06:57,490 --> 00:07:01,450
+in deliverable too for for
+answering this question
+
+103
+00:07:01,900 --> 00:07:03,630
+i hope this helps
+
+104
+00:07:06,080 --> 00:07:10,150
+okay thanks fauna and
+actually that is the
+
+105
+00:07:10,150 --> 00:07:14,110
+single question we have
+at until this moment
+
+106
+00:07:16,600 --> 00:07:23,790
+um meanwhile anything um
+interesting in the academy
+
+107
+00:07:24,020 --> 00:07:27,050
+in academia i don't know
+i don't know it also
+
+108
+00:07:27,050 --> 00:07:29,470
+happens that we have this
+office hour when I'm working
+
+109
+00:07:29,470 --> 00:07:34,390
+on something because
+so it's a deadline very
+
+110
+00:07:34,390 --> 00:07:39,530
+soon so I'm working on on
+a paper on interview script
+
+111
+00:07:39,530 --> 00:07:42,270
+do you know what an
+interview script is yes I
+
+112
+00:07:42,270 --> 00:07:46,610
+guess so but anyway so now
+to find if human or LLMs
+
+113
+00:07:46,610 --> 00:07:50,350
+are better to review
+interview script do you want
+
+114
+00:07:50,350 --> 00:07:52,830
+to know the end of the
+story do you want a spoiler
+
+115
+00:07:52,830 --> 00:07:58,090
+on this story it becomes
+a Turing test already?
+
+116
+00:07:58,770 --> 00:08:01,310
+No, actually humans are better.
+
+117
+00:08:01,430 --> 00:08:03,030
+So LLM are more comprehensive.
+
+118
+00:08:03,090 --> 00:08:06,110
+It's very interesting
+because we did this empirical
+
+119
+00:08:06,110 --> 00:08:09,070
+study and of course like
+LLMs are more comprehensive
+
+120
+00:08:09,070 --> 00:08:14,270
+in finding things and in
+their feedback but the people
+
+121
+00:08:14,270 --> 00:08:17,150
+that receive the feedback
+find it overwhelming and
+
+122
+00:08:17,150 --> 00:08:20,950
+not that very useful. Which
+I find is a very interesting
+
+123
+00:08:20,950 --> 00:08:23,470
+point because you know we
+create all these things
+
+124
+00:08:23,470 --> 00:08:26,150
+to automatize things and
+then but the point is
+
+125
+00:08:26,150 --> 00:08:30,830
+that if if what we create is
+us to be used by human the
+
+126
+00:08:30,830 --> 00:08:35,430
+real question is is this
+is really useful right um
+
+127
+00:08:35,630 --> 00:08:39,350
+i don't know i'm always so
+the since we are waiting
+
+128
+00:08:39,350 --> 00:08:42,590
+for questions i i want to
+say something about the
+
+129
+00:08:42,590 --> 00:08:46,470
+creator of this course right
+so alex of work alex or
+
+130
+00:08:46,470 --> 00:08:48,510
+so that is the person that
+created all the material
+
+131
+00:08:48,510 --> 00:08:51,690
+that you are talking in all
+the classes. I didn't mean
+
+132
+00:08:51,690 --> 00:08:54,470
+to make it funny, I'm just
+Italian, so I do judge
+
+133
+00:08:54,470 --> 00:08:58,610
+this, sorry. I didn't mean
+to just be disrespectful,
+
+134
+00:08:58,990 --> 00:09:03,110
+but he has worked many years
+on automatic debugging and
+
+135
+00:09:03,110 --> 00:09:06,730
+I think he has this paper
+that I recommend to everybody
+
+136
+00:09:06,730 --> 00:09:09,610
+with Chris Parnin, that I
+think now works at University
+
+137
+00:09:09,610 --> 00:09:12,230
+of North Carolina, but was
+a PhD student at Georgia
+
+138
+00:09:12,230 --> 00:09:18,010
+Tech on this consideration
+of, are we really evaluating
+
+139
+00:09:18,010 --> 00:09:20,770
+automatic debugging tool
+in the right way, right?
+
+140
+00:09:20,770 --> 00:09:23,150
+So the idea of automatic
+debugging that I think now
+
+141
+00:09:23,150 --> 00:09:25,830
+that you're writing code for
+this class or also for your
+
+142
+00:09:25,830 --> 00:09:28,330
+job, you're knowing like
+it would be very nice if I
+
+143
+00:09:28,330 --> 00:09:30,750
+had a tool that when there
+is a bug, I click a button
+
+144
+00:09:30,750 --> 00:09:34,170
+and tell me here is the bug,
+fix it. Really for now, what
+
+145
+00:09:34,170 --> 00:09:38,430
+they do is they're telling
+you, oh, the bug is in
+
+146
+00:09:38,430 --> 00:09:41,550
+this piece of code, right they
+take away part of the code
+
+147
+00:09:41,550 --> 00:09:44,690
+to look and in this study
+that they did they say yes
+
+148
+00:09:44,690 --> 00:09:47,210
+but this is completely
+useless like you know we are
+
+149
+00:09:47,210 --> 00:09:50,450
+battling on this tool saying
+this tool give you five
+
+150
+00:09:50,450 --> 00:09:53,290
+percent this tool give you
+two percent this tool give you
+
+151
+00:09:53,290 --> 00:09:57,790
+yes but two percent of 10
+000 line of code is still a
+
+152
+00:09:57,790 --> 00:10:02,610
+very big number and nobody
+if i give you like 100 line
+
+153
+00:10:02,610 --> 00:10:05,490
+of code and say oh the bug
+is here we'll just look at
+
+154
+00:10:05,490 --> 00:10:08,790
+those because this is not
+how our developer work you
+
+155
+00:10:08,790 --> 00:10:13,410
+follow your path right and so
+it was about what is really
+
+156
+00:10:13,410 --> 00:10:17,390
+what would be really useful
+from things that that i
+
+157
+00:10:17,390 --> 00:10:20,330
+mean of course if we if we
+are able to perfectly identify
+
+158
+00:10:20,330 --> 00:10:23,510
+the bug that would be
+perfect but since we are not
+
+159
+00:10:23,510 --> 00:10:26,590
+what is really useful for
+developer so i think that
+
+160
+00:10:26,590 --> 00:10:29,230
+this is this is a very
+important question every time we
+
+161
+00:10:29,230 --> 00:10:32,160
+develop a tool that other
+people will use it's not just
+
+162
+00:10:32,160 --> 00:10:35,790
+how precise it is, how
+correct it is. I mean, of
+
+163
+00:10:35,790 --> 00:10:38,950
+course, if you're developing
+a critical safety software,
+
+164
+00:10:39,170 --> 00:10:42,750
+just please make sure it's
+perfectly safe and correct.
+
+165
+00:10:42,890 --> 00:10:45,950
+But there is also, if instead
+it's something that is
+
+166
+00:10:45,950 --> 00:10:50,550
+in human interaction, the
+perception of the users and
+
+167
+00:10:50,860 --> 00:10:55,230
+how they consider it useful
+is really very important.
+
+168
+00:10:55,930 --> 00:10:58,590
+So anyway, see, I'm
+very entertaining.
+
+169
+00:10:59,090 --> 00:11:01,770
+I'm talking about
+the correctness.
+
+170
+00:11:01,890 --> 00:11:04,510
+So, I mean, this discourse,
+
+171
+00:11:04,670 --> 00:11:07,250
+later on in this course,
+we have a lot of testing.
+
+172
+00:11:07,250 --> 00:11:09,270
+We have black forecasting,
+white forecasting,
+
+173
+00:11:09,270 --> 00:11:12,130
+somewhere in between black
+forecasting as well. And
+
+174
+00:11:12,130 --> 00:11:15,050
+then something that we
+mentioned, I think, but
+
+175
+00:11:15,050 --> 00:11:19,170
+not teaching in this course
+is formal verification.
+
+176
+00:11:19,650 --> 00:11:23,630
+And the thing is formal
+verification is the holy
+
+177
+00:11:23,630 --> 00:11:29,190
+grail, most because it is
+the final frontier and also
+
+178
+00:11:29,190 --> 00:11:33,050
+because it is too hard to
+achieve and it's reserved
+
+179
+00:11:33,050 --> 00:11:39,270
+for only the most critical
+like nuclear or aerospace.
+
+180
+00:11:39,850 --> 00:11:43,310
+But the thing is
+right now because
+
+181
+00:11:43,310 --> 00:11:45,470
+with the formal verification
+
+182
+00:11:46,030 --> 00:11:52,390
+it's either we can see
+that whether we have the
+
+183
+00:11:52,390 --> 00:11:56,450
+formal verification or not
+And if we have it, we can
+
+184
+00:11:56,500 --> 00:12:00,150
+easily verify whether
+everything is correct, right?
+
+185
+00:12:00,210 --> 00:12:03,290
+Is there anything in
+the academia right
+
+186
+00:12:03,290 --> 00:12:08,610
+now to apply AI
+agents into better or
+
+187
+00:12:08,610 --> 00:12:11,310
+faster having the
+formal verification?
+
+188
+00:12:11,310 --> 00:12:14,510
+So it's a little more
+complicated than this, right?
+
+189
+00:12:14,510 --> 00:12:17,510
+because yes so like I
+think when you talk about
+
+190
+00:12:17,510 --> 00:12:20,950
+formal verification you you
+have to you have to separate
+
+191
+00:12:20,950 --> 00:12:26,430
+in like formal methods
+tool that try to achieve
+
+192
+00:12:26,430 --> 00:12:29,890
+it all and so requires
+human intervention because
+
+193
+00:12:29,950 --> 00:12:33,410
+you know like if you take
+all the complexity of your
+
+194
+00:12:33,410 --> 00:12:36,470
+code and whatever property
+you want to express this
+
+195
+00:12:36,470 --> 00:12:38,790
+become a problem that
+you cannot solve fully
+
+196
+00:12:38,790 --> 00:12:42,190
+automatically and so there
+there is this need of gigantic
+
+197
+00:12:42,190 --> 00:12:45,050
+human expertise or things
+in which you abstract
+
+198
+00:12:45,050 --> 00:12:47,840
+some details away and then
+you can do it all automatic.
+
+199
+00:12:47,840 --> 00:12:49,630
+So I don't know, that
+would be the difference
+
+200
+00:12:49,630 --> 00:12:52,630
+between theory improving
+and model checking, right?
+
+201
+00:12:52,990 --> 00:12:55,710
+The model checking is
+something that you have a model
+
+202
+00:12:55,710 --> 00:12:58,090
+of your system in which you
+abstract away some of your
+
+203
+00:12:58,090 --> 00:13:02,110
+detail or a model of your
+code or your code that get
+
+204
+00:13:02,110 --> 00:13:05,550
+abstracted away automatically.
+You write the property,
+
+205
+00:13:05,550 --> 00:13:08,450
+you click a button and the
+model checker tells you yes
+
+206
+00:13:08,450 --> 00:13:11,290
+the property holds or no
+look at the counterexample
+
+207
+00:13:11,290 --> 00:13:14,310
+right but then with some
+abstraction so it's never 100
+
+208
+00:13:14,310 --> 00:13:18,030
+and then theory improver is
+like you really like try to
+
+209
+00:13:18,030 --> 00:13:20,890
+prove things and then there
+are tools that help you to
+
+210
+00:13:20,890 --> 00:13:24,330
+do some of these but the
+human need to make certain
+
+211
+00:13:24,330 --> 00:13:30,900
+decision or certain pieces
+the problem is that up to now
+
+212
+00:13:30,900 --> 00:13:34,730
+up to a little bit before
+i mean these are very
+
+213
+00:13:34,730 --> 00:13:38,360
+complicated things that you
+were saying and the tools are
+
+214
+00:13:38,360 --> 00:13:42,670
+really unusable right so the
+barrier to enter into this
+
+215
+00:13:42,670 --> 00:13:46,120
+field or for people to apply
+it or to get particularly
+
+216
+00:13:46,750 --> 00:13:49,630
+enthusiastic about
+it is very there is
+
+217
+00:13:49,630 --> 00:13:51,990
+a big step right
+it's very high like
+
+218
+00:13:52,490 --> 00:13:56,570
+I work I mean I did my PhD
+thesis on model checking
+
+219
+00:13:56,570 --> 00:14:01,750
+so but it's like it's not
+you know this topic that
+
+220
+00:14:01,750 --> 00:14:05,030
+the other PhD students want
+to chat with you about.
+
+221
+00:14:05,470 --> 00:14:10,990
+But now they are doing a
+lot of attempt to try to see
+
+222
+00:14:10,990 --> 00:14:14,890
+how AI can help to make
+them more accessible or to
+
+223
+00:14:14,890 --> 00:14:18,890
+guide some of this process
+automatically. They are still
+
+224
+00:14:18,890 --> 00:14:21,810
+iterative. But so if we go
+back, for instance, right,
+
+225
+00:14:21,810 --> 00:14:27,140
+to what we were talking a
+couple of office hours ago,
+
+226
+00:14:27,590 --> 00:14:30,350
+you know, like a big
+piece of this is that
+
+227
+00:14:30,350 --> 00:14:33,510
+how do you write the
+property that you want
+
+228
+00:14:33,510 --> 00:14:35,790
+to be verified? You
+write it in logic and
+
+229
+00:14:35,790 --> 00:14:38,390
+logic is not the best
+friend of human being.
+
+230
+00:14:38,390 --> 00:14:42,710
+So there has been, I
+was reading a few days,
+
+231
+00:14:42,710 --> 00:14:44,490
+a few weeks ago, this paper,
+
+232
+00:14:44,730 --> 00:14:47,510
+very interesting in which
+they were trying to,
+
+233
+00:14:47,510 --> 00:14:49,810
+you know, like I do the
+other way around because now
+
+234
+00:14:49,810 --> 00:14:52,100
+I work in requirements,
+but they were trying to
+
+235
+00:14:52,100 --> 00:14:55,090
+automatize the fact that
+you write your specification
+
+236
+00:14:55,090 --> 00:14:58,790
+directly in logic so the
+human doesn't have to know,
+
+237
+00:14:58,970 --> 00:15:02,570
+right? Right. But the
+automatic tool, even the more
+
+238
+00:15:02,570 --> 00:15:06,810
+advanced to now, they reach
+maximum correctness of 50
+
+239
+00:15:06,810 --> 00:15:10,670
+percent. And with the human
+in the loop, 80 percent,
+
+240
+00:15:10,670 --> 00:15:14,070
+which is terrifying if you
+think about this, because
+
+241
+00:15:14,070 --> 00:15:18,150
+you are using formal
+verification or model checking
+
+242
+00:15:18,150 --> 00:15:21,750
+or whatever, whatever kind
+of formal verification
+
+243
+00:15:21,750 --> 00:15:26,870
+you're using, model checking,
+to do something using a
+
+244
+00:15:26,870 --> 00:15:31,810
+property that has so much
+chances to be wrong and and
+
+245
+00:15:31,810 --> 00:15:35,030
+i think and i think you
+know i think in um the
+
+246
+00:15:35,030 --> 00:15:39,590
+consensus is that to have
+this tool to be uh supporting
+
+247
+00:15:39,590 --> 00:15:43,770
+the reason in the reasoning
+because if you try you know
+
+248
+00:15:43,770 --> 00:15:47,730
+like you use formal
+verification in any of its form
+
+249
+00:15:47,730 --> 00:15:51,790
+uh when you really need
+to be sure about certain
+
+250
+00:15:51,790 --> 00:15:55,730
+properties right because
+it's a software that run on a
+
+251
+00:15:55,730 --> 00:15:58,690
+medical device it's a
+software that run on a plane,
+
+252
+00:15:58,890 --> 00:16:02,450
+anything that, you know,
+it cannot really fail. And
+
+253
+00:16:02,450 --> 00:16:08,330
+so if you remove, and there
+are a lot of studies, very,
+
+254
+00:16:08,330 --> 00:16:11,390
+very interesting that
+shows like, you know, and
+
+255
+00:16:11,390 --> 00:16:14,830
+they're not recent, they're
+not about LLMs, right? Like
+
+256
+00:16:14,830 --> 00:16:17,550
+there are studies from the
+80s that were saying that
+
+257
+00:16:17,550 --> 00:16:21,450
+basically if you start
+automatizing certain process,
+
+258
+00:16:21,450 --> 00:16:24,790
+people lose their competence
+and then become like they
+
+259
+00:16:24,790 --> 00:16:28,310
+introduce mistake so you
+know like you can you call
+
+260
+00:16:28,310 --> 00:16:30,870
+things with different name
+and they can do different
+
+261
+00:16:30,870 --> 00:16:35,690
+things but they are similar
+problems and and so in this
+
+262
+00:16:35,690 --> 00:16:39,390
+field in which the correctness
+and so it's not oh I'm
+
+263
+00:16:39,390 --> 00:16:42,970
+good at 90% so it's fine
+I'm happy like this not the
+
+264
+00:16:42,970 --> 00:16:46,090
+10% in a medical device you
+know think about that if
+
+265
+00:16:46,090 --> 00:16:49,110
+the medical if there are 10
+% chances that your medical
+
+266
+00:16:49,110 --> 00:16:52,170
+device doesn't respect the
+property that save your
+
+267
+00:16:52,170 --> 00:16:57,250
+life i don't know i don't
+know so there is this kind
+
+268
+00:16:57,250 --> 00:17:02,570
+of consensus to try not to
+take away uh the you know
+
+269
+00:17:02,570 --> 00:17:08,690
+the human input and so there
+is um it's it's it's more
+
+270
+00:17:08,690 --> 00:17:14,670
+about make a formal method
+usable like more accessible
+
+271
+00:17:14,670 --> 00:17:19,190
+to a larger pool of people
+rather than you know
+
+272
+00:17:19,190 --> 00:17:24,470
+substitute the competencies
+yeah cool all right um i do
+
+273
+00:17:24,470 --> 00:17:26,970
+have some follow-up on that
+but we do also have question
+
+274
+00:17:26,970 --> 00:17:29,990
+here so let's get back
+to the question um we're
+
+275
+00:17:29,990 --> 00:17:33,930
+trying to define team roles
+for d3 and d4 but in practice
+
+276
+00:17:33,930 --> 00:17:36,650
+it seems likely that on
+four of us will contribute
+
+277
+00:17:36,650 --> 00:17:39,490
+of course on areas rather
+than having strictly separated
+
+278
+00:17:39,490 --> 00:17:43,030
+responsibilities is it
+acceptable if roles are
+
+279
+00:17:43,030 --> 00:17:46,270
+defined primarily for
+coordination purposes where actual
+
+280
+00:17:46,270 --> 00:17:49,510
+work is more collaborative
+and overlapping are you
+
+281
+00:17:49,510 --> 00:17:52,670
+expecting clearly isolated
+ownership per role well um
+
+282
+00:17:52,670 --> 00:17:56,910
+this is exactly what what
+we want to um to to teach
+
+283
+00:17:56,910 --> 00:18:00,330
+is that is a collaborative
+and it is it's not like hand
+
+284
+00:18:00,330 --> 00:18:03,930
+off and then you do you
+do you if the project fail
+
+285
+00:18:03,930 --> 00:18:07,630
+is and it is your area it's
+because of your fault right
+
+286
+00:18:07,630 --> 00:18:10,350
+not not finger pointing
+like that so exactly like
+
+287
+00:18:10,350 --> 00:18:15,030
+you mentioned is more about
+uh we have accountability,
+
+288
+00:18:15,390 --> 00:18:16,450
+responsibility,
+
+289
+00:18:17,090 --> 00:18:21,970
+and some others like
+collaborative or something,
+
+290
+00:18:21,970 --> 00:18:25,950
+right? So, yes, you can
+define the role as the primary
+
+291
+00:18:25,950 --> 00:18:32,030
+coordination or some,
+let's say, accountability.
+
+292
+00:18:32,190 --> 00:18:33,030
+But, yes,
+
+293
+00:18:34,590 --> 00:18:37,910
+anybody in the team can and
+
+294
+00:18:37,910 --> 00:18:39,950
+should collaborate. great.
+
+295
+00:18:41,930 --> 00:18:45,490
+In the industry, we
+call them full-stack
+
+296
+00:18:45,490 --> 00:18:48,530
+employee or full
+-stack team member, but
+
+297
+00:18:48,530 --> 00:18:51,150
+that is exactly what
+you should be doing.
+
+298
+00:18:55,210 --> 00:19:00,490
+Next question, then is a
+link to another ad post?
+
+299
+00:19:03,210 --> 00:19:10,810
+Project plan has
+some generic software
+
+300
+00:19:10,810 --> 00:19:14,070
+dev activities, but
+according to video, the
+
+301
+00:19:14,070 --> 00:19:16,210
+project plan is
+supposed to be indexed
+
+302
+00:19:16,210 --> 00:19:19,750
+by inception and names
+that are on video,
+
+303
+00:19:19,930 --> 00:19:23,570
+which nomenclature is expected
+
+304
+00:19:23,570 --> 00:19:26,670
+in the project plan activity.
+
+305
+00:19:28,650 --> 00:19:32,310
+To the working section,
+the access provide
+
+306
+00:19:32,310 --> 00:19:35,370
+description and trans-criteria,
+sit-criteria, I guess.
+
+307
+00:19:35,450 --> 00:19:37,990
+What activity is
+supposed to be, are
+
+308
+00:19:37,990 --> 00:19:40,530
+these activities supposed
+to be traditional
+
+309
+00:19:40,530 --> 00:19:42,330
+software development
+activities,
+
+310
+00:19:43,190 --> 00:19:44,750
+modeling requirements?
+
+311
+00:19:47,330 --> 00:19:52,410
+So they can be mapped
+together anyway, right?
+
+312
+00:19:52,410 --> 00:20:00,470
+And if the assignment is
+just as simple as copy
+
+313
+00:20:00,470 --> 00:20:04,910
+and paste from the lecture
+to the assignment, it
+
+314
+00:20:04,910 --> 00:20:13,890
+doesn't assess your
+learning. So the naming is
+
+315
+00:20:13,890 --> 00:20:20,910
+not as important as the
+mapping of the description
+
+316
+00:20:20,910 --> 00:20:24,550
+and also entrance criteria
+and exit criteria.
+
+317
+00:20:24,550 --> 00:20:27,530
+So in short, yeah,
+you can use the
+
+318
+00:20:27,530 --> 00:20:30,770
+inception and others,
+but you can also
+
+319
+00:20:30,770 --> 00:20:32,870
+do the business
+modeling, et cetera,
+
+320
+00:20:32,870 --> 00:20:35,550
+as long as the description
+
+321
+00:20:35,550 --> 00:20:38,170
+entrance criteria
+and exit criteria
+
+322
+00:20:39,530 --> 00:20:42,110
+covers all needed information,
+
+323
+00:20:42,230 --> 00:20:47,950
+again, such that if you
+hand over this plan to
+
+324
+00:20:47,950 --> 00:20:50,930
+all the team members, or
+if you have a new team
+
+325
+00:20:50,930 --> 00:20:55,210
+member joining, they
+can easily onboard it.
+
+326
+00:20:58,670 --> 00:21:02,090
+So another logistic
+question, do we need to
+
+327
+00:21:02,090 --> 00:21:03,910
+implement persistence
+for the application
+
+328
+00:21:03,910 --> 00:21:07,910
+data, job offers and
+comparison settings,
+
+329
+00:21:09,230 --> 00:21:17,010
+well, first of all, if it
+is defined in the assignment
+
+330
+00:21:17,450 --> 00:21:22,410
+file instruction, then
+of course you have to.
+
+331
+00:21:22,530 --> 00:21:24,670
+Otherwise, it's up to the team
+
+332
+00:21:24,670 --> 00:21:27,590
+because this is
+implementation detail.
+
+333
+00:21:28,910 --> 00:21:34,110
+And also persistence here,
+it means a lot of things,
+
+334
+00:21:34,110 --> 00:21:39,670
+right? It can be whether
+within the same section, I go
+
+335
+00:21:39,670 --> 00:21:42,390
+from one page to another page
+and go back, whether it's
+
+336
+00:21:42,390 --> 00:21:48,570
+still there. Or you mean
+that after the user opens the
+
+337
+00:21:48,570 --> 00:21:51,350
+app, close the app and
+open again, that's another
+
+338
+00:21:51,350 --> 00:21:56,090
+case. And sometimes persistence,
+even after the user delete
+
+339
+00:21:56,090 --> 00:21:58,630
+the application and later
+install the application.
+
+340
+00:21:59,470 --> 00:22:01,710
+I believe,
+
+341
+00:22:02,280 --> 00:22:06,750
+well, I don't want to
+answer if I don't remember
+
+342
+00:22:06,750 --> 00:22:16,530
+100%, but in the past, a
+lot of teams get points
+
+343
+00:22:16,530 --> 00:22:21,070
+deducted because they were
+using local persistence
+
+344
+00:22:21,070 --> 00:22:23,950
+and they did not
+initialize it correctly.
+
+345
+00:22:23,950 --> 00:22:29,790
+that is after the TA
+installed the app and opened
+
+346
+00:22:29,790 --> 00:22:32,730
+the app, it crashed
+immediately, and most of the
+
+347
+00:22:32,730 --> 00:22:38,070
+time it crashed because
+SQLite known something,
+
+348
+00:22:38,130 --> 00:22:40,910
+that is the local
+persistent, it's not
+
+349
+00:22:40,910 --> 00:22:44,730
+initialized correctly.
+So remember, if the
+
+350
+00:22:44,730 --> 00:22:49,530
+team has that kind
+of local persistence,
+
+351
+00:22:50,630 --> 00:22:52,450
+make sure that you initialize
+
+352
+00:22:52,450 --> 00:22:54,510
+correctly. Most of the time,
+
+353
+00:22:55,330 --> 00:22:57,750
+the team installs once and
+
+354
+00:22:57,750 --> 00:22:59,950
+then just keep working on that.
+
+355
+00:22:59,950 --> 00:23:02,430
+And then they don't
+realize the first
+
+356
+00:23:02,790 --> 00:23:06,210
+initialization is
+the problem as well.
+
+357
+00:23:09,850 --> 00:23:12,910
+Next question, can we
+assume that we only need
+
+358
+00:23:12,910 --> 00:23:15,950
+to support one device time?
+Where should we define
+
+359
+00:23:15,950 --> 00:23:17,910
+supported device
+assumption and constraint?
+
+360
+00:23:19,690 --> 00:23:24,810
+Yes, in assignment
+4, I think we
+
+361
+00:23:24,810 --> 00:23:29,130
+specify pixel 6
+or pixel 8, right?
+
+362
+00:23:29,230 --> 00:23:31,470
+Where should we define
+supported device?
+
+363
+00:23:31,470 --> 00:23:33,630
+That's a good
+question. But actually,
+
+364
+00:23:33,630 --> 00:23:39,010
+in our template, in
+our GPT-1 template,
+
+365
+00:23:39,010 --> 00:23:44,770
+we already have somewhere.
+I don't remember the
+
+366
+00:23:45,350 --> 00:23:48,310
+top of my head right
+now. But yes, you should
+
+367
+00:23:48,310 --> 00:23:51,470
+define all those
+assumptions and constraints.
+
+368
+00:23:51,910 --> 00:23:53,690
+It is in one of the templates.
+
+369
+00:23:59,050 --> 00:23:59,670
+Okay.
+
+370
+00:24:00,230 --> 00:24:05,650
+I'm probably waiting
+for more questions.
+
+371
+00:24:09,490 --> 00:24:12,370
+And now I forget what questions
+
+372
+00:24:12,370 --> 00:24:17,050
+I was trying to
+do the follow-up.
+
+373
+00:24:19,450 --> 00:24:23,730
+i can tell you i was
+wondering your opinion i was
+
+374
+00:24:23,730 --> 00:24:26,290
+talking we were talking
+about how ai can help
+
+375
+00:24:26,290 --> 00:24:31,830
+informal verification um
+and so i took for half an
+
+376
+00:24:31,830 --> 00:24:34,730
+hour and now would be
+your turn to say something
+
+377
+00:24:35,010 --> 00:24:41,090
+well i i am i am always uh
+fascinated about that um i
+
+378
+00:24:41,090 --> 00:24:47,290
+i once used toa plus for a
+small part um as the formal
+
+379
+00:24:47,290 --> 00:24:51,070
+verification but unfortunately
+uh during my whole
+
+380
+00:24:51,070 --> 00:24:57,190
+career i worked mostly in
+in startup or basically non
+
+381
+00:24:57,190 --> 00:25:02,870
+-critical um application so
+it's it's not required and
+
+382
+00:25:02,870 --> 00:25:06,630
+because it's not required then
+when when when something is
+
+383
+00:25:06,630 --> 00:25:09,510
+nice to have it's definitely
+mean you won't have it.
+
+384
+00:25:11,750 --> 00:25:15,110
+You know the only time in
+my life I work in the real
+
+385
+00:25:15,110 --> 00:25:17,750
+world this is how I talk
+about my career right there
+
+386
+00:25:17,750 --> 00:25:22,170
+like you know I think I
+think working in academia is
+
+387
+00:25:22,170 --> 00:25:25,810
+very fascinating because you
+talk about with people that
+
+388
+00:25:25,810 --> 00:25:27,890
+work in the real world
+you know like we have our
+
+389
+00:25:27,890 --> 00:25:32,270
+advisory board all the
+collaborators but but when I was I
+
+390
+00:25:32,270 --> 00:25:36,690
+did a postdoc I was still
+in Europe and we brought the
+
+391
+00:25:36,690 --> 00:25:39,670
+verification we did all
+the verification for this
+
+392
+00:25:39,670 --> 00:25:43,550
+software that was very
+fascinating they was checking the
+
+393
+00:25:43,550 --> 00:25:49,270
+validity of bills like
+money like to check if they
+
+394
+00:25:49,270 --> 00:25:52,110
+are valid or not so there is
+this software and they were
+
+395
+00:25:52,110 --> 00:25:54,870
+checking all certain criteria
+that you couldn't you
+
+396
+00:25:54,870 --> 00:25:58,130
+know this machine has you
+know like for to avoid that
+
+397
+00:25:58,130 --> 00:26:02,410
+people introduce and i was
+like if i make some mistake
+
+398
+00:26:02,410 --> 00:26:05,950
+here it's gonna be a
+disaster it's like i was like
+
+399
+00:26:05,950 --> 00:26:10,250
+it's gonna be like europe
+we just crash out of all the
+
+400
+00:26:10,250 --> 00:26:14,350
+millions of euros and it's
+my fault i don't know if i
+
+401
+00:26:14,350 --> 00:26:18,730
+want to do this like i don't
+know give me an example
+
+402
+00:26:18,730 --> 00:26:22,390
+just just just find somebody
+else because you know there
+
+403
+00:26:22,390 --> 00:26:25,590
+is a piece that you need
+to do some you know even
+
+404
+00:26:25,590 --> 00:26:28,190
+when you say okay this is
+a safe obstruction or this
+
+405
+00:26:28,190 --> 00:26:31,630
+it's a manual proof and you
+know people make mistakes
+
+406
+00:26:31,630 --> 00:26:37,010
+it's just but for now i don't
+know we sign a lot of paper
+
+407
+00:26:37,010 --> 00:26:40,210
+i think it was part of
+my contract as postdoc it
+
+408
+00:26:40,210 --> 00:26:44,830
+lasted a year so and then i
+went to and then i work on a
+
+409
+00:26:44,830 --> 00:26:48,510
+flexible manufacturing
+system very fascinating topic
+
+410
+00:26:48,930 --> 00:26:52,330
+um then then that that
+work with the the euro um
+
+411
+00:26:52,330 --> 00:26:55,990
+monday uh checking uh is it
+finally adopted or was it
+
+412
+00:26:55,990 --> 00:27:00,470
+like um deployed release i
+don't know but i mean they
+
+413
+00:27:00,470 --> 00:27:03,230
+had the machine they had
+the contract so i mean i
+
+414
+00:27:03,230 --> 00:27:07,210
+just had to do the verification
+part so like building
+
+415
+00:27:07,210 --> 00:27:11,570
+the model of the software
+like specify just i did a
+
+416
+00:27:11,570 --> 00:27:15,150
+lot of it was in fact it
+was very strange because it
+
+417
+00:27:15,150 --> 00:27:20,030
+was it was an application
+of what i knew as research
+
+418
+00:27:20,030 --> 00:27:22,790
+but it was not really a
+research but you know sometimes
+
+419
+00:27:22,790 --> 00:27:25,850
+as a postdoc you need
+something to pay for stocks
+
+420
+00:27:26,640 --> 00:27:31,450
+it was uh but it was really
+the only time in which
+
+421
+00:27:31,450 --> 00:27:33,890
+like you know i thought
+oh my god if i do some
+
+422
+00:27:33,890 --> 00:27:39,370
+mistake here i'm happy that
+i'm working as a step below
+
+423
+00:27:39,970 --> 00:27:46,370
+ruin people life okay now i
+remember what i was trying
+
+424
+00:27:46,370 --> 00:27:50,610
+to uh to ask so um right
+now uh with the with the
+
+425
+00:27:50,610 --> 00:27:54,030
+agent the the shift in the
+industry is that the the junior
+
+426
+00:27:54,030 --> 00:27:57,970
+or the fresh engineer has
+really hard time because
+
+427
+00:27:57,970 --> 00:28:03,370
+most of the company um senior
+engineers they just they
+
+428
+00:28:03,370 --> 00:28:08,290
+just manage a team of agents
+um so right now uh freshly
+
+429
+00:28:08,290 --> 00:28:12,250
+graduate our boot camp
+student uh code code boot camp
+
+430
+00:28:12,250 --> 00:28:15,370
+student they they have a
+really hard time getting
+
+431
+00:28:15,370 --> 00:28:19,390
+into into the industry um do
+you see the same or difference
+
+432
+00:28:19,390 --> 00:28:23,830
+in in other like and and
+when i say this code boot
+
+433
+00:28:23,830 --> 00:28:27,850
+camp is like web app and
+like come up commodity app
+
+434
+00:28:27,850 --> 00:28:34,350
+right um but for those high
+stack and critical path like
+
+435
+00:28:34,350 --> 00:28:42,930
+medical um nuclear aerospace
+is is the fresh fresh
+
+436
+00:28:42,930 --> 00:28:50,030
+graduate or junior engineer
+or junior people in general
+
+437
+00:28:51,630 --> 00:28:55,390
+easily being replaced and
+then only senior use the
+
+438
+00:28:55,390 --> 00:29:01,030
+use the AI tools or is more
+stable in the I think it's
+
+439
+00:29:01,030 --> 00:29:04,790
+more stable and I'm actually
+I read the see i'm reading
+
+440
+00:29:04,790 --> 00:29:07,350
+a lot i'm actually want
+i'm lying i don't read all
+
+441
+00:29:07,350 --> 00:29:11,570
+this paper but i i drive a
+lot so i create podcasts out
+
+442
+00:29:11,570 --> 00:29:15,630
+of the papers i want to
+read this is just to say uh
+
+443
+00:29:15,630 --> 00:29:18,610
+but uh so otherwise you
+think i'm spending all my day
+
+444
+00:29:18,610 --> 00:29:21,470
+reading but really i spend
+many hours driving so this
+
+445
+00:29:21,470 --> 00:29:25,390
+is how i read my papers
+but um i was reading this
+
+446
+00:29:25,390 --> 00:29:30,850
+interesting study that actually
+is done on the code generated
+
+447
+00:29:30,850 --> 00:29:36,110
+from a team of agents
+right and so i'm curious to
+
+448
+00:29:36,110 --> 00:29:38,850
+see how it's gonna go on the
+long run because apparently
+
+449
+00:29:38,850 --> 00:29:42,050
+they're not very good in
+creating maintainable code
+
+450
+00:29:43,010 --> 00:29:47,650
+and so you know it's is it
+gonna be really cheap to
+
+451
+00:29:47,650 --> 00:29:50,510
+redo things from scratch
+when you cannot maintain them
+
+452
+00:29:50,510 --> 00:29:55,450
+so uh i i think that so that
+certain industry will not
+
+453
+00:29:55,450 --> 00:30:00,430
+touch at all uh and certain
+others will have to roll
+
+454
+00:30:00,430 --> 00:30:04,230
+back a piece this is not to
+say that this is not that
+
+455
+00:30:04,230 --> 00:30:07,850
+you know agents as part of
+the team are not here for
+
+456
+00:30:07,850 --> 00:30:12,550
+staying but i think at the
+end of the day it's like when
+
+457
+00:30:12,550 --> 00:30:15,570
+you work with a team of people
+everybody's do is better
+
+458
+00:30:15,570 --> 00:30:20,090
+at doing something so i
+think that there is still a
+
+459
+00:30:20,090 --> 00:30:23,790
+lot to know of what they
+are good at doing to support
+
+460
+00:30:23,790 --> 00:30:28,450
+the human in in interaction
+right like it's a developing
+
+461
+00:30:28,450 --> 00:30:32,370
+software is a team effort
+because real software is
+
+462
+00:30:32,370 --> 00:30:36,490
+complicated and so it's
+not a single person job and
+
+463
+00:30:36,490 --> 00:30:40,650
+and and so i think we still
+don't know enough so you know
+
+464
+00:30:40,650 --> 00:30:44,210
+some company just go all
+the way and say now I have
+
+465
+00:30:44,210 --> 00:30:46,510
+a senior manager that does
+that because we can afford
+
+466
+00:30:46,510 --> 00:30:50,050
+it maybe in three years they
+realize that this was not
+
+467
+00:30:50,050 --> 00:30:53,730
+being very convenient but
+actually as a you know the
+
+468
+00:30:53,730 --> 00:30:55,990
+cost that you're saving at
+some point they'll happen
+
+469
+00:30:55,990 --> 00:30:58,310
+now certain other company
+because they have certain
+
+470
+00:30:58,310 --> 00:31:02,090
+process will not take the
+risk so it really depends it's
+
+471
+00:31:02,090 --> 00:31:05,230
+true that you know company
+are trying depending on the
+
+472
+00:31:05,230 --> 00:31:07,750
+company and the kind of
+software they are developing
+
+473
+00:31:09,030 --> 00:31:13,430
+but maintainability is
+the concepts we use before
+
+474
+00:31:13,430 --> 00:31:17,090
+the ai start writing code
+right so so what what
+
+475
+00:31:17,090 --> 00:31:20,410
+what is maintainability
+for me it's like uh when
+
+476
+00:31:20,410 --> 00:31:23,390
+the code is easy to
+maintain easy to extend that
+
+477
+00:31:23,390 --> 00:31:26,870
+is if we if i have a book
+i i look at it and i i
+
+478
+00:31:26,870 --> 00:31:30,070
+can easily see it right
+and then easy to extend I
+
+479
+00:31:30,070 --> 00:31:33,970
+don't have any, well,
+solid principle, et cetera.
+
+480
+00:31:33,970 --> 00:31:38,450
+And then when I want to
+extend a new business logic,
+
+481
+00:31:38,450 --> 00:31:40,130
+I don't have to struggle with
+
+482
+00:31:40,130 --> 00:31:42,090
+the spaghetti code, right?
+
+483
+00:31:42,150 --> 00:31:47,290
+But whether it's
+maintainable or extendable,
+
+484
+00:31:48,030 --> 00:31:50,850
+when I myself look at the
+code or when a newcomer
+
+485
+00:31:50,850 --> 00:31:53,650
+look at the code, at
+least they will, when they
+
+486
+00:31:53,650 --> 00:31:56,110
+get a new feature
+request, they look at the
+
+487
+00:31:56,110 --> 00:31:59,110
+code, oh, ****, what is
+that? And then, you know,
+
+488
+00:31:59,590 --> 00:32:03,050
+there is a ***, a metric of how
+
+489
+00:32:03,050 --> 00:32:05,750
+the code is
+maintainable, right?
+
+490
+00:32:05,790 --> 00:32:10,190
+But now, what if the
+code is now written by
+
+491
+00:32:10,190 --> 00:32:12,830
+an AI agent, of course,
+with certain human
+
+492
+00:32:13,890 --> 00:32:16,330
+approval, right? But
+then in the future, the
+
+493
+00:32:16,330 --> 00:32:19,430
+same code may be extended
+by another agent.
+
+494
+00:32:20,690 --> 00:32:24,930
+So for now, in the study
+they did, they're not that
+
+495
+00:32:24,930 --> 00:32:31,290
+very good at maintaining it
+themselves. So it was called
+
+496
+00:32:31,290 --> 00:32:34,230
+the bad, I don't remember
+the title of the paper, I
+
+497
+00:32:34,230 --> 00:32:37,370
+think it was an ICSI paper
+last year, the bad, the
+
+498
+00:32:37,370 --> 00:32:41,550
+good, the bad and the ugly,
+something like a classic,
+
+499
+00:32:41,550 --> 00:32:45,990
+you know, the title. And it
+was a study on code, like
+
+500
+00:32:45,990 --> 00:32:51,290
+with developers, and so
+we're showing what the agents
+
+501
+00:32:51,290 --> 00:32:54,710
+were good at doing and
+what they were not good at
+
+502
+00:32:54,710 --> 00:33:00,810
+doing. um and um and uh and
+it's interesting and this is
+
+503
+00:33:00,810 --> 00:33:05,670
+why i'm thinking right uh
+um that we still need to
+
+504
+00:33:05,670 --> 00:33:11,470
+know what we can um you know
+i i might be wrong right
+
+505
+00:33:11,470 --> 00:33:15,110
+but i i don't think i will
+be alive that i will be a
+
+506
+00:33:15,110 --> 00:33:19,970
+work a wording with uh
+agents can do all the things
+
+507
+00:33:19,970 --> 00:33:25,910
+without human and i actually
+think that uh and i'm at
+
+508
+00:33:25,910 --> 00:33:30,690
+every level uh but i think
+that instead the best use of
+
+509
+00:33:30,690 --> 00:33:33,690
+this would be to really keep
+studying what these agents
+
+510
+00:33:33,690 --> 00:33:37,270
+are good at supporting
+human with you know because
+
+511
+00:33:37,270 --> 00:33:39,810
+there are also so many things
+that we don't like doing
+
+512
+00:33:39,810 --> 00:33:43,330
+and so if an agent can
+support us doing them that's
+
+513
+00:33:43,330 --> 00:33:46,530
+not bad there are other things
+that are very interesting
+
+514
+00:33:46,530 --> 00:33:49,150
+you know when i was teaching
+at the beginning you
+
+515
+00:33:49,150 --> 00:33:50,910
+know at the beginning of an
+academic career you teach
+
+516
+00:33:50,910 --> 00:33:53,430
+almost everything and so of
+course i i actually really
+
+517
+00:33:53,430 --> 00:33:57,210
+like teaching basic
+computer science to you know
+
+518
+00:33:57,210 --> 00:34:00,690
+not not computer scientists
+in which i don't know i was
+
+519
+00:34:00,690 --> 00:34:03,110
+in an engineering college
+so all the engineers had
+
+520
+00:34:03,110 --> 00:34:06,190
+to learn some coding and i
+was telling them you know
+
+521
+00:34:06,190 --> 00:34:08,610
+you're thinking about coding
+like this very difficult
+
+522
+00:34:08,610 --> 00:34:12,870
+thing but it's about what
+you have to say you know you
+
+523
+00:34:12,870 --> 00:34:15,770
+can know german and if you
+have nothing to say for
+
+524
+00:34:15,770 --> 00:34:19,670
+the question that i i'm
+asking you you're not going to
+
+525
+00:34:19,670 --> 00:34:21,550
+tell it in german but you're
+not going to tell it in
+
+526
+00:34:21,550 --> 00:34:23,470
+english you're not going
+to tell it in italian right
+
+527
+00:34:23,470 --> 00:34:26,450
+and it's the same thing for
+code and don't get me wrong
+
+528
+00:34:26,450 --> 00:34:29,730
+like you know i'm it's
+it's true there is an entry
+
+529
+00:34:29,730 --> 00:34:32,490
+moment for a person that
+never opened and never coded
+
+530
+00:34:32,490 --> 00:34:37,210
+but if you don't know how
+to solve the problem it
+
+531
+00:34:37,210 --> 00:34:39,710
+doesn't really matter that
+you understand the syntax of
+
+532
+00:34:39,710 --> 00:34:43,090
+whatever programming language
+so there are pieces you
+
+533
+00:34:43,090 --> 00:34:45,150
+need to understand the
+problem you need to understand
+
+534
+00:34:45,150 --> 00:34:48,730
+how to solve it in the
+paradigm of the language you
+
+535
+00:34:48,730 --> 00:34:53,650
+have and then then then it's
+a translation job and so
+
+536
+00:34:53,900 --> 00:34:56,990
+and you know maybe if there
+is a way which you don't
+
+537
+00:34:56,990 --> 00:35:01,490
+have to learn uh the minuscule
+things that that's nice
+
+538
+00:35:01,490 --> 00:35:05,750
+it's uh it's definitely
+a nice thing but but it's
+
+539
+00:35:05,750 --> 00:35:08,810
+solving a problem and
+conceptually thinking and how to
+
+540
+00:35:08,810 --> 00:35:14,070
+break it down that's fun
+that that gives satisfaction
+
+541
+00:35:15,690 --> 00:35:22,270
+yeah okay let me take a
+look at the uh okay yeah so
+
+542
+00:35:22,270 --> 00:35:25,790
+there's no other question and
+paula i think we can we can
+
+543
+00:35:25,790 --> 00:35:28,490
+just turn our office hour
+into a kind of a podcasting
+
+544
+00:35:28,490 --> 00:35:32,830
+i was actually thinking
+myself start like i just
+
+545
+00:35:32,830 --> 00:35:36,350
+started i'm just gonna sit
+on a sofa next week and like
+
+546
+00:35:36,350 --> 00:35:45,150
+and um it's just more and
+then a microphone i don't know
+
+547
+00:35:45,150 --> 00:35:47,770
+i'm thinking we are gonna
+be transforming memes or
+
+548
+00:35:47,770 --> 00:35:51,330
+something like that but please
+guys don't do it it's just
+
+549
+00:35:52,120 --> 00:35:56,970
+okay yeah cool i think we
+can code it for the night
+
+550
+00:35:58,130 --> 00:36:01,290
+see you next week yeah see you
+
+551
+00:36:01,290 --> 00:36:04,830
+thank you all bye
+bye thank you bye
