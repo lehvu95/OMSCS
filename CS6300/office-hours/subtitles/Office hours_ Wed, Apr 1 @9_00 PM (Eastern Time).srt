@@ -1,0 +1,1671 @@
+1
+00:00:05,380 --> 00:00:09,800
+All right. Hello, everyone,
+and welcome to the
+
+2
+00:00:09,800 --> 00:00:14,120
+CS6300 Subway Development
+Process Office Hour.
+
+3
+00:00:14,120 --> 00:00:17,920
+My name is Shin, and
+with me is Tara and Will.
+
+4
+00:00:18,560 --> 00:00:19,880
+Hello, everyone.
+
+5
+00:00:20,220 --> 00:00:21,740
+Hi, everyone.
+
+6
+00:00:22,520 --> 00:00:27,100
+All right. So this is the
+first office hour after our
+
+7
+00:00:27,100 --> 00:00:31,720
+two-week break. So the
+week before, it was meeting
+
+8
+00:00:31,720 --> 00:00:36,360
+assignment six. So it was
+during communication lockdown.
+
+9
+00:00:36,760 --> 00:00:39,580
+And last week was
+the spring break,
+
+10
+00:00:39,580 --> 00:00:41,740
+well, at least spring
+break in Georgia.
+
+11
+00:00:41,820 --> 00:00:45,420
+I just made aware that
+spring break is not
+
+12
+00:00:45,420 --> 00:00:48,480
+the same week for the
+whole United States.
+
+13
+00:00:48,620 --> 00:00:52,160
+Oh, it's not even the
+same in all Georgia.
+
+14
+00:00:52,280 --> 00:00:53,160
+Okay.
+
+15
+00:00:53,160 --> 00:00:57,100
+No, but that's the official
+spring break week for
+
+16
+00:00:57,100 --> 00:01:00,180
+this year. for georgia tech
+so that's why we picked
+
+17
+00:01:00,180 --> 00:01:03,920
+this is what i'm saying
+university as their own
+
+18
+00:01:03,920 --> 00:01:07,440
+sometimes overlap and
+clearly doesn't overlap
+
+19
+00:01:07,440 --> 00:01:10,660
+with kids with kids spring
+break that is different
+
+20
+00:01:10,660 --> 00:01:13,540
+by county so yeah oh yeah
+new hampshire is weird
+
+21
+00:01:13,540 --> 00:01:15,800
+because we have a tab
+because we have so much snow
+
+22
+00:01:15,900 --> 00:01:18,220
+uh they have a tendency to have
+
+23
+00:01:18,220 --> 00:01:20,800
+uh the break a little bit later
+
+24
+00:01:22,360 --> 00:01:26,260
+um so ours is different than
+most states for some reason
+
+25
+00:01:26,260 --> 00:01:28,920
+so there is maybe there
+is at least one flower
+
+26
+00:01:28,920 --> 00:01:35,460
+somewhere exactly anyway anyway
+um not what people are here
+
+27
+00:01:35,460 --> 00:01:41,640
+to hear so let's see for the
+schedule this week students
+
+28
+00:01:41,640 --> 00:01:44,920
+are supposed to watch
+p4l4 i share development
+
+29
+00:01:44,920 --> 00:01:51,120
+methods lecture and been
+working on individual projects,
+
+30
+00:01:51,300 --> 00:01:59,280
+deliverable one, so APD1,
+and we already closed,
+
+31
+00:01:59,280 --> 00:02:05,040
+supposedly closed ASICs
+last week during Spring
+
+32
+00:02:05,040 --> 00:02:08,340
+Break, well, no, the
+week before, however,
+
+33
+00:02:08,340 --> 00:02:17,520
+there are some accommodation
+that the students will
+
+34
+00:02:17,520 --> 00:02:20,740
+some students are still
+working on that now
+
+35
+00:02:20,740 --> 00:02:26,960
+so that is the reason we
+not do the live solution
+
+36
+00:02:26,960 --> 00:02:32,340
+walkthrough of ASICS
+today but it is our plan
+
+37
+00:02:32,340 --> 00:02:36,160
+to have a six solution
+book through next
+
+38
+00:02:36,160 --> 00:02:39,920
+week because i think
+it is the the last case
+
+39
+00:02:39,920 --> 00:02:43,080
+of accommodation and we
+expect the submission
+
+40
+00:02:43,080 --> 00:02:49,900
+very soon and a
+blue project rate is
+
+41
+00:02:50,760 --> 00:02:55,720
+more as ready it needs my
+final uh verification and i
+
+42
+00:02:55,720 --> 00:03:00,580
+will push and students have
+uh first two weeks for any
+
+43
+00:03:00,580 --> 00:03:09,980
+grade request for a sixth
+grade we will release it um
+
+44
+00:03:10,880 --> 00:03:15,140
+during during next wednesday
+so we probably before
+
+45
+00:03:15,140 --> 00:03:19,680
+probably or maybe after but
+definitely be during the
+
+46
+00:03:19,680 --> 00:03:25,300
+day that we have the solution
+because it is for any
+
+47
+00:03:25,300 --> 00:03:30,160
+students who want to make
+a request on assignment
+
+48
+00:03:30,160 --> 00:03:34,940
+six it is explicitly
+required for the students to
+
+49
+00:03:34,940 --> 00:03:39,380
+acknowledge that they have
+watched the whole solution
+
+50
+00:03:39,380 --> 00:03:43,360
+and understand it before
+making the request it's
+
+51
+00:03:43,360 --> 00:03:47,460
+a standard to reduce any
+so called false positive or
+
+52
+00:03:47,460 --> 00:03:51,640
+noisy requests just because
+that hey can you look
+
+53
+00:03:51,640 --> 00:03:56,500
+at my submission well we
+cannot just give a blanket
+
+54
+00:03:56,500 --> 00:04:01,140
+regret as you don't have
+to specifically point out
+
+55
+00:04:01,140 --> 00:04:05,740
+what they think is
+an erroneous trading
+
+56
+00:04:05,740 --> 00:04:12,400
+decision okay so with
+that i think we can
+
+57
+00:04:12,760 --> 00:04:16,340
+go to the OH question for now.
+
+58
+00:04:29,600 --> 00:04:31,760
+You have just
+muted yourself, so
+
+59
+00:04:31,760 --> 00:04:33,300
+now they're not
+hearing you anymore.
+
+60
+00:04:33,860 --> 00:04:35,040
+**** it.
+
+61
+00:04:35,340 --> 00:04:37,900
+I was saying, first of
+all, happy April phones.
+
+62
+00:04:37,900 --> 00:04:42,040
+It was the first comment
+on the OH thread.
+
+63
+00:04:42,340 --> 00:04:45,000
+Yeah, I already
+explained the reason
+
+64
+00:04:45,000 --> 00:04:47,760
+we skipped the data source OH.
+
+65
+00:04:48,720 --> 00:04:52,180
+As for the next
+
+66
+00:04:52,840 --> 00:04:57,020
+students questions this is
+a true practice is there
+
+67
+00:04:57,020 --> 00:04:59,520
+an expected or approximate
+number of lines in
+
+68
+00:04:59,520 --> 00:05:02,680
+our cut part to ensure we
+have sufficient coverage
+
+69
+00:05:06,480 --> 00:05:10,880
+and just didn't already
+answer yeah we don't have
+
+70
+00:05:10,880 --> 00:05:17,720
+any uh well i mean um
+students can do as long
+
+71
+00:05:17,720 --> 00:05:22,520
+as car props, but our IPD1
+requirements specifically
+
+72
+00:05:22,520 --> 00:05:27,020
+have the link number,
+I think it's 50 to 90
+
+73
+00:05:27,400 --> 00:05:31,320
+test cases. So the
+longer you write
+
+74
+00:05:31,320 --> 00:05:34,460
+the car property,
+the less likely you
+
+75
+00:05:34,460 --> 00:05:39,240
+will contain within
+maximum test cases.
+
+76
+00:05:40,140 --> 00:05:43,980
+But also, I mean, make sure
+you're using it properly
+
+77
+00:05:43,980 --> 00:05:48,240
+because Because people
+don't always, sometimes
+
+78
+00:05:48,240 --> 00:05:54,620
+people sort of try and
+shortchange around what it's
+
+79
+00:05:54,620 --> 00:05:58,060
+supposed to do for you,
+and that will not do very
+
+80
+00:05:58,060 --> 00:06:02,060
+well for your grading. If
+you try and brute force
+
+81
+00:06:02,060 --> 00:06:04,300
+things that the tool is
+supposed to be doing for
+
+82
+00:06:04,300 --> 00:06:08,720
+you, that will probably
+harm your grade quite a bit.
+
+83
+00:06:12,720 --> 00:06:18,020
+um and see solution yeah
+okay and uh the second
+
+84
+00:06:18,020 --> 00:06:21,640
+question is already
+i'm just in already
+
+85
+00:06:21,640 --> 00:06:25,420
+answer that is i also
+just need to reiterate
+
+86
+00:06:25,420 --> 00:06:29,480
+that is true that there
+is no one right answer
+
+87
+00:06:29,660 --> 00:06:32,360
+on the other hand
+there are definitely
+
+88
+00:06:32,360 --> 00:06:36,240
+wrong wrong solution
+as well so usually
+
+89
+00:06:36,640 --> 00:06:39,100
+students get deducted
+for wrong solution
+
+90
+00:06:39,100 --> 00:06:44,900
+not that they not that
+they don't have the
+
+91
+00:06:45,120 --> 00:06:47,900
+single resolution
+that the operator is
+
+92
+00:06:47,900 --> 00:06:52,200
+looking at we do have
+rubric so we do have
+
+93
+00:06:52,920 --> 00:06:56,680
+the the list of the
+the laundry list of
+
+94
+00:06:56,680 --> 00:07:00,480
+okay does the solution
+have this aspect
+
+95
+00:07:00,480 --> 00:07:03,300
+or consider this
+edge case, et cetera,
+
+96
+00:07:03,500 --> 00:07:07,360
+but yeah, we don't have
+a single solution. It's
+
+97
+00:07:07,360 --> 00:07:10,930
+the same thing, the rubric
+itself is composable,
+
+98
+00:07:10,930 --> 00:07:12,860
+just like the test
+cases as well, so
+
+99
+00:07:12,860 --> 00:07:15,340
+we compose multiple
+angles, and each
+
+100
+00:07:15,340 --> 00:07:19,980
+of them has specific
+weight to that.
+
+101
+00:07:22,100 --> 00:07:26,060
+Yeah, there are several
+correct ways, there
+
+102
+00:07:26,060 --> 00:07:28,900
+are several ways to do
+it correctly, but there
+
+103
+00:07:28,900 --> 00:07:30,920
+are also several ways
+to do it incorrectly.
+
+104
+00:07:35,880 --> 00:07:41,720
+Okay. And that's all the
+questions for now. So
+
+105
+00:07:41,720 --> 00:07:47,240
+what topic should the
+podcast today talk about?
+
+106
+00:07:47,400 --> 00:07:48,340
+Well,
+
+107
+00:07:49,290 --> 00:07:52,300
+can we, we have to do
+something to keep Paola awake.
+
+108
+00:07:53,620 --> 00:07:54,660
+well
+
+109
+00:07:55,160 --> 00:07:56,660
+for sure
+
+110
+00:07:58,000 --> 00:08:01,800
+recently well I just
+followed the news and
+
+111
+00:08:01,800 --> 00:08:06,120
+flow code just leaked
+the whole code base
+
+112
+00:08:06,120 --> 00:08:09,320
+in there and somebody
+was saying that is
+
+113
+00:08:09,600 --> 00:08:13,920
+ironically that the company
+who say oh yeah developer
+
+114
+00:08:13,920 --> 00:08:17,520
+is going to lose the job
+within six months now has
+
+115
+00:08:17,520 --> 00:08:21,380
+the AI slot of just linking
+the whole artifact online
+
+116
+00:08:23,380 --> 00:08:24,700
+okay see
+
+117
+00:08:29,570 --> 00:08:31,530
+we're just waiting to
+see if anybody asks
+
+118
+00:08:31,530 --> 00:08:33,410
+more questions is that
+what we're doing here
+
+119
+00:08:33,850 --> 00:08:40,630
+yep um try to get more
+okay so um will what's
+
+120
+00:08:40,630 --> 00:08:44,810
+your favorite um a west
+operation system to
+
+121
+00:08:44,810 --> 00:08:47,830
+work with let's say in
+in your personal daily
+
+122
+00:08:47,830 --> 00:08:54,610
+life or with uh when
+you are working um i'm a
+
+123
+00:08:54,610 --> 00:08:56,510
+big fan i think that
+there's our three choices,
+
+124
+00:08:56,510 --> 00:08:59,530
+right? There's Linux.
+I'm a big fan of Linux.
+
+125
+00:09:00,590 --> 00:09:03,770
+In point of fact, because
+most of what I'm doing
+
+126
+00:09:03,770 --> 00:09:06,090
+nowadays isn't development,
+most of what I'm doing
+
+127
+00:09:06,090 --> 00:09:09,170
+nowadays is just a user.
+I tend to mostly use
+
+128
+00:09:09,170 --> 00:09:13,110
+Windows because a lot of
+stuff is not necessarily
+
+129
+00:09:13,110 --> 00:09:16,350
+built for Linux, and it
+doesn't run properly on
+
+130
+00:09:16,350 --> 00:09:18,430
+Linux, and it's a pain
+to install it on Linux.
+
+131
+00:09:18,430 --> 00:09:22,430
+So So I tend to run
+Windows and then I have the
+
+132
+00:09:23,040 --> 00:09:26,330
+Windows or Linux subsystem
+on Windows or whatever
+
+133
+00:09:26,330 --> 00:09:29,610
+it's called installed so
+I can sort of do both.
+
+134
+00:09:30,770 --> 00:09:33,450
+So all of my grading
+and stuff I try and
+
+135
+00:09:33,450 --> 00:09:35,430
+do in Linux because
+I like that better.
+
+136
+00:09:36,830 --> 00:09:41,210
+But when I'm just browsing
+and playing games and
+
+137
+00:09:41,210 --> 00:09:42,970
+that sort of stuff, most
+of that's on Windows.
+
+138
+00:09:44,750 --> 00:09:45,830
+What about you?
+
+139
+00:09:46,430 --> 00:09:51,670
+the reason i'm asking because
+you don't have to keep
+
+140
+00:09:51,670 --> 00:09:54,630
+me out and be worried about
+me i can also answer but
+
+141
+00:09:54,630 --> 00:09:57,970
+it's gonna be an awful answer
+because i'm the average
+
+142
+00:09:57,970 --> 00:10:02,230
+person have you ever heard
+about this study on people and
+
+143
+00:10:02,230 --> 00:10:05,190
+usability that even if you
+are unhappy with something
+
+144
+00:10:05,190 --> 00:10:08,870
+when you get used to it it's
+very difficult to change
+
+145
+00:10:08,870 --> 00:10:12,790
+so at some point of my life
+they gave me a mac and i
+
+146
+00:10:12,790 --> 00:10:18,190
+cannot get out of it so now
+all my life is on that i'm
+
+147
+00:10:18,190 --> 00:10:22,130
+the average user so i got
+something even when i'm not
+
+148
+00:10:22,130 --> 00:10:28,030
+fully satisfied i stay there
+yeah well i mean not getting
+
+149
+00:10:28,030 --> 00:10:33,130
+out of mac is a lot of
+windows user experience as
+
+150
+00:10:33,130 --> 00:10:35,750
+well that's that's what i
+heard so they decided there's
+
+151
+00:10:35,750 --> 00:10:38,270
+a windows and then sometimes
+actually that that's my
+
+152
+00:10:38,270 --> 00:10:42,870
+my story i actually have i
+was a windows user when i
+
+153
+00:10:42,870 --> 00:10:46,290
+was a student and then during
+the student time undergraduate
+
+154
+00:10:46,290 --> 00:10:49,410
+student time i tried
+hacking those you know like
+
+155
+00:10:49,410 --> 00:10:53,990
+running mac os on uh the mac
+hardware and then i spent
+
+156
+00:10:53,990 --> 00:10:57,510
+like two months doing the
+hacking those and at some
+
+157
+00:10:57,510 --> 00:11:00,890
+point i just like mac os and
+the way it is working and
+
+158
+00:11:00,890 --> 00:11:04,710
+then i pay premium just to
+get the the MacBook so that
+
+159
+00:11:04,710 --> 00:11:09,110
+I don't have to hack it all
+the way to hack in those.
+
+160
+00:11:09,430 --> 00:11:12,150
+Just so you know, there
+are some more questions.
+
+161
+00:11:14,350 --> 00:11:16,790
+Thanks for keeping that.
+
+162
+00:11:19,270 --> 00:11:24,330
+There is one student
+asked piggyback questions.
+
+163
+00:11:24,510 --> 00:11:27,110
+What's an example of
+the wrong way? I saw
+
+164
+00:11:27,110 --> 00:11:29,730
+the calculator example
+and seems to be along
+
+165
+00:11:29,730 --> 00:11:32,650
+the lines of don't
+change the function.
+
+166
+00:11:32,870 --> 00:11:37,870
+So the example of the wrong
+way, either you should be
+
+167
+00:11:37,870 --> 00:11:42,490
+able to think or manifest
+yourself, or you have to
+
+168
+00:11:42,490 --> 00:11:46,210
+wait, or you have to make a
+mistake and get the points
+
+169
+00:11:46,210 --> 00:11:51,330
+deducted for that. Because
+if we are making any example
+
+170
+00:11:51,330 --> 00:11:55,190
+for this specific assignment,
+then it is already
+
+171
+00:11:55,290 --> 00:12:01,350
+regretting, which could be
+unfair for all the students. Just
+
+172
+00:12:01,350 --> 00:12:05,470
+remember what the tool is
+supposed to do for you and
+
+173
+00:12:09,390 --> 00:12:12,330
+make sure you're using it
+the way it should be done.
+
+174
+00:12:14,890 --> 00:12:17,910
+And if you look at the
+output from it and you start
+
+175
+00:12:17,910 --> 00:12:21,930
+going, hey, this isn't
+really generating. uh i
+
+176
+00:12:21,930 --> 00:12:24,410
+mean the the worst mistake
+that i one of the worst
+
+177
+00:12:24,410 --> 00:12:26,610
+mistakes i see and this
+is general enough that i
+
+178
+00:12:26,610 --> 00:12:31,710
+think we can say it is
+being so generic with your
+
+179
+00:12:31,710 --> 00:12:34,870
+various different partitions
+and stuff that it doesn't
+
+180
+00:12:34,870 --> 00:12:38,630
+that the the generated
+test frames don't actually
+
+181
+00:12:38,630 --> 00:12:41,970
+lead themselves to anything
+specific right and if
+
+182
+00:12:41,970 --> 00:12:44,590
+you do something like
+that and there's no way to
+
+183
+00:12:44,590 --> 00:12:47,370
+verify that any test frame
+that you write really
+
+184
+00:12:47,370 --> 00:12:51,230
+matches the test frame that
+was generated or test case
+
+185
+00:12:51,230 --> 00:12:54,170
+that you write matches
+the generated test frame,
+
+186
+00:12:54,450 --> 00:12:56,610
+you won't get points
+for it. Because if you
+
+187
+00:12:56,610 --> 00:12:59,150
+can't be wrong, if you
+can't be right, then you
+
+188
+00:12:59,150 --> 00:13:01,730
+can't be wrong, right?
+So make sure it is
+
+189
+00:13:01,730 --> 00:13:05,850
+specific enough that a test
+frame very specifically
+
+190
+00:13:05,850 --> 00:13:08,230
+tells you what your
+test is supposed to be.
+
+191
+00:13:09,470 --> 00:13:11,430
+I think that's fair, right?
+
+192
+00:13:14,130 --> 00:13:15,670
+Cool. Okay,
+
+193
+00:13:15,810 --> 00:13:18,770
+the next question.
+
+194
+00:13:18,910 --> 00:13:21,830
+Thank you. If you
+can give some advice
+
+195
+00:13:21,830 --> 00:13:24,870
+on how not to overthink
+the assignment.
+
+196
+00:13:28,210 --> 00:13:32,250
+How to not overthink
+this assignment.
+
+197
+00:13:32,670 --> 00:13:35,830
+Will, I think it's on
+the same thought chain.
+
+198
+00:13:36,130 --> 00:13:39,460
+Do you have any advice?
+
+199
+00:13:39,750 --> 00:13:42,190
+I think kind of what
+we just did is, is
+
+200
+00:13:42,190 --> 00:13:44,410
+sort of it, you
+know, it's, it's, um,
+
+201
+00:13:44,950 --> 00:13:47,610
+I mean, it's, it's,
+it's not rocket science.
+
+202
+00:13:47,610 --> 00:13:50,990
+The tool is not
+anything other than,
+
+203
+00:13:51,670 --> 00:13:54,650
+you know, what it is. It's,
+it's, there's no, there's
+
+204
+00:13:54,650 --> 00:13:57,930
+no hidden thing behind
+it. There's not something
+
+205
+00:13:57,930 --> 00:13:59,770
+that you're, oh, let's
+see who's smart enough to
+
+206
+00:13:59,770 --> 00:14:02,170
+find the little, you know,
+Easter egg or something in
+
+207
+00:14:02,170 --> 00:14:05,610
+it. It's, it's a
+straightforward tool, but just
+
+208
+00:14:05,610 --> 00:14:07,990
+make sure you're using it
+the way it should be used.
+
+209
+00:14:11,510 --> 00:14:15,330
+okay next question in
+part two can i import
+
+210
+00:14:15,330 --> 00:14:18,850
+library slide share unit
+in my main test server
+
+211
+00:14:18,990 --> 00:14:23,170
+um you can test it yourself
+again um just to spend
+
+212
+00:14:23,170 --> 00:14:27,230
+the answer if grayscope
+allow you to do so then yes
+
+213
+00:14:27,230 --> 00:14:32,970
+you can do so um in the
+past there were some kind of
+
+214
+00:14:32,970 --> 00:14:39,110
+stress test or ***********
+for the student that did
+
+215
+00:14:39,110 --> 00:14:47,290
+not follow the instructor
+intention for which we
+
+216
+00:14:47,290 --> 00:14:51,070
+applauded the students and
+give them some extra points.
+
+217
+00:14:51,230 --> 00:14:55,270
+So, but in general,
+we already hardened
+
+218
+00:14:55,270 --> 00:14:58,330
+the Grayscope, so if
+it allows you to import
+
+219
+00:14:58,330 --> 00:15:00,630
+and run it, then
+yeah, just go for it.
+
+220
+00:15:03,870 --> 00:15:10,290
+also for also for part two
+next question uh do we need
+
+221
+00:15:10,290 --> 00:15:13,350
+manually write test case
+or do we need a tool in
+
+222
+00:15:13,350 --> 00:15:17,690
+part one we yeah so in part
+two uh you would manually
+
+223
+00:15:17,690 --> 00:15:22,070
+write a test case based
+on the generated frame um
+
+224
+00:15:22,070 --> 00:15:27,130
+again manually right here
+means manually right not even
+
+225
+00:15:27,130 --> 00:15:31,650
+ai assisted uh yeah test
+writing because it is the
+
+226
+00:15:31,650 --> 00:15:34,750
+cross syllabus um if we
+are going to update that
+
+227
+00:15:34,750 --> 00:15:38,270
+syllabus in the future that
+would be the future semester
+
+228
+00:15:38,270 --> 00:15:42,870
+not this one um i i acknowledge
+that in the industry
+
+229
+00:15:42,870 --> 00:15:49,370
+right now um it is likely
+that if you um if you have
+
+230
+00:15:49,370 --> 00:15:53,910
+such test frame generated
+it's more or less trivial
+
+231
+00:15:54,150 --> 00:16:00,350
+to collect uh letter ai to
+help you write those test
+
+232
+00:16:00,350 --> 00:16:05,270
+cases again that is not
+acceptable in this course but
+
+233
+00:16:05,270 --> 00:16:09,050
+you might find it in the
+industry however just uh
+
+234
+00:16:09,050 --> 00:16:13,270
+unsolicited advice if you are
+doing that in the industry
+
+235
+00:16:13,270 --> 00:16:18,410
+make sure that at least
+you read it afterwards you
+
+236
+00:16:18,410 --> 00:16:22,690
+read the the general test
+cases afterwards just like
+
+237
+00:16:22,690 --> 00:16:29,730
+um the being the because
+the ta um in this case will
+
+238
+00:16:29,730 --> 00:16:34,450
+also read your test frame
+and the uh the written test
+
+239
+00:16:34,450 --> 00:16:36,970
+case make sure the test
+frames match the test case
+
+240
+00:16:36,970 --> 00:16:40,690
+semantics yep and and and
+that by the way is another
+
+241
+00:16:40,690 --> 00:16:45,370
+thing every semester there's
+at least a couple of people
+
+242
+00:16:45,370 --> 00:16:48,450
+that think they're going
+to be really, really smart
+
+243
+00:16:48,450 --> 00:16:53,190
+and write a parser that
+parses the results and
+
+244
+00:16:53,240 --> 00:16:56,350
+automatically runs the test
+frame. So each test frame is
+
+245
+00:16:56,350 --> 00:16:59,530
+just run frame one, run
+frame two, run frame three,
+
+246
+00:16:59,530 --> 00:17:01,620
+and then the thing parses
+it and runs everything. And
+
+247
+00:17:01,620 --> 00:17:04,110
+that's really slick and it's
+really cool and you don't
+
+248
+00:17:04,110 --> 00:17:05,990
+get any points for it
+because you didn't write the
+
+249
+00:17:05,990 --> 00:17:10,050
+tests. So just be aware
+of that. If you try and do
+
+250
+00:17:10,050 --> 00:17:12,090
+that, that's a lot of work
+you're going to do. And in
+
+251
+00:17:12,090 --> 00:17:14,410
+the real world, that might
+work really well. But for
+
+252
+00:17:14,410 --> 00:17:17,750
+the purpose of this assignment,
+that will not get you
+
+253
+00:17:17,750 --> 00:17:20,110
+points and you will not be
+happy with the result. So
+
+254
+00:17:20,110 --> 00:17:23,530
+do not do that. Write them
+manually. I know it's a
+
+255
+00:17:23,530 --> 00:17:26,710
+pain writing 50 to 90 tests,
+but write them manually.
+
+256
+00:17:27,570 --> 00:17:29,890
+You know, I mean,
+there's a fair amount of
+
+257
+00:17:30,380 --> 00:17:33,350
+cut and pasting you can
+do for most of them,
+
+258
+00:17:33,890 --> 00:17:37,450
+you know, and just change
+arguments and change
+
+259
+00:17:37,450 --> 00:17:39,750
+inputs and change outputs
+and that sort of thing.
+
+260
+00:17:40,330 --> 00:17:43,390
+So it shouldn't be as
+hard as writing, you
+
+261
+00:17:43,390 --> 00:17:46,840
+know, 50 to 90 completely
+separate tests,
+
+262
+00:17:47,810 --> 00:17:50,950
+but write them yourself,
+write them specifically,
+
+263
+00:17:50,950 --> 00:17:53,450
+because if you have
+anything that parses
+
+264
+00:17:53,450 --> 00:17:55,590
+and generates, you won't
+get points for that.
+
+265
+00:17:58,450 --> 00:18:00,530
+Which is too bad, because
+it's really kind of
+
+266
+00:18:00,530 --> 00:18:02,870
+a slick solution when
+people do it. It's just
+
+267
+00:18:02,870 --> 00:18:05,170
+not what this assignment's
+supposed to be about.
+
+268
+00:18:07,810 --> 00:18:13,190
+OK, I think we went
+through all the questions.
+
+269
+00:18:14,310 --> 00:18:15,350
+Oh,
+
+270
+00:18:16,670 --> 00:18:18,110
+yeah. That's right.
+
+271
+00:18:18,570 --> 00:18:21,830
+Do the test frames a
+body or a skeleton?
+
+272
+00:18:23,890 --> 00:18:26,510
+The test frames or the tests?
+
+273
+00:18:27,070 --> 00:18:28,370
+The test frames.
+
+274
+00:18:29,370 --> 00:18:33,550
+Because the test frames
+are what are generated in
+
+275
+00:18:33,550 --> 00:18:37,150
+your TSL output file.
+The test cases are what
+
+276
+00:18:37,150 --> 00:18:40,430
+you write from the test
+frames. The test cases need
+
+277
+00:18:40,430 --> 00:18:42,570
+a body. The test cases
+you are implementing,
+
+278
+00:18:42,570 --> 00:18:44,710
+the test frames that
+were generated, you are
+
+279
+00:18:44,710 --> 00:18:51,330
+implementing into test cases
+in your output. I think
+
+280
+00:18:51,330 --> 00:18:53,440
+that's the question you're
+asking. I'm not sure.
+
+281
+00:18:54,930 --> 00:18:56,570
+That's what I
+asked him as well.
+
+282
+00:18:56,710 --> 00:18:59,570
+Yeah. So if you needed
+something different
+
+283
+00:18:59,570 --> 00:19:02,090
+than that, please
+write a follow-up real
+
+284
+00:19:02,090 --> 00:19:03,710
+quickly and we'll
+vamp for a little bit.
+
+285
+00:19:05,530 --> 00:19:06,730
+Yes, thanks.
+
+286
+00:19:07,170 --> 00:19:08,210
+Okay, good.
+
+287
+00:19:11,890 --> 00:19:14,430
+Anyway, back to you
+were saying we've done
+
+288
+00:19:14,430 --> 00:19:15,910
+them all and then
+another one came in.
+
+289
+00:19:18,050 --> 00:19:19,150
+What was that?
+
+290
+00:19:19,150 --> 00:19:21,730
+You were just saying, okay,
+so I guess we've answered
+
+291
+00:19:21,730 --> 00:19:24,370
+all the questions and then
+another one came in. So do
+
+292
+00:19:24,370 --> 00:19:27,430
+you want to go back to that
+now? I mean, yeah, if we
+
+293
+00:19:27,430 --> 00:19:30,070
+are already finished, then
+we can just call it a day.
+
+294
+00:19:30,070 --> 00:19:31,510
+But yeah,
+
+295
+00:19:31,650 --> 00:19:34,250
+call it a night, call
+it a day, depends
+
+296
+00:19:34,250 --> 00:19:41,690
+on part of the world
+that you are at.
+
+297
+00:19:42,170 --> 00:19:44,930
+But yeah, if there's
+nothing, then I
+
+298
+00:19:44,930 --> 00:19:49,790
+think just, is it
+Easter this weekend?
+
+299
+00:19:51,390 --> 00:19:53,750
+Is this weekend what? Easter?
+
+300
+00:19:53,750 --> 00:19:54,650
+Yeah.
+
+301
+00:19:54,740 --> 00:19:56,130
+It's this weekend, yes.
+
+302
+00:19:56,570 --> 00:19:57,070
+Okay.
+
+303
+00:19:57,070 --> 00:19:58,190
+Then, I mean, yeah.
+
+304
+00:19:58,590 --> 00:20:01,330
+Happy Easter, everyone,
+especially those
+
+305
+00:20:01,330 --> 00:20:06,420
+with children within
+the egg hunting ages.
+
+306
+00:20:08,170 --> 00:20:09,010
+Yeah.
+
+307
+00:20:09,210 --> 00:20:12,470
+Good luck with eggs
+you're going to never find
+
+308
+00:20:12,470 --> 00:20:16,330
+again and are going to
+melt in your backyard.
+
+309
+00:20:17,930 --> 00:20:23,090
+And, by the way, just a quick
+complaint about consumerism
+
+310
+00:20:23,090 --> 00:20:27,130
+in the U.S. I'm fine with
+the egg hunting, but I
+
+311
+00:20:27,130 --> 00:20:30,970
+am not fine with the egg
+having too much sugar in it,
+
+312
+00:20:30,970 --> 00:20:34,710
+and I always have to, like,
+okay, and by the way, also
+
+313
+00:20:34,710 --> 00:20:39,550
+shout out to certain
+organizations and churches with
+
+314
+00:20:39,550 --> 00:20:44,430
+the egg hunting, not having
+candy or sugars, but more
+
+315
+00:20:44,430 --> 00:20:50,930
+like toothpaste or some
+veggie snack, so that is
+
+316
+00:20:50,930 --> 00:20:54,170
+something that I really want
+to just point out randomly.
+
+317
+00:20:54,250 --> 00:20:58,790
+and you can tell you can
+see the difference between
+
+318
+00:20:58,790 --> 00:21:02,390
+uh shin's body weight and
+mine that i'm not going to
+
+319
+00:21:02,390 --> 00:21:05,710
+agree with any of that i
+love the candy way too much
+
+320
+00:21:05,710 --> 00:21:09,790
+but that's i love that
+part of things i think a
+
+321
+00:21:09,790 --> 00:21:14,770
+compromise between you know
+the too many candies and veggie
+
+322
+00:21:14,770 --> 00:21:19,670
+snacks could be stickers
+i'm just saying i'm trying
+
+323
+00:21:19,670 --> 00:21:23,130
+you know to make parents
+and kids happy at the same
+
+324
+00:21:23,130 --> 00:21:26,350
+time but i just wanted to
+say these things the veggie
+
+325
+00:21:26,350 --> 00:21:29,430
+snack remind me of something
+i really wanted to do
+
+326
+00:21:29,430 --> 00:21:32,850
+for my kids for the first
+of april uh for april full
+
+327
+00:21:32,850 --> 00:21:36,190
+i saw this and i didn't
+have time today i wanted to
+
+328
+00:21:36,190 --> 00:21:38,710
+create you know those i
+don't know they're called
+
+329
+00:21:39,110 --> 00:21:43,550
+they look like lollipops
+but they really like small
+
+330
+00:21:43,550 --> 00:21:47,730
+cakes yeah so i wanted to do
+them but instead of putting
+
+331
+00:21:47,730 --> 00:21:50,870
+a cake inside putting
+the brussels sprouts so i
+
+332
+00:21:50,870 --> 00:21:56,130
+wanted to cover but i didn't
+have time so i arrived too
+
+333
+00:21:56,130 --> 00:21:59,110
+late to do it i thought
+that would have been great
+
+334
+00:21:59,110 --> 00:22:02,750
+i'm giving you the idea for
+next year now if easter was
+
+335
+00:22:02,750 --> 00:22:05,690
+actually on april fool's
+day that would be perfect
+
+336
+00:22:07,690 --> 00:22:12,830
+or or like the the you
+know more extreme veggies
+
+337
+00:22:12,830 --> 00:22:16,740
+next little brussels sprouts
+and cook brussels browser
+
+338
+00:22:16,740 --> 00:22:20,150
+yes all right well it does
+not look like we've got
+
+339
+00:22:20,150 --> 00:22:25,190
+any more so yep all right
+um so let's um yeah finish
+
+340
+00:22:25,190 --> 00:22:27,770
+it then thank you everyone
+and see you next week
+
+341
+00:22:27,770 --> 00:22:31,630
+see you next week everyone
+next week Happy Easter
