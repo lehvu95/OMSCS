@@ -1,0 +1,12 @@
+/build
+/builddir
+
+/subprojects/*
+!/subprojects/ut.wrap
+!/subprojects/args.wrap
+
+.DS_Store
+
+.vscode
+.zed
+.cache
