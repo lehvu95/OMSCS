@@ -1,0 +1,138 @@
+on: [push]
+
+name: Continuous Integration / Continuous Deployment (Windows)
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    name: Verify code behaves as intended
+    runs-on: windows-latest
+    defaults:
+      run:
+        shell: msys2 {0}
+
+    steps:
+      - name: Install dependencies for the project (Windows)
+        uses: msys2/setup-msys2@v2
+        with:
+          path-type: inherit
+          update: true
+          msystem: CLANG64
+          install: >-
+            bison
+            flex
+            mingw-w64-clang-x86_64-python
+            mingw-w64-clang-x86_64-meson
+            mingw-w64-clang-x86_64-openssl
+            mingw-w64-clang-x86_64-ca-certificates
+            mingw-w64-clang-x86_64-clang
+            openssl
+            ca-certificates
+            meson
+            git
+
+      - name: Checkout sources
+        uses: actions/checkout@v4
+
+      - name: Configure environment variables
+        run: |
+          # Flex and Bison are not found by default, so we have
+          # to add them such that the compiler and build system will see them.
+          echo "LDFLAGS=-L/usr/lib" >> $GITHUB_ENV
+          echo "CPPFLAGS=-I/usr/include" >> $GITHUB_ENV
+          # Testing currently breaks if gcc is used, so clang it is!
+          echo "CXX=clang++" >> $GITHUB_ENV
+
+      - name: Setup build directory
+        run: |
+          meson wrap install fmt
+          meson setup build -Db_sanitize=address
+
+      - name: Run all tests
+        run: |
+          meson test -C build
+
+  upload:
+    name: Upload compiled binaries
+    needs: check
+    runs-on: windows-latest
+    defaults:
+      run:
+        shell: msys2 {0}
+
+    steps:
+      - name: Install dependencies for the project (Windows)
+        uses: msys2/setup-msys2@v2
+        with:
+          path-type: inherit
+          update: true
+          msystem: CLANG64
+          install: >-
+            bison
+            flex
+            mingw-w64-clang-x86_64-python
+            mingw-w64-clang-x86_64-meson
+            mingw-w64-clang-x86_64-openssl
+            mingw-w64-clang-x86_64-ca-certificates
+            mingw-w64-clang-x86_64-clang
+            mingw-w64-clang-x86_64-7zip
+            openssl
+            ca-certificates
+            meson
+            git
+
+      - name: Checkout sources
+        uses: actions/checkout@v4
+
+      - name: Configure environment variables
+        run: |
+          # Flex and Bison are not found by default, so we have
+          # to add them into the PATH via GitHub's GITHUB_ENV variable.
+          echo "LDFLAGS=-L/usr/lib -static-libstdc++" >> $GITHUB_ENV
+          echo "CPPFLAGS=-I/usr/include" >> $GITHUB_ENV
+          # Testing currently breaks if gcc is used, so clang it is!
+          echo "CXX=clang++" >> $GITHUB_ENV
+
+      - name: Setup build directory
+        run: |
+          meson wrap install fmt
+          meson setup build -Dbuild_for_release=true
+
+      - name: Compile the project
+        run: meson compile -C build
+
+      - name: Upload TSLChecker binary if this is not a release.
+        uses: actions/upload-artifact@v4
+        if: github.ref_type != 'tag'
+        with:
+          path: build/tslchecker.exe
+          name: tslchecker-windows-latest
+
+      - name: Upload TSLCompiler binary if this is not a release.
+        uses: actions/upload-artifact@v4
+        if: github.ref_type != 'tag'
+        with:
+          path: build/tslcompiler.exe
+          name: tslcompiler-windows-latest
+
+      - name: Prepare artifacts for release if it exists.
+        if: github.ref_type == 'tag'
+        run: |
+          cp build/tslchecker.exe tslchecker.exe
+          7z a -tzip tslchecker-windows-latest.zip tslchecker.exe
+          cp build/tslcompiler.exe tslcompiler.exe
+          7z a -tzip tslcompiler-windows-latest.zip tslcompiler.exe
+
+      - name: Upload TSLChecker binary to release if it exists.
+        uses: softprops/action-gh-release@v2
+        if: github.ref_type == 'tag'
+        with:
+          files: tslchecker-windows-latest.zip
+
+      - name: Upload TSLCompiler binary to release if it exists.
+        uses: softprops/action-gh-release@v2
+        if: github.ref_type == 'tag'
+        with:
+          files: tslcompiler-windows-latest.zip
