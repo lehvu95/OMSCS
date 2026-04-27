@@ -1,0 +1,2759 @@
+1
+00:00:02,940 --> 00:00:08,280
+and we are live hello
+everyone and paula hey
+
+2
+00:00:09,320 --> 00:00:14,500
+hi everybody um i'm i'm
+here with you from a
+
+3
+00:00:14,500 --> 00:00:18,300
+conference on requirement
+engineering so it's
+
+4
+00:00:18,300 --> 00:00:21,560
+good to be back in the
+old software development
+
+5
+00:00:21,840 --> 00:00:23,400
+world with all of you
+
+6
+00:00:25,120 --> 00:00:30,400
+Okay, so again, welcome
+everyone to the office hour.
+
+7
+00:00:30,540 --> 00:00:34,760
+So this week, the student is
+
+8
+00:00:34,760 --> 00:00:40,740
+working on Assignment
+5 and GPD 0.
+
+9
+00:00:41,000 --> 00:00:45,200
+As promised, GPD 0
+is extremely simple,
+
+10
+00:00:45,200 --> 00:00:47,640
+just your product
+and that's it.
+
+11
+00:00:47,640 --> 00:00:52,860
+and we have assignment
+for flow today.
+
+12
+00:00:53,120 --> 00:00:59,050
+So supposedly what you see
+is what you get for all
+
+13
+00:00:59,420 --> 00:01:05,120
+of the automatically created
+assignment that includes
+
+14
+00:01:05,120 --> 00:01:08,020
+A3 and A4. What you see
+should be what you get.
+
+15
+00:01:08,020 --> 00:01:11,300
+But later we will update
+that on Canvas as well.
+
+16
+00:01:12,160 --> 00:01:21,520
+So now we can go to the first
+
+17
+00:01:21,520 --> 00:01:24,020
+question is the
+office hour threat.
+
+18
+00:01:24,400 --> 00:01:26,900
+Is there a specific
+format that we
+
+19
+00:01:26,900 --> 00:01:29,280
+should be using for
+A5? The earlier lecture
+
+20
+00:01:29,280 --> 00:01:31,700
+has mentioned
+something about one.
+
+21
+00:01:34,920 --> 00:01:41,860
+and then there is another
+comment from students
+
+22
+00:01:41,930 --> 00:01:44,840
+saying in the instruction
+there is a section
+
+23
+00:01:44,840 --> 00:01:47,480
+saying ready mark down
+and you add the level
+
+24
+00:01:47,480 --> 00:01:50,080
+to break down requirements
+and the text etc
+
+25
+00:01:50,840 --> 00:01:54,480
+for each of the requirements
+you must copy the list
+
+26
+00:01:54,480 --> 00:01:57,220
+of requirements and add
+explanations of each one of
+
+27
+00:01:57,220 --> 00:02:00,880
+them. I expect that we
+should strictly have no
+
+28
+00:02:00,880 --> 00:02:04,360
+mission embedded mermaid
+diagrams and neither system we
+
+29
+00:02:04,360 --> 00:02:07,120
+don't want to render
+consistently on our platform.
+
+30
+00:02:08,360 --> 00:02:13,640
+So that is correct.
+Firstly, yeah, there is not
+
+31
+00:02:13,640 --> 00:02:17,620
+necessarily any template
+right now. Later on,
+
+32
+00:02:17,620 --> 00:02:20,380
+when we are working on
+this project, there will be
+
+33
+00:02:20,380 --> 00:02:23,840
+templates that students
+can download. For this
+
+34
+00:02:23,840 --> 00:02:28,440
+one we expect the uh the
+markdown and if there is
+
+35
+00:02:28,440 --> 00:02:32,560
+any uh diagram just make
+sure that that diagram
+
+36
+00:02:32,560 --> 00:02:38,000
+is rendered or exported
+into jpeg and then the
+
+37
+00:02:38,000 --> 00:02:43,460
+macdow itself can reference
+to to the uh to the
+
+38
+00:02:46,560 --> 00:02:52,680
+And also really important
+is, well, again, read
+
+39
+00:02:52,680 --> 00:02:55,980
+on the assignment instruction,
+but one of the item
+
+40
+00:02:55,980 --> 00:02:59,640
+of the assignment instruction
+that gets students
+
+41
+00:03:00,690 --> 00:03:04,700
+have point deducted is
+that the student forget
+
+42
+00:03:04,700 --> 00:03:08,860
+to have must copy the list
+of the requirements and
+
+43
+00:03:08,860 --> 00:03:12,240
+add your explanation to
+each of them. Again, make
+
+44
+00:03:12,240 --> 00:03:15,060
+sure that you copy the
+requirement from that
+
+45
+00:03:15,060 --> 00:03:20,540
+assignment instruction to
+your submission, to your
+
+46
+00:03:20,830 --> 00:03:24,300
+work, and then have that
+submission there. Otherwise,
+
+47
+00:03:24,300 --> 00:03:30,700
+here, I just mark now
+and then the correct.
+
+48
+00:03:33,880 --> 00:03:35,440
+Next question,
+
+49
+00:03:36,140 --> 00:03:40,580
+on group project assignment,
+What happens when one
+
+50
+00:03:40,580 --> 00:03:42,580
+of the team members
+withdraw from the course
+
+51
+00:03:42,580 --> 00:03:46,800
+after they are allocated
+to the group project? What
+
+52
+00:03:46,800 --> 00:03:49,020
+is expected of the team
+if the situation occurs?
+
+53
+00:03:49,620 --> 00:03:55,140
+So the team, by the way,
+this is, we already have
+
+54
+00:03:55,140 --> 00:03:57,280
+this course for more than
+10 years. And of course,
+
+55
+00:03:57,280 --> 00:03:59,640
+this happens, so we have
+a protocol for that.
+
+56
+00:04:00,060 --> 00:04:04,640
+Our team originally, most
+of the team originally
+
+57
+00:04:04,640 --> 00:04:07,460
+have four team members.
+and if one of the
+
+58
+00:04:07,460 --> 00:04:13,660
+team members withdraws
+from the course, then
+
+59
+00:04:13,660 --> 00:04:16,080
+three team members are
+still a viable team.
+
+60
+00:04:16,720 --> 00:04:19,680
+If there are only
+two team members,
+
+61
+00:04:19,680 --> 00:04:23,920
+then it is kind of
+a handicap team.
+
+62
+00:04:24,060 --> 00:04:25,140
+And in that case,
+
+63
+00:04:25,340 --> 00:04:28,060
+please reach out to us on it.
+
+64
+00:04:28,060 --> 00:04:30,850
+And basically, we
+have two options.
+
+65
+00:04:30,850 --> 00:04:33,020
+If it is early in
+the group project,
+
+66
+00:04:33,420 --> 00:04:38,940
+we let the team decide
+whether they want to
+
+67
+00:04:38,940 --> 00:04:44,140
+move forward with the
+team of two members
+
+68
+00:04:44,140 --> 00:04:48,160
+only and have certain
+expectations reduced.
+
+69
+00:04:48,660 --> 00:04:52,100
+That's one alternative.
+The other alternative is
+
+70
+00:04:52,100 --> 00:04:56,400
+to merge with other teams
+or to split the team
+
+71
+00:04:56,400 --> 00:05:00,620
+members and then put into
+other teams with only
+
+72
+00:05:00,620 --> 00:05:04,500
+three members. So it makes
+the team of four again.
+
+73
+00:05:05,300 --> 00:05:06,400
+However,
+
+74
+00:05:06,780 --> 00:05:10,120
+splitting the team
+is less resort,
+
+75
+00:05:11,200 --> 00:05:16,780
+especially late in the
+group project. So it
+
+76
+00:05:16,780 --> 00:05:19,520
+will depend on the
+situation and the timeline.
+
+77
+00:05:20,280 --> 00:05:23,880
+If things happen,
+just get in touch with
+
+78
+00:05:23,880 --> 00:05:27,880
+us via a discussion
+and the instructional
+
+79
+00:05:27,880 --> 00:05:31,480
+team will discuss with
+the team member to
+
+80
+00:05:31,480 --> 00:05:36,980
+see how we can accommodate
+such situations.
+
+81
+00:05:39,000 --> 00:05:44,500
+Okay, let's go to
+the next question.
+
+82
+00:05:46,640 --> 00:05:49,800
+Do we get in contact
+with our group this week
+
+83
+00:05:49,800 --> 00:05:52,660
+or wait until next week?
+Should that contact just
+
+84
+00:05:52,660 --> 00:05:54,540
+involve setting up a
+meeting time for future
+
+85
+00:05:54,540 --> 00:05:57,580
+weeks for this initial
+communication? Should we
+
+86
+00:05:57,580 --> 00:06:00,280
+email them directly via
+provided details, use a
+
+87
+00:06:00,280 --> 00:06:02,620
+group announcement in
+Canvas or something else?
+
+88
+00:06:05,440 --> 00:06:07,040
+First of all,
+
+89
+00:06:08,020 --> 00:06:14,000
+if you already see the
+contact, because it has been
+
+90
+00:06:14,000 --> 00:06:21,760
+what um four four five days
+now and gpd0 only close
+
+91
+00:06:21,760 --> 00:06:26,540
+next wednesday so there is
+another there are another
+
+92
+00:06:26,540 --> 00:06:33,160
+like five days if you if
+you want to make the early
+
+93
+00:06:33,160 --> 00:06:37,400
+contacts to free to but
+if you make a contact and
+
+94
+00:06:37,400 --> 00:06:41,860
+don't get response don't be
+alarmed because some students
+
+95
+00:06:41,860 --> 00:06:44,680
+may have to wait until
+the we can do so as well.
+
+96
+00:06:44,740 --> 00:06:47,500
+So yes, you can
+do it right now.
+
+97
+00:06:49,140 --> 00:06:56,380
+You can use any
+available communication
+
+98
+00:06:56,380 --> 00:06:59,980
+channel that you
+can think of. That
+
+99
+00:06:59,980 --> 00:07:04,560
+includes email,
+private chat on it,
+
+100
+00:07:05,180 --> 00:07:10,160
+even Microsoft Teams
+message just for the initial
+
+101
+00:07:10,160 --> 00:07:13,420
+contact. and then for
+later, the team can agree
+
+102
+00:07:13,420 --> 00:07:15,600
+whatever channels that
+the team wants to use.
+
+103
+00:07:17,360 --> 00:07:20,000
+And then there's a
+follow-up question. I am
+
+104
+00:07:20,000 --> 00:07:22,480
+adding to this question
+in the group project, are
+
+105
+00:07:22,480 --> 00:07:24,760
+we allowed to use any
+communication channel to
+
+106
+00:07:24,760 --> 00:07:27,440
+communicate with each other?
+I checked the syllabus.
+
+107
+00:07:27,540 --> 00:07:30,560
+Yes, I think I just
+answered before. Yeah,
+
+108
+00:07:31,540 --> 00:07:33,760
+because this is
+private communication
+
+109
+00:07:33,760 --> 00:07:36,480
+between team members,
+it is your choice.
+
+110
+00:07:38,320 --> 00:07:41,100
+The instructional
+team does not dictate
+
+111
+00:07:41,100 --> 00:07:44,320
+how the team
+communicates privately.
+
+112
+00:07:45,840 --> 00:07:48,120
+What UML editor do you suggest
+
+113
+00:07:48,120 --> 00:07:50,720
+we use best for A5 and beyond?
+
+114
+00:07:51,440 --> 00:07:55,820
+I don't have any
+recommendation, to be honest.
+
+115
+00:07:55,820 --> 00:07:59,040
+I think in the previous
+Office Hour channel,
+
+116
+00:07:59,780 --> 00:08:05,800
+I think somebody mentioned
+that, but for this,
+
+117
+00:08:05,800 --> 00:08:08,410
+I don't know whether,
+Paula, you have any...
+
+118
+00:08:08,840 --> 00:08:12,240
+You know, I remember when
+I was still writing paper
+
+119
+00:08:12,240 --> 00:08:15,620
+on design, some of the
+PhD students I was working
+
+120
+00:08:15,620 --> 00:08:18,840
+with who was doing, they
+were using DrawIO, but for
+
+121
+00:08:18,840 --> 00:08:22,340
+this purpose, right, it's,
+there are some tools that
+
+122
+00:08:22,340 --> 00:08:25,960
+are more advanced, but
+then they are not for free.
+
+123
+00:08:26,140 --> 00:08:29,360
+For the purpose of just
+submitting something just
+
+124
+00:08:29,360 --> 00:08:34,280
+choose a tool that you find
+comfortable to design with
+
+125
+00:08:34,280 --> 00:08:37,280
+because you're not going
+to use it for doing any
+
+126
+00:08:37,280 --> 00:08:41,420
+operation or things like
+that so to be honest now when
+
+127
+00:08:41,420 --> 00:08:45,220
+i have to write anything
+uml kind of diagram for my
+
+128
+00:08:45,220 --> 00:08:49,300
+papers i use canva but it's
+just to say that it really
+
+129
+00:08:49,300 --> 00:08:52,960
+um for the purpose of this
+assignment you just need
+
+130
+00:08:52,960 --> 00:08:56,980
+to draw and so whatever you
+feel comfortable to draw
+
+131
+00:08:56,980 --> 00:09:00,960
+in uh you don't you because
+then there are other
+
+132
+00:09:00,960 --> 00:09:04,620
+tools that allow you to do
+some check but then you it's
+
+133
+00:09:04,620 --> 00:09:06,940
+not worth for what you
+have to do to pay the
+
+134
+00:09:06,940 --> 00:09:10,760
+subscription and i see there
+is an hands-on and i think
+
+135
+00:09:10,760 --> 00:09:13,680
+we reminded it other time
+it's not possible during the
+
+136
+00:09:13,680 --> 00:09:17,420
+office hour to ask live
+question if you have question
+
+137
+00:09:17,420 --> 00:09:20,460
+while we are in the office
+hour use the ad post
+
+138
+00:09:20,460 --> 00:09:23,860
+and we will read them during
+the office hour we don't
+
+139
+00:09:23,860 --> 00:09:26,250
+have the possibility to
+have you ask the question
+
+140
+00:09:26,250 --> 00:09:30,880
+live in the in the chat
+because then thing ends on so
+
+141
+00:09:31,500 --> 00:09:35,400
+and also to make comments
+so if you if any of you guys
+
+142
+00:09:35,400 --> 00:09:39,140
+wants to contribute and
+say i'm using this tool you
+
+143
+00:09:39,140 --> 00:09:43,920
+you can still use the uh
+the ad pass to do it okay
+
+144
+00:09:46,660 --> 00:09:50,340
+uh thank you paula so let's
+go to the next question
+
+145
+00:09:50,810 --> 00:09:54,840
+For my understanding of
+A5, we must have left a UML
+
+146
+00:09:54,840 --> 00:09:56,840
+design document and design
+description document.
+
+147
+00:09:56,840 --> 00:09:59,740
+The UML design document
+must be UML plus
+
+148
+00:09:59,740 --> 00:10:01,940
+diagram as specified
+in the instructions.
+
+149
+00:10:01,940 --> 00:10:04,300
+For my understanding of
+the design description
+
+150
+00:10:04,300 --> 00:10:07,020
+document, does it
+basically need to be
+
+151
+00:10:07,020 --> 00:10:09,020
+a document where we
+explain our rationale
+
+152
+00:10:09,020 --> 00:10:13,360
+of each component in
+our UML plus diagram?
+
+153
+00:10:16,640 --> 00:10:25,620
+I try to not answer this in
+so unfortunately I cannot
+
+154
+00:10:25,620 --> 00:10:28,020
+give a straight answer
+for now because it might
+
+155
+00:10:28,020 --> 00:10:34,600
+constitute SF3 grading for this
+so I would highly encourage
+
+156
+00:10:35,050 --> 00:10:38,340
+this student and all of
+you to read the assignment
+
+157
+00:10:38,340 --> 00:10:42,680
+instruction again and just
+follow the instruction.
+
+158
+00:10:43,480 --> 00:10:46,000
+Yeah, so unfortunately, I
+
+159
+00:10:46,000 --> 00:10:47,780
+cannot give the
+straight answer.
+
+160
+00:10:48,520 --> 00:10:52,500
+That would be unfair
+to other students who
+
+161
+00:10:52,500 --> 00:10:58,640
+don't watch this OH or
+previous students from
+
+162
+00:10:58,640 --> 00:11:01,580
+the previous semester
+when we basically give
+
+163
+00:11:01,580 --> 00:11:04,500
+partial answer to the
+assignment already.
+
+164
+00:11:05,180 --> 00:11:08,660
+Next question. Will VS
+Code help in writing design
+
+165
+00:11:08,660 --> 00:11:11,080
+description document?
+The instruction specifies
+
+166
+00:11:11,080 --> 00:11:13,440
+that we must save this
+document in MacDao format.
+
+167
+00:11:14,520 --> 00:11:17,900
+Will VS Code help in
+writing design document?
+
+168
+00:11:19,260 --> 00:11:20,340
+Maybe.
+
+169
+00:11:20,500 --> 00:11:21,220
+I mean,
+
+170
+00:11:21,620 --> 00:11:27,200
+maybe what you need is
+just any editor that help
+
+171
+00:11:27,200 --> 00:11:34,680
+you write MacDao. I know
+that for some people,
+
+172
+00:11:34,680 --> 00:11:38,120
+they use Beam Emacs or even
+just a plain text editor
+
+173
+00:11:38,120 --> 00:11:42,040
+because they know the
+MacDow format in and out.
+
+174
+00:11:42,940 --> 00:11:45,040
+Maybe MacDow is,
+this is the first
+
+175
+00:11:45,040 --> 00:11:47,660
+time you encounter
+MacDow and you have,
+
+176
+00:11:48,160 --> 00:11:50,700
+and you need some help
+to understand what
+
+177
+00:11:50,700 --> 00:11:54,920
+it means to be
+formatting as a heading,
+
+178
+00:11:55,340 --> 00:11:56,110
+as a title,
+
+179
+00:11:57,280 --> 00:12:01,920
+bone italic, etc. then
+yes, maybe you can use VHS
+
+180
+00:12:02,240 --> 00:12:08,380
+codes or some other editor
+that have you read myself.
+
+181
+00:12:08,380 --> 00:12:11,200
+I just want to be
+cautious that if
+
+182
+00:12:11,200 --> 00:12:15,120
+you use any IDE
+or online editor,
+
+183
+00:12:15,120 --> 00:12:20,360
+make sure that you turn off
+any and own AI assistant,
+
+184
+00:12:20,360 --> 00:12:25,440
+because that might
+get you into the hot
+
+185
+00:12:25,440 --> 00:12:30,220
+water of plagiarism.
+So just make sure that
+
+186
+00:12:30,220 --> 00:12:35,020
+you have no AI assistant
+at all when working
+
+187
+00:12:35,040 --> 00:12:37,920
+on this assignment
+or any assignment.
+
+188
+00:12:37,920 --> 00:12:42,880
+Just to be clear, because we
+are talking about VS Code,
+
+189
+00:12:42,880 --> 00:12:45,360
+and I know that's the...
+If I say, oh, yeah, you can
+
+190
+00:12:45,360 --> 00:12:48,400
+use VS Code, then it might
+be misunderstood at all. He
+
+191
+00:12:48,400 --> 00:12:51,320
+means that we use anything
+that this VS Code offers.
+
+192
+00:12:53,880 --> 00:12:57,880
+Next question. Lecture
+P3L2 keeps things at high
+
+193
+00:12:57,880 --> 00:13:00,580
+level. Considering that,
+I understand we don't
+
+194
+00:13:00,580 --> 00:13:03,760
+need to show in UML
+diagram that weight factors
+
+195
+00:13:03,760 --> 00:13:06,360
+are defaulted to one
+in comparison setting,
+
+196
+00:13:06,780 --> 00:13:08,320
+clearly indicating current
+
+197
+00:13:08,320 --> 00:13:10,580
+job when comparing job offers,
+
+198
+00:13:10,740 --> 00:13:14,320
+methods to save, cancel
+job details, etc.
+
+199
+00:13:14,380 --> 00:13:16,760
+As a design decision,
+we can leave that
+
+200
+00:13:16,760 --> 00:13:20,200
+for UI. Is that the
+right expectation?
+
+201
+00:13:21,440 --> 00:13:25,400
+Maybe Paula, you can chime
+in a little bit. because
+
+202
+00:13:25,400 --> 00:13:30,500
+um it's more about so after
+we have the requirement
+
+203
+00:13:30,500 --> 00:13:34,340
+engineer already now we
+have to like write down how
+
+204
+00:13:34,340 --> 00:13:40,520
+much details is not cmi
+not too much detail in
+
+205
+00:13:40,520 --> 00:13:44,100
+certain yeah so i think
+it's i i was looking at the
+
+206
+00:13:44,100 --> 00:13:46,260
+question i think it's a
+little bit connected to a
+
+207
+00:13:46,260 --> 00:13:50,000
+question that arrived while
+we were starting uh you know
+
+208
+00:13:50,000 --> 00:13:53,060
+like how do you decide
+when to stop right you want
+
+209
+00:13:53,060 --> 00:13:56,320
+to be able that you cover
+all your requirements but
+
+210
+00:13:56,620 --> 00:13:59,920
+you want to make sure
+you're not overdoing it so
+
+211
+00:13:59,920 --> 00:14:03,660
+it's a trade-off between
+completeness and complexity
+
+212
+00:14:03,660 --> 00:14:07,420
+and actually not even
+complexity is not even the
+
+213
+00:14:07,420 --> 00:14:10,760
+right word i would say and
+overcrowding so make sure
+
+214
+00:14:10,760 --> 00:14:14,320
+you have the main domain
+classes your all your kid
+
+215
+00:14:14,320 --> 00:14:18,000
+attributes all the core
+operations right you've wrote
+
+216
+00:14:18,000 --> 00:14:20,280
+all your requirements so
+at the end of the day, you
+
+217
+00:14:20,280 --> 00:14:23,440
+need to be able to go back
+and say, check, check,
+
+218
+00:14:23,580 --> 00:14:26,460
+like I'm making these
+choices to make sure I'm
+
+219
+00:14:26,460 --> 00:14:30,340
+covering these requirements.
+But then you are not going
+
+220
+00:14:30,340 --> 00:14:35,800
+down into details that are
+not at this level in your
+
+221
+00:14:35,800 --> 00:14:40,200
+decision process. Some
+UI behavior, some like a
+
+222
+00:14:40,200 --> 00:14:43,500
+button action, these are
+all decisions for later
+
+223
+00:14:43,500 --> 00:14:47,020
+because they're not needed for
+complete your requirements.
+
+224
+00:14:47,020 --> 00:14:51,500
+So So this is, it's
+really, it's an important
+
+225
+00:14:51,500 --> 00:14:54,760
+moment because you have the
+requirements for a reason
+
+226
+00:14:54,760 --> 00:14:58,820
+to guide you in advancing
+in your project. So try
+
+227
+00:14:58,820 --> 00:15:02,200
+to make sure you balance
+your decision. So you want
+
+228
+00:15:02,200 --> 00:15:06,360
+to make sure that when you
+are moving towards your
+
+229
+00:15:06,360 --> 00:15:09,160
+UML diagrams, you're covering
+all your requirements,
+
+230
+00:15:09,160 --> 00:15:11,080
+right? Because otherwise,
+why did you have them?
+
+231
+00:15:11,300 --> 00:15:14,980
+but it's not a moment to
+make some other decision
+
+232
+00:15:14,980 --> 00:15:17,280
+that come later because
+they're not informed
+
+233
+00:15:17,280 --> 00:15:19,360
+by they might not be
+informed by the requirements
+
+234
+00:15:19,360 --> 00:15:21,840
+you don't have the
+information there yet
+
+235
+00:15:25,420 --> 00:15:30,500
+thank you paola next question
+can you give gaden how
+
+236
+00:15:30,500 --> 00:15:34,480
+to decide which operations
+belong to which to what classes
+
+237
+00:15:34,480 --> 00:15:38,300
+i will be confused on what
+the entry point does as
+
+238
+00:15:38,300 --> 00:15:41,620
+compared to the operation
+of individual class i think
+
+239
+00:15:41,620 --> 00:15:44,820
+paula you are also happy to
+take this question as well
+
+240
+00:15:44,820 --> 00:15:49,280
+yeah so okay so what what
+is what what was the class
+
+241
+00:15:49,280 --> 00:15:53,300
+uh so let's these are two
+actually questions right so
+
+242
+00:15:53,300 --> 00:15:58,020
+the first one is where should
+an operation go on uh an
+
+243
+00:15:58,020 --> 00:16:00,380
+operation goes to the class
+that either owns the data
+
+244
+00:16:00,380 --> 00:16:03,840
+for that operation or is
+responsible for the behavior
+
+245
+00:16:03,840 --> 00:16:06,400
+you need to think about that
+like so for instance you
+
+246
+00:16:06,400 --> 00:16:10,620
+think about you know you
+are describing a restaurant
+
+247
+00:16:10,620 --> 00:16:15,190
+or you know all the classes
+needed to an online restaurant
+
+248
+00:16:15,190 --> 00:16:19,080
+and then you have a class
+that is order so when
+
+249
+00:16:19,080 --> 00:16:21,880
+you are calculating you know
+the operation of calculating
+
+250
+00:16:21,880 --> 00:16:25,420
+the total is the total for
+that order the order is
+
+251
+00:16:25,420 --> 00:16:29,140
+the one that owns the data
+so it's where the operation
+
+252
+00:16:29,140 --> 00:16:37,980
+belongs right I does it make
+sense I mean I understand
+
+253
+00:16:37,980 --> 00:16:41,360
+that you know it depends
+on it depends on the it
+
+254
+00:16:41,360 --> 00:16:45,700
+depends case by case but
+really the general rule is that
+
+255
+00:16:45,700 --> 00:16:51,860
+who owns the data who owns
+which class owns the the
+
+256
+00:16:51,860 --> 00:16:55,060
+behavior who is responsible for
+this behavior that operation
+
+257
+00:16:55,060 --> 00:16:58,060
+described and this is
+where the operation belongs
+
+258
+00:16:58,060 --> 00:17:01,380
+i want to say that i want to
+also make a note here when
+
+259
+00:17:01,380 --> 00:17:04,040
+i'm responding right the
+fact that these are rules
+
+260
+00:17:04,040 --> 00:17:07,660
+in which you need to make
+a conscious decision and
+
+261
+00:17:07,660 --> 00:17:11,540
+evaluate case by case is the
+reason why you are needed and
+
+262
+00:17:11,540 --> 00:17:15,480
+we cannot code this and
+have a program doing it for
+
+263
+00:17:15,480 --> 00:17:18,800
+you because this is where
+you take the responsibility
+
+264
+00:17:18,800 --> 00:17:22,980
+to decide where things
+belong and what do i need and
+
+265
+00:17:22,980 --> 00:17:27,420
+this this comment applies also
+to the answer i gave before
+
+266
+00:17:27,420 --> 00:17:30,980
+right when do i stop where
+how i because these are
+
+267
+00:17:30,980 --> 00:17:35,240
+decisions that you are making
+in in in the present of
+
+268
+00:17:35,240 --> 00:17:39,100
+all these requirements so
+it's uh it's there is some
+
+269
+00:17:39,100 --> 00:17:44,780
+let's say so from a from
+from a design decision that
+
+270
+00:17:44,780 --> 00:17:48,180
+there are some arbitrary
+decision from a correctness
+
+271
+00:17:48,180 --> 00:17:52,130
+perspective some are wrong and
+some are right not you know
+
+272
+00:17:52,130 --> 00:17:57,060
+if when i have less students
+i always tell them uh
+
+273
+00:17:57,060 --> 00:18:00,760
+you know as you better do
+your own mistake than do that
+
+274
+00:18:00,760 --> 00:18:04,440
+someone else may say because
+with 20 people in front
+
+275
+00:18:04,440 --> 00:18:07,180
+of me it would be very
+strange if to have exactly the
+
+276
+00:18:07,180 --> 00:18:10,940
+same solutions because we
+can make different decisions
+
+277
+00:18:11,340 --> 00:18:15,960
+and but some are correct
+and some are not and some
+
+278
+00:18:15,960 --> 00:18:21,420
+different one are correct so
+it's it's a But the rule is
+
+279
+00:18:21,420 --> 00:18:29,900
+that somehow the general
+rule is that if you have an
+
+280
+00:18:29,900 --> 00:18:33,430
+operation, who has the data
+for making this operation
+
+281
+00:18:33,430 --> 00:18:35,500
+happen? And if you say, oh,
+the data are a little bit
+
+282
+00:18:35,500 --> 00:18:38,820
+distributed, okay, who is
+responsible for this behavior?
+
+283
+00:18:38,820 --> 00:18:41,210
+And that's the class where
+the operation belongs.
+
+284
+00:18:42,560 --> 00:18:44,560
+Did I answer the question?
+
+285
+00:18:46,480 --> 00:18:51,860
+If students feel that
+we haven't answered
+
+286
+00:18:51,860 --> 00:18:54,440
+the question or have a
+follow-up, please feel
+
+287
+00:18:54,440 --> 00:18:59,160
+free to have comments
+under that question.
+
+288
+00:19:02,100 --> 00:19:06,540
+So next question, I think
+it's again for Paula and
+
+289
+00:19:06,540 --> 00:19:10,900
+related to what we already
+discussed as well. How can we
+
+290
+00:19:10,900 --> 00:19:13,780
+determine whether we fully
+satisfy own requirements
+
+291
+00:19:13,780 --> 00:19:16,880
+while also avoiding unnecessary
+complexity in the number
+
+292
+00:19:16,880 --> 00:19:20,280
+of classes, attributes, and
+their operations. Yeah, I
+
+293
+00:19:20,280 --> 00:19:24,140
+think I partially responded
+to this before, right? So
+
+294
+00:19:25,980 --> 00:19:30,300
+again, think of this as
+having a checklist in
+
+295
+00:19:30,300 --> 00:19:32,440
+front of you. So you have
+all your requirements, you
+
+296
+00:19:32,440 --> 00:19:35,060
+want to make sure you
+cover all of them. And
+
+297
+00:19:35,060 --> 00:19:38,300
+when you're seeing your
+crowded extra information,
+
+298
+00:19:38,300 --> 00:19:41,780
+this is when you are
+making decision too early
+
+299
+00:19:41,780 --> 00:19:44,980
+and you are increasing
+the complexity unnecessary
+
+300
+00:19:45,920 --> 00:19:50,060
+um and i think i think i
+was actually this is the
+
+301
+00:19:50,060 --> 00:19:52,780
+one i saw just before i
+loved this so this is i
+
+302
+00:19:52,780 --> 00:19:56,220
+i think is the one i was
+uh i wanted to mention
+
+303
+00:19:58,660 --> 00:20:03,660
+yeah okay so um are there
+any aesthetics requirements
+
+304
+00:20:03,660 --> 00:20:06,120
+for the assignment or
+project with the color
+
+305
+00:20:06,120 --> 00:20:08,780
+or display of the project
+count for the grade.
+
+306
+00:20:09,880 --> 00:20:13,540
+So first of all, it's not like
+
+307
+00:20:13,540 --> 00:20:15,140
+we are in the beauty contest.
+
+308
+00:20:15,420 --> 00:20:20,380
+So the aesthetic does not
+give you extra points.
+
+309
+00:20:20,740 --> 00:20:21,640
+And I mean,
+
+310
+00:20:21,820 --> 00:20:25,660
+if it is kind of
+visually unappealing,
+
+311
+00:20:26,440 --> 00:20:30,520
+but on the requirement
+is there, the user
+
+312
+00:20:30,520 --> 00:20:35,520
+experience or the user
+journey is fine. that is
+
+313
+00:20:35,520 --> 00:20:42,120
+that users don't have
+to tap 10 buttons just
+
+314
+00:20:42,120 --> 00:20:46,040
+to change one setting,
+then it's fine as well.
+
+315
+00:20:46,600 --> 00:20:47,980
+In short,
+
+316
+00:20:48,140 --> 00:20:54,420
+aesthetics itself is
+not a requirement, it's
+
+317
+00:20:54,420 --> 00:20:57,420
+just that the user
+experience in general,
+
+318
+00:20:57,420 --> 00:21:00,660
+And remember, UX is
+different from UI, right?
+
+319
+00:21:01,900 --> 00:21:06,320
+Some apps can be just simple.
+
+320
+00:21:06,460 --> 00:21:12,960
+I think one of the
+popular examples
+
+321
+00:21:12,960 --> 00:21:16,280
+that people often
+use is Craigslist.
+
+322
+00:21:16,380 --> 00:21:20,920
+So especially for people
+in the US, Craigslist
+
+323
+00:21:20,920 --> 00:21:24,500
+has remained the same
+user experience for
+
+324
+00:21:24,500 --> 00:21:28,260
+like 20 years, even
+default.com, right now,
+
+325
+00:21:28,260 --> 00:21:32,540
+it is not as visually
+a pure as any Web2,
+
+326
+00:21:32,960 --> 00:21:36,100
+Web3, etc., but the
+experience is the same.
+
+327
+00:21:36,920 --> 00:21:40,520
+It is satisfied that the
+user expectation, user
+
+328
+00:21:40,520 --> 00:21:44,880
+requirement, so people
+will still use it despite
+
+329
+00:21:44,880 --> 00:21:54,320
+it less than average
+visually attractiveness.
+
+330
+00:21:58,380 --> 00:22:01,820
+so next question are there
+any TA chances for this
+
+331
+00:22:01,820 --> 00:22:05,320
+course for next semester
+if so um are there any
+
+332
+00:22:05,320 --> 00:22:09,980
+requirements uh maybe paula
+can chime in in this and i
+
+333
+00:22:09,980 --> 00:22:13,940
+will also have some um i don't
+know do you know something
+
+334
+00:22:13,940 --> 00:22:17,820
+about our TA team that
+i don't know okay no so
+
+335
+00:22:17,970 --> 00:22:23,040
+we uh as for now we have
+for what i know we have a
+
+336
+00:22:23,040 --> 00:22:27,320
+functioning and full ta team
+but things always change
+
+337
+00:22:27,920 --> 00:22:31,380
+and actually i want to say
+i'm not that much so familiar
+
+338
+00:22:31,380 --> 00:22:33,600
+with the rules that the
+university have because
+
+339
+00:22:33,600 --> 00:22:38,480
+as i say in my introduction
+i'm permanent faculty at
+
+340
+00:22:38,480 --> 00:22:41,660
+kansas state so every
+university has different kind
+
+341
+00:22:41,660 --> 00:22:44,940
+of rules i'm pretty sure
+you need to pass this class
+
+342
+00:22:44,940 --> 00:22:50,020
+with an a i suppose but i
+would imagine that you have
+
+343
+00:22:50,020 --> 00:22:52,860
+to be graduated at least
+with a master's degree to be
+
+344
+00:22:52,860 --> 00:22:59,020
+a master da um but maybe
+i'm wrong maybe i mean this
+
+345
+00:22:59,020 --> 00:23:04,500
+would be a rule like i
+wouldn't make up what what is
+
+346
+00:23:04,500 --> 00:23:08,900
+that um of sufficient uh
+what what is that in the
+
+347
+00:23:08,900 --> 00:23:14,720
+math sufficient and uh reads
+but basically necessary
+
+348
+00:23:14,720 --> 00:23:17,820
+but not no no you what you
+want to say is necessary but
+
+349
+00:23:17,820 --> 00:23:19,980
+not sufficient i'm sorry
+i'm the daughter of two
+
+350
+00:23:19,980 --> 00:23:24,420
+mathematicians don't mess up
+this piece exactly so that
+
+351
+00:23:24,420 --> 00:23:29,240
+there's a necessary and
+there's uh sufficient so the
+
+352
+00:23:29,240 --> 00:23:35,420
+the necessary right now
+is uh well technically um
+
+353
+00:23:35,420 --> 00:23:40,100
+the school technically the
+well technically the school
+
+354
+00:23:40,100 --> 00:23:45,700
+does have some hard
+requirement and some of the
+
+355
+00:23:45,700 --> 00:23:50,460
+requirement coming from our
+courses so the hard requirement
+
+356
+00:23:50,460 --> 00:23:55,420
+from the institution is
+that you must yourself have
+
+357
+00:23:55,420 --> 00:24:00,240
+work permit in the U.S.
+and physically in the U.S.
+
+358
+00:24:00,680 --> 00:24:03,200
+that is nothing the course
+
+359
+00:24:03,500 --> 00:24:10,220
+can our course can and can
+change um but then um but
+
+360
+00:24:10,220 --> 00:24:13,660
+then they they don't
+necessarily require you to be
+
+361
+00:24:13,660 --> 00:24:18,340
+the student or graduated
+uh from uh from from the
+
+362
+00:24:18,340 --> 00:24:23,180
+program or even took the
+practice right so actually
+
+363
+00:24:23,240 --> 00:24:27,100
+okay let me ask you this
+question do you have to have
+
+364
+00:24:27,100 --> 00:24:31,640
+a master's degree in your
+end when you are no because
+
+365
+00:24:31,640 --> 00:24:35,540
+some of the some of the
+current uh students only
+
+366
+00:24:35,540 --> 00:24:38,540
+have the bachelor they
+attend this to get their
+
+367
+00:24:38,540 --> 00:24:44,560
+first master degree okay but
+so okay let's make a decision
+
+368
+00:24:44,560 --> 00:24:47,100
+three year because
+otherwise i want let's make
+
+369
+00:24:47,100 --> 00:24:50,120
+a decision three so okay
+you have a master's degree
+
+370
+00:24:50,920 --> 00:24:54,120
+the different way in which
+you have the sufficient
+
+371
+00:24:54,120 --> 00:24:58,860
+condition so you have a work
+permit or you and you are a
+
+372
+00:24:58,860 --> 00:25:01,200
+resident in the united
+states so even if you are a
+
+373
+00:25:01,200 --> 00:25:04,400
+citizen of the united states
+but you now live abroad you
+
+374
+00:25:04,400 --> 00:25:07,200
+can't you need to be
+living in the united states
+
+375
+00:25:07,200 --> 00:25:13,480
+correct okay done so the
+location and the more work
+
+376
+00:25:13,480 --> 00:25:19,740
+requirement done so now you can
+if you if you have if you're
+
+377
+00:25:19,740 --> 00:25:22,540
+already graduated and you
+have the competencies then
+
+378
+00:25:22,540 --> 00:25:27,180
+you also qualify what does
+a student what does a person
+
+379
+00:25:27,180 --> 00:25:31,040
+who is a student in this
+program currently as to
+
+380
+00:25:31,040 --> 00:25:36,000
+have as a requirement to be
+able to be eligible the the
+
+381
+00:25:36,000 --> 00:25:40,000
+institution does not have
+any um any requirement as
+
+382
+00:25:40,000 --> 00:25:43,800
+far as i know uh as far the
+current student um they can
+
+383
+00:25:43,800 --> 00:25:47,940
+be current online student
+again given the physical
+
+384
+00:25:47,940 --> 00:25:51,020
+and then work requirement uh
+they can be online student
+
+385
+00:25:51,020 --> 00:25:55,680
+they can be on campus
+student um they they can be a
+
+386
+00:25:55,680 --> 00:25:58,780
+master on-campus student,
+they can be a PhD candidate.
+
+387
+00:25:59,200 --> 00:26:02,000
+And then I understand
+that in the past,
+
+388
+00:26:02,000 --> 00:26:05,980
+and I think in the
+present as well,
+
+389
+00:26:07,740 --> 00:26:13,540
+some of the TA are PhD students
+
+390
+00:26:13,540 --> 00:26:15,640
+of the current instructor
+
+391
+00:26:17,980 --> 00:26:22,080
+or, well, within the
+department, right? So sometimes
+
+392
+00:26:22,080 --> 00:26:26,280
+Paula or Alex help with
+other professors to get
+
+393
+00:26:26,280 --> 00:26:32,720
+the TA teaching assistantship
+for students as well.
+
+394
+00:26:32,920 --> 00:26:34,780
+So for that, yeah, there is
+
+395
+00:26:34,780 --> 00:26:37,880
+more like instructor
+discretion.
+
+396
+00:26:37,880 --> 00:26:46,640
+So as long as the
+person qualifies the
+
+397
+00:26:46,640 --> 00:26:49,740
+institutional requirement,
+then it is more
+
+398
+00:26:49,740 --> 00:26:52,420
+like the instructor
+of record discretion,
+
+399
+00:26:53,370 --> 00:26:57,380
+whether to hire the TA, right?
+
+400
+00:26:57,420 --> 00:27:01,980
+And right now, it's
+kind of the policy,
+
+401
+00:27:02,700 --> 00:27:07,040
+thought policy or guideline
+for specifically for CS
+
+402
+00:27:07,040 --> 00:27:12,520
+6300. grade that we usually
+check when we when we
+
+403
+00:27:12,520 --> 00:27:18,520
+do meet more TA we take a
+look at the past semester
+
+404
+00:27:19,460 --> 00:27:22,780
+performance of
+students so not only
+
+405
+00:27:22,780 --> 00:27:25,090
+you have to have a
+you have to have TA
+
+406
+00:27:25,820 --> 00:27:28,580
+so even more even more
+than that you have
+
+407
+00:27:28,580 --> 00:27:34,960
+extra like final score
+of 95 plus or something
+
+408
+00:27:35,120 --> 00:27:40,070
+and additionally um a6
+because a6 is kind of the uh
+
+409
+00:27:40,070 --> 00:27:43,460
+discriminated assignments
+right so we have a really
+
+410
+00:27:43,460 --> 00:27:48,280
+long tail score distribution
+of a6 so if you uh face
+
+411
+00:27:48,280 --> 00:27:52,040
+a6 then it's even more
+chance that that you send um
+
+412
+00:27:52,040 --> 00:27:58,830
+you can be contacted to
+be a ta in this course um
+
+413
+00:27:58,830 --> 00:28:02,440
+and again can i say that
+this is very reassure can i
+
+414
+00:28:02,440 --> 00:28:04,820
+say that this for the
+student is very reassuring
+
+415
+00:28:04,820 --> 00:28:08,790
+because you know how good is
+the quality of your tas yes
+
+416
+00:28:09,720 --> 00:28:14,180
+i just think as a student
+i would feel very reassured
+
+417
+00:28:14,180 --> 00:28:21,160
+okay um and once you
+know why we have some uh
+
+418
+00:28:21,160 --> 00:28:25,820
+candidates um already mentioned
+may not be the students
+
+419
+00:28:25,820 --> 00:28:31,680
+who already took the class
+and then get the best
+
+420
+00:28:31,680 --> 00:28:36,060
+score in the class. But for
+example, PhD students of
+
+421
+00:28:36,060 --> 00:28:40,640
+instructors, so the instructor
+knows them personally,
+
+422
+00:28:41,440 --> 00:28:44,580
+the work ethic and
+the competency, so
+
+423
+00:28:44,580 --> 00:28:46,440
+students should be
+assured as well.
+
+424
+00:28:47,160 --> 00:28:50,440
+So that is kind of the second
+category that we usually
+
+425
+00:28:50,440 --> 00:28:54,820
+get as a TA. And then the
+third category is sometimes
+
+426
+00:28:54,820 --> 00:29:00,560
+we see people with
+exceptionally great profile,
+
+427
+00:29:00,560 --> 00:29:01,340
+for example,
+
+428
+00:29:01,580 --> 00:29:05,540
+engineering director
+at Cisco or FAN,
+
+429
+00:29:05,620 --> 00:29:10,700
+and they still want
+to be humble and help
+
+430
+00:29:10,700 --> 00:29:13,360
+out and learn from the
+students and the TA.
+
+431
+00:29:13,480 --> 00:29:18,200
+Sometimes those are the
+profile that we take as well,
+
+432
+00:29:18,200 --> 00:29:26,100
+even though they might
+not have taken the form
+
+433
+00:29:26,100 --> 00:29:35,060
+yet. So those are the three
+criteria that we look at
+
+434
+00:29:35,840 --> 00:29:40,540
+for the instructor and
+instructional team to
+
+435
+00:29:40,540 --> 00:29:44,380
+determine whether we want
+to take someone in as a TA.
+
+436
+00:29:44,820 --> 00:29:47,960
+Now, actually, getting back to
+
+437
+00:29:47,960 --> 00:29:50,340
+the institution requirements,
+
+438
+00:29:50,600 --> 00:29:53,040
+we do have certain
+constraints. It's
+
+439
+00:29:53,040 --> 00:29:56,220
+not like we can
+hire 100 or 500 TAs.
+
+440
+00:29:56,220 --> 00:30:01,300
+We have the institution
+constraint that the number
+
+441
+00:30:01,300 --> 00:30:05,820
+of TAs is proportional
+to the number of students
+
+442
+00:30:05,820 --> 00:30:12,380
+we have each semester. so
+it's usually one i think
+
+443
+00:30:12,380 --> 00:30:18,860
+one ta per 50 students plus
+one ta per 300 students
+
+444
+00:30:18,860 --> 00:30:23,560
+so it's more like at
+first you have one ta per
+
+445
+00:30:23,560 --> 00:30:27,080
+50 and then if you have
+uh 300 you may have some
+
+446
+00:30:27,080 --> 00:30:31,260
+coordinator ta so that's why
+there's a there's a formula
+
+447
+00:30:31,260 --> 00:30:34,580
+right so right now i
+think we have a team of
+
+448
+00:30:34,580 --> 00:30:40,960
+uh 20-ish something TAs and
+the capacity set for TAs
+
+449
+00:30:40,960 --> 00:30:45,860
+6300 is around 1,000. So
+we are about that cool.
+
+450
+00:30:46,240 --> 00:30:49,420
+But some TAs, well, we
+have TAs who have been
+
+451
+00:30:49,420 --> 00:30:55,000
+with us for like eight
+to 10 years already.
+
+452
+00:30:55,240 --> 00:30:59,920
+Some TAs, they are just PhD
+students. And then after
+
+453
+00:30:59,920 --> 00:31:03,280
+they graduate from PhD,
+they move on. So once in a
+
+454
+00:31:03,280 --> 00:31:07,300
+while, of course, we have the
+need for more CIS as well.
+
+455
+00:31:07,560 --> 00:31:09,660
+And then as this,
+
+456
+00:31:10,340 --> 00:31:12,340
+as it's called CIS 6300,
+
+457
+00:31:13,060 --> 00:31:17,880
+become more popular,
+
+458
+00:31:18,300 --> 00:31:22,440
+more students get into the
+wages, the wages get longer,
+
+459
+00:31:22,440 --> 00:31:27,840
+we might need to increase
+the capacity as well. And
+
+460
+00:31:27,840 --> 00:31:33,620
+that is when we need more
+CIS as well. So that's all
+
+461
+00:31:33,620 --> 00:31:37,980
+of the information that I
+know and then I can share.
+
+462
+00:31:37,980 --> 00:31:43,780
+That being said, if
+you are enthusiastic in
+
+463
+00:31:43,780 --> 00:31:47,340
+being a TA in helping
+with the teaching staff,
+
+464
+00:31:47,340 --> 00:31:51,020
+you don't need to look
+only in this course
+
+465
+00:31:51,020 --> 00:31:54,760
+with other courses as
+well. And every semester,
+
+466
+00:31:55,360 --> 00:31:59,760
+those with the
+GATEC email should
+
+467
+00:31:59,760 --> 00:32:02,500
+receive, especially
+OMSTS students,
+
+468
+00:32:02,720 --> 00:32:06,820
+should receive email either
+from Dr. David Joyner
+
+469
+00:32:06,820 --> 00:32:10,800
+or from HR asking whether
+you are interested in
+
+470
+00:32:10,800 --> 00:32:13,880
+the TA. And then you will
+just fill out the form.
+
+471
+00:32:14,040 --> 00:32:18,240
+And then the rest,
+the HR team and the
+
+472
+00:32:18,240 --> 00:32:21,380
+instructional staff
+will take care.
+
+473
+00:32:22,120 --> 00:32:27,820
+so it's a long answer to
+that question hopefully it
+
+474
+00:32:27,820 --> 00:32:33,260
+is uh it is satisfactory
+answer for for the students
+
+475
+00:32:35,560 --> 00:32:41,260
+okay um even after that long
+answer we know no longer
+
+476
+00:32:41,260 --> 00:32:44,540
+have any questions so i
+think it's a is a cue for us
+
+477
+00:32:44,540 --> 00:32:47,720
+but before we're leaving i
+want but he was satisfied
+
+478
+00:32:47,720 --> 00:32:51,160
+because he said thank you so
+it was listening so i think
+
+479
+00:32:51,160 --> 00:32:55,080
+it worked okay nice uh but
+uh before we're leaving
+
+480
+00:32:55,080 --> 00:32:59,440
+um i would love to hear
+from paula about the the
+
+481
+00:32:59,440 --> 00:33:04,140
+conference so i'm actually at
+this very small meeting it's
+
+482
+00:33:04,140 --> 00:33:07,200
+a working group on requirements
+engineering and it's
+
+483
+00:33:07,200 --> 00:33:10,660
+very intense everybody does
+one hour presentation so
+
+484
+00:33:10,660 --> 00:33:14,040
+today i heard about the
+requirements security
+
+485
+00:33:14,040 --> 00:33:18,240
+requirements into adaptive in
+system that change right so
+
+486
+00:33:18,240 --> 00:33:21,700
+think about smart home right
+your smart home these are
+
+487
+00:33:21,700 --> 00:33:24,360
+actually very interesting
+system because they're also
+
+488
+00:33:24,360 --> 00:33:27,200
+not regulated because
+you're in your house you can
+
+489
+00:33:27,200 --> 00:33:31,120
+do whatever you want and
+including a lot of damage right
+
+490
+00:33:31,120 --> 00:33:34,260
+because you don't really
+know what you're doing and
+
+491
+00:33:34,260 --> 00:33:39,900
+so they were explaining um
+how you can design system
+
+492
+00:33:39,900 --> 00:33:44,720
+in a way that you um they
+can adapt uh from when you
+
+493
+00:33:44,720 --> 00:33:48,360
+plug in new things and be
+receptive for new errors
+
+494
+00:33:48,360 --> 00:33:51,880
+so this is the thing i've
+heard another very interesting
+
+495
+00:33:51,880 --> 00:33:56,380
+set of topic i've been
+hearing about is you know
+
+496
+00:33:56,380 --> 00:34:00,200
+how you add human value in
+your development development
+
+497
+00:34:00,200 --> 00:34:04,120
+of your software right
+because there are many things
+
+498
+00:34:04,120 --> 00:34:07,420
+that are your personal you
+know there are things that
+
+499
+00:34:07,420 --> 00:34:10,540
+are needs and then there
+are things that humans feel
+
+500
+00:34:10,540 --> 00:34:14,120
+as their own value so how
+do you when when you decide
+
+501
+00:34:14,120 --> 00:34:17,260
+how to develop your software
+how do you fight this
+
+502
+00:34:17,500 --> 00:34:20,850
+i've heard a lot about
+privacy and i talk i know
+
+503
+00:34:20,850 --> 00:34:24,660
+i know i already said it
+but i talk about my work
+
+504
+00:34:24,940 --> 00:34:32,660
+in on using lm to develop
+a format specification
+
+505
+00:34:32,660 --> 00:34:35,000
+and it's been very funny
+because it's a very
+
+506
+00:34:35,000 --> 00:34:38,140
+interactive kind of
+worship right and so I put
+
+507
+00:34:38,140 --> 00:34:42,820
+the title on and and three
+minutes into the talk
+
+508
+00:34:42,820 --> 00:34:44,670
+somebody say but do you
+do we really need formal
+
+509
+00:34:44,670 --> 00:34:47,460
+specification now that
+LLM can write it for us
+
+510
+00:34:48,280 --> 00:34:51,740
+yes because actually they're
+not that very good at
+
+511
+00:34:51,740 --> 00:34:55,660
+doing it actually there has
+been a very interesting study
+
+512
+00:34:55,920 --> 00:34:59,240
+that shows that even
+interactive system right like
+
+513
+00:34:59,240 --> 00:35:02,000
+not fully automatic
+translation of natural language
+
+514
+00:35:02,000 --> 00:35:05,960
+informal specification have
+the best like of 50 percent
+
+515
+00:35:05,960 --> 00:35:09,220
+correctness that is really
+a big chance right if you
+
+516
+00:35:09,220 --> 00:35:12,280
+think about specifying the
+software on the plane you're
+
+517
+00:35:12,280 --> 00:35:17,320
+flying on uh and uh and
+even the interactive one the
+
+518
+00:35:17,320 --> 00:35:19,960
+one in which you know like
+the human can still say
+
+519
+00:35:19,960 --> 00:35:23,740
+something because there is
+this laziness that it creates
+
+520
+00:35:23,740 --> 00:35:26,540
+in human right this condescending
+behavior that we have
+
+521
+00:35:26,540 --> 00:35:29,300
+when we interact with
+somebody that speaks very well
+
+522
+00:35:29,300 --> 00:35:32,300
+and so we do it LLMs. Even
+the interactive one gives
+
+523
+00:35:32,300 --> 00:35:37,680
+us, in the best case scenario,
+80% correctness, which
+
+524
+00:35:37,680 --> 00:35:41,580
+is like, yeah, maybe we
+shouldn't. And so this was my
+
+525
+00:35:41,580 --> 00:35:44,040
+first question. I said, it
+started very well. And so
+
+526
+00:35:44,040 --> 00:35:47,820
+the answer, we shouldn't let
+LLM do it, but that was my
+
+527
+00:35:47,820 --> 00:35:50,420
+last slide. So now I have
+one hour and you already
+
+528
+00:35:50,420 --> 00:35:54,960
+know the end, but it was
+still very interesting. It's a
+
+529
+00:35:54,960 --> 00:35:58,840
+very interesting group of
+people but yeah so privacy
+
+530
+00:35:58,840 --> 00:36:06,760
+security human factors um
+formal requirements oh today
+
+531
+00:36:06,760 --> 00:36:09,180
+about something this is
+my you might like the best
+
+532
+00:36:09,180 --> 00:36:14,340
+it's um it's an extension of
+git lab and the idea was to
+
+533
+00:36:14,340 --> 00:36:20,540
+try to use issues in git
+to you know to to create an
+
+534
+00:36:20,540 --> 00:36:23,300
+automatic traceability
+with your requirements like
+
+535
+00:36:23,300 --> 00:36:27,160
+which issues are actually how
+do you connect them to your
+
+536
+00:36:27,160 --> 00:36:30,080
+own requirements and then
+when the person was doing
+
+537
+00:36:30,080 --> 00:36:33,060
+this talk because they did
+an extension just before
+
+538
+00:36:33,060 --> 00:36:36,200
+gitlab became part of the
+bigger projects they're behind
+
+539
+00:36:36,200 --> 00:36:39,180
+like 40 000 commits but so
+this is going to be fun at
+
+540
+00:36:39,180 --> 00:36:44,080
+some point in life but we
+were i was thinking because
+
+541
+00:36:44,080 --> 00:36:46,120
+there were a question and
+i was thinking this could
+
+542
+00:36:46,120 --> 00:36:49,780
+be the beginning of a way
+to reverse engineering the
+
+543
+00:36:49,780 --> 00:36:52,700
+process right very often
+people don't actually have all
+
+544
+00:36:52,700 --> 00:36:55,640
+the requirements written
+down so maybe you can use
+
+545
+00:36:55,640 --> 00:36:59,840
+the issues to build the
+requirements you never had but
+
+546
+00:36:59,840 --> 00:37:02,340
+anyway this is very interesting
+so the conference is
+
+547
+00:37:02,340 --> 00:37:04,440
+going well maybe you didn't
+want me to talk for five
+
+548
+00:37:04,440 --> 00:37:09,180
+minutes about it but i did
+it so requirements will pass
+
+549
+00:37:09,180 --> 00:37:14,300
+so i will i will talk last
+i promise yeah okay right
+
+550
+00:37:14,300 --> 00:37:19,300
+uh nice and let me see i
+think we don't have any other
+
+551
+00:37:19,700 --> 00:37:23,420
+question so yeah I
+think we can for the day
+
+552
+00:37:25,620 --> 00:37:26,980
+the night
+
+553
+00:37:28,000 --> 00:37:30,520
+okay then thank you
+very much everyone
+
+554
+00:37:30,520 --> 00:37:33,260
+have a good day and
+we have last word
+
+555
+00:37:34,300 --> 00:37:37,900
+thank you for being
+here and I will see
+
+556
+00:37:37,900 --> 00:37:40,800
+you next week I don't
+never know when the
+
+557
+00:37:40,800 --> 00:37:42,920
+break is so I think
+we'll see you next week
+
+558
+00:37:42,920 --> 00:37:45,460
+and if it's break
+you'll find out online
+
+559
+00:37:46,580 --> 00:37:49,080
+have a good week bye Bye.
