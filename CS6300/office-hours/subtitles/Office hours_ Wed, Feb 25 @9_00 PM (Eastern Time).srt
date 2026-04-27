@@ -1,0 +1,790 @@
+1
+00:00:08,380 --> 00:00:12,900
+All right, welcome everyone
+to Office Hour of CS6300
+
+2
+00:00:12,900 --> 00:00:18,840
+Subway Development Process,
+and here's Paola and Will.
+
+3
+00:00:19,340 --> 00:00:20,620
+Hi, everyone.
+
+4
+00:00:21,370 --> 00:00:22,700
+Hi, everyone.
+
+5
+00:00:24,560 --> 00:00:33,500
+So, let me see, today's
+February 18, and students are
+
+6
+00:00:33,500 --> 00:00:38,180
+watching, are supposed to
+watch P3L3 design patterns.
+
+7
+00:00:38,380 --> 00:00:41,200
+which definitely helps
+with group project
+
+8
+00:00:41,200 --> 00:00:46,360
+deliverable one so this week
+we only have one assignment
+
+9
+00:00:46,360 --> 00:00:52,100
+group project d1 so it's
+um gets yeah students
+
+10
+00:00:52,100 --> 00:00:55,420
+just um get familiar
+with a team member and
+
+11
+00:00:55,420 --> 00:01:02,240
+start working on d1 right
+and for now i don't see
+
+12
+00:01:02,840 --> 00:01:06,440
+any questions yet on it.
+
+13
+00:01:06,920 --> 00:01:10,160
+So probably we can use this
+
+14
+00:01:10,160 --> 00:01:13,660
+time to see if we have anything
+
+15
+00:01:14,840 --> 00:01:18,320
+new in the industry
+or in the academia
+
+16
+00:01:20,360 --> 00:01:23,380
+community regarding the
+software development
+
+17
+00:01:23,380 --> 00:01:27,600
+process, given how fast
+the industry is changing.
+
+18
+00:01:30,400 --> 00:01:35,200
+so i have i have i'm
+reporting on something
+
+19
+00:01:35,200 --> 00:01:38,780
+i ordered and i'm i
+was at an event to
+
+20
+00:01:38,780 --> 00:01:41,620
+where people were
+reporting some studies and
+
+21
+00:01:41,620 --> 00:01:45,460
+there was this very
+interesting study on
+
+22
+00:01:46,460 --> 00:01:52,980
+feedback on when
+you use agents in
+
+23
+00:01:52,980 --> 00:01:55,280
+software engineering
+development teams
+
+24
+00:01:55,510 --> 00:01:58,080
+and so they were studying
+the good the bad and the
+
+25
+00:01:58,080 --> 00:02:02,260
+ugly right and it was pretty
+interesting and to see you
+
+26
+00:02:02,260 --> 00:02:05,440
+know where you where they
+are very good and where
+
+27
+00:02:05,440 --> 00:02:08,620
+they're bad but then i ask
+a question and and we don't
+
+28
+00:02:08,620 --> 00:02:11,300
+have answer to some things
+yet so for instance they ask
+
+29
+00:02:11,300 --> 00:02:13,380
+a question so there are
+things in which are really
+
+30
+00:02:13,380 --> 00:02:18,180
+terrible and so and so that
+triggered my question in
+
+31
+00:02:18,180 --> 00:02:21,640
+um so something they're
+very bad in correcting their
+
+32
+00:02:21,640 --> 00:02:25,860
+own code right and and so I
+was asking do we know anything
+
+33
+00:02:25,860 --> 00:02:28,160
+about maintainability
+right like you know you
+
+34
+00:02:28,160 --> 00:02:30,860
+write this code and you have
+pieces of this code that are
+
+35
+00:02:30,860 --> 00:02:35,440
+written by agents so what
+do you and of course they
+
+36
+00:02:35,440 --> 00:02:38,780
+know nothing yet but the
+initial study on correction
+
+37
+00:02:38,780 --> 00:02:42,220
+they make you think that
+they will be terrible and so
+
+38
+00:02:42,220 --> 00:02:44,700
+it was funny because the
+presenter at the end say so
+
+39
+00:02:44,700 --> 00:02:47,520
+if you're thinking to fire
+all your employees don't
+
+40
+00:02:47,520 --> 00:02:52,080
+do it I mean it's it's
+comforting we are really very
+
+41
+00:02:52,080 --> 00:02:57,680
+much needed nice so we do
+have a question now but I'm
+
+42
+00:02:57,680 --> 00:02:59,620
+also wondering when you
+talk about the good the bad
+
+43
+00:02:59,620 --> 00:03:01,720
+and the ugly I'm clearly
+ugly which one of you is the
+
+44
+00:03:01,720 --> 00:03:05,800
+good and which is the bad no
+it was not about the three
+
+45
+00:03:05,800 --> 00:03:11,900
+of us okay it's not about
+the three of us there is
+
+46
+00:03:11,900 --> 00:03:15,400
+a first question there shen
+okay so first question um
+
+47
+00:03:15,400 --> 00:03:20,320
+the instruction for hpd1
+please say that feedback from
+
+48
+00:03:20,320 --> 00:03:23,160
+a zero will defeat the
+purpose of team interaction
+
+49
+00:03:23,540 --> 00:03:27,080
+for some of us who are
+completely new even after
+
+50
+00:03:27,080 --> 00:03:30,200
+team intelligence is
+applied and we come up with
+
+51
+00:03:30,200 --> 00:03:33,320
+a design that is better
+than all of our individuals
+
+52
+00:03:33,320 --> 00:03:37,960
+design how do we know
+that we will be building
+
+53
+00:03:37,960 --> 00:03:41,500
+the app correctly. Little
+concerns that we will
+
+54
+00:03:41,500 --> 00:03:44,140
+go down the rabbit hole
+of errorless assumptions
+
+55
+00:03:44,300 --> 00:03:47,020
+or incorrect software
+design that we
+
+56
+00:03:47,020 --> 00:03:51,920
+cannot easily get out
+of in later weeks.
+
+57
+00:03:53,220 --> 00:03:58,200
+I mean literally we have
+a list of requirements
+
+58
+00:03:58,980 --> 00:04:06,340
+in assignment 5
+already so as long as
+
+59
+00:04:07,760 --> 00:04:10,840
+students and groups
+following those
+
+60
+00:04:11,100 --> 00:04:16,060
+eight or nine
+requirements. I think in
+
+61
+00:04:16,060 --> 00:04:20,660
+my experience in
+the past five years,
+
+62
+00:04:20,940 --> 00:04:24,660
+no team has the veer
+off if they just
+
+63
+00:04:24,660 --> 00:04:27,700
+follow those eight
+or nine requirements.
+
+64
+00:04:27,700 --> 00:04:31,100
+I think the hard
+part is to get that
+
+65
+00:04:31,100 --> 00:04:37,420
+requirement in the first
+place, which is not
+
+66
+00:04:37,420 --> 00:04:40,020
+scalable in an online
+format like this.
+
+67
+00:04:40,520 --> 00:04:46,240
+So to short answer, I don't see
+
+68
+00:04:46,240 --> 00:04:47,960
+a lot of concerns right there.
+
+69
+00:04:48,100 --> 00:04:53,360
+But I also want to get
+Paula here to talk more
+
+70
+00:04:53,360 --> 00:05:00,160
+about the way we are designing
+the group project right
+
+71
+00:05:00,160 --> 00:05:04,040
+now. apparently we already
+have the engineer the
+
+72
+00:05:04,040 --> 00:05:08,720
+the requirements up front
+right um do you think
+
+73
+00:05:09,040 --> 00:05:16,700
+is whether it is viable to
+have um that part as part
+
+74
+00:05:16,700 --> 00:05:20,460
+of the group project as
+well maybe not in an online
+
+75
+00:05:20,460 --> 00:05:25,560
+format or maybe not in a
+repeatable group project because
+
+76
+00:05:25,560 --> 00:05:28,060
+we kind of reuse this group
+projects every semester
+
+77
+00:05:28,060 --> 00:05:31,760
+right but then if we have
+to let the students to do um
+
+78
+00:05:31,760 --> 00:05:35,100
+hands-on requirement
+engineering maybe every semester
+
+79
+00:05:35,100 --> 00:05:38,900
+we have to find a new kind
+of a hack or something and
+
+80
+00:05:38,900 --> 00:05:41,520
+not a repeatable uh group
+project assignment like we
+
+81
+00:05:41,520 --> 00:05:46,120
+do right now so paula yeah
+i think if if uh if the
+
+82
+00:05:46,120 --> 00:05:49,000
+this the requirements come
+from the students right then
+
+83
+00:05:49,000 --> 00:05:51,640
+the project can go really
+in every direction it's also
+
+84
+00:05:51,640 --> 00:05:55,540
+much more difficult to say
+in a setting if you know
+
+85
+00:05:55,540 --> 00:05:59,040
+to evaluate requirements i
+would take they would take
+
+86
+00:05:59,040 --> 00:06:04,480
+a much larger part of you
+of your course because when
+
+87
+00:06:04,480 --> 00:06:07,860
+you build your requirements
+you you don't build them
+
+88
+00:06:07,860 --> 00:06:11,040
+just from documents or
+materials so the the setting of
+
+89
+00:06:11,040 --> 00:06:15,760
+playoff would be much much
+more complicated so you
+
+90
+00:06:15,760 --> 00:06:19,120
+should imagine a complete
+different setting and um i
+
+91
+00:06:19,120 --> 00:06:23,420
+could imagine an hackathon
+in in in in other classes if
+
+92
+00:06:23,420 --> 00:06:26,160
+you teach just requirements
+or the first part until
+
+93
+00:06:26,160 --> 00:06:29,100
+design and and you stop
+there then you have much more
+
+94
+00:06:29,100 --> 00:06:32,460
+time and you can simulate
+something at the beginning I
+
+95
+00:06:33,240 --> 00:06:36,240
+mean I actually can imagine
+in the future even in online
+
+96
+00:06:36,240 --> 00:06:41,360
+setting though to have
+and and they exist really
+
+97
+00:06:41,360 --> 00:06:45,220
+like some LLM pretending to
+be your customer to try to
+
+98
+00:06:45,220 --> 00:06:48,140
+get the requirements but
+then if you have your every
+
+99
+00:06:48,140 --> 00:06:51,360
+group has different requirements
+then the project will
+
+100
+00:06:51,360 --> 00:06:55,920
+diverge completely because
+uh in this way right like
+
+101
+00:06:55,920 --> 00:06:58,600
+if you have the requirements
+as a base and you're sure
+
+102
+00:06:58,600 --> 00:07:02,960
+as she was saying that you
+cover the requirements uh
+
+103
+00:07:02,960 --> 00:07:06,160
+and you work with your team
+you kind of you don't get
+
+104
+00:07:06,160 --> 00:07:08,140
+much of feedback but you
+are still covering the
+
+105
+00:07:08,140 --> 00:07:11,930
+requirements you are you're
+simulating actual interaction
+
+106
+00:07:11,930 --> 00:07:18,260
+like in in real life And so
+I think for a course that
+
+107
+00:07:18,260 --> 00:07:21,140
+tried to cover the old
+software development lifecycle,
+
+108
+00:07:21,280 --> 00:07:23,220
+this is the way to go.
+
+109
+00:07:26,380 --> 00:07:28,000
+Thank you, Paula.
+
+110
+00:07:28,100 --> 00:07:33,400
+Let me see how we answer
+the first question.
+
+111
+00:07:44,910 --> 00:07:50,650
+um it's quite um it's
+quite quiet um today
+
+112
+00:07:50,650 --> 00:07:54,310
+is it the spring break
+coming soon or what
+
+113
+00:07:56,480 --> 00:07:58,750
+it could be i don't
+know i don't know in
+
+114
+00:07:58,750 --> 00:08:02,190
+other states but in
+most of the county
+
+115
+00:08:02,190 --> 00:08:04,570
+around atlanta children
+are home from school
+
+116
+00:08:04,570 --> 00:08:07,830
+so some parents might
+also be overwhelmed
+
+117
+00:08:10,410 --> 00:08:14,170
+I'm saying this, I'm
+just like completely
+
+118
+00:08:15,360 --> 00:08:17,890
+hearing the noise
+in the other room.
+
+119
+00:08:18,150 --> 00:08:21,070
+So Paula, you are
+from Italy, right?
+
+120
+00:08:21,850 --> 00:08:24,990
+I know that Italy
+is a long country.
+
+121
+00:08:25,630 --> 00:08:27,090
+In Italy,
+
+122
+00:08:27,090 --> 00:08:29,290
+is there any part of the
+country that has a kind of
+
+123
+00:08:29,290 --> 00:08:32,420
+spring break and they do the
+spring skiing kind i'm saying
+
+124
+00:08:32,420 --> 00:08:37,330
+no we don't we don't do it
+so there is the so spring
+
+125
+00:08:37,330 --> 00:08:41,730
+break is not a thing in italy
+right so we so i i never
+
+126
+00:08:41,730 --> 00:08:44,770
+the the term spring break
+before coming to the united
+
+127
+00:08:44,770 --> 00:08:48,570
+states in italy all the
+vacation are associated to
+
+128
+00:08:48,570 --> 00:08:55,410
+some other event so um so
+we do what do we do during
+
+129
+00:08:55,410 --> 00:08:59,350
+summer we do carnival in
+February and usually everybody
+
+130
+00:08:59,350 --> 00:09:03,410
+that let's say the cutoff
+maybe is Tuscany everybody
+
+131
+00:09:03,410 --> 00:09:09,090
+in northern Tuscany goes to
+go skiing and but it's but
+
+132
+00:09:09,090 --> 00:09:12,590
+carnival was in February so
+it's still winter and people
+
+133
+00:09:12,590 --> 00:09:15,630
+in the south if they're
+really passionate because in
+
+134
+00:09:15,630 --> 00:09:19,720
+the south so you know in
+Italy it's all crossed by
+
+135
+00:09:19,720 --> 00:09:23,130
+mountains right so the
+mountains where people usually
+
+136
+00:09:23,130 --> 00:09:27,170
+ski are the one at the border
+and northern border so this
+
+137
+00:09:27,170 --> 00:09:29,830
+is what i'm saying and they
+are also the tallest ones
+
+138
+00:09:29,830 --> 00:09:36,130
+so there is no more often
+um but and then easter is
+
+139
+00:09:36,130 --> 00:09:39,450
+usually like end of march
+beginning of april and so
+
+140
+00:09:39,450 --> 00:09:42,390
+again people in the north might
+still get away with knowing
+
+141
+00:09:42,390 --> 00:09:45,730
+the whisking especially
+if they go up in the alps
+
+142
+00:09:45,860 --> 00:09:49,650
+um but then it's more and
+then people in the south
+
+143
+00:09:49,650 --> 00:09:53,170
+actually in sicily in in april
+might be able to go to the
+
+144
+00:09:53,170 --> 00:09:58,170
+beach already it's a small
+country but we have it all
+
+145
+00:09:59,830 --> 00:10:02,650
+including the food
+i wanted to finish
+
+146
+00:10:02,650 --> 00:10:04,890
+my advertisement
+for the country
+
+147
+00:10:09,950 --> 00:10:14,610
+right so it seems that
+we have no more questions
+
+148
+00:10:14,610 --> 00:10:17,570
+for the team uh for the
+time being i think the
+
+149
+00:10:17,570 --> 00:10:21,730
+the team is busy
+communicating get get to know
+
+150
+00:10:21,730 --> 00:10:27,110
+each other so um i think
+we can call it uh call it
+
+151
+00:10:27,110 --> 00:10:31,970
+early then we can um
+revisit the next next week
+
+152
+00:10:31,970 --> 00:10:35,950
+to see if people have
+more questions especially
+
+153
+00:10:36,170 --> 00:10:39,790
+given the um more
+assignment instruction
+
+154
+00:10:39,790 --> 00:10:43,230
+uh it's uh yeah this
+is coming and also
+
+155
+00:10:43,230 --> 00:10:46,280
+for more questions
+about Alessa, right?
+
+156
+00:10:47,070 --> 00:10:50,170
+So yeah, thank you
+all. And I will
+
+157
+00:10:50,170 --> 00:10:53,410
+let Paula and Will say goodbye.
+
+158
+00:10:54,510 --> 00:10:55,790
+So long, everyone.
+
+159
+00:10:56,430 --> 00:10:57,890
+Bye, everybody.
+
+160
+00:10:57,890 --> 00:11:01,530
+Have a great week.
+We'll see you next week.
+
+161
+00:11:02,230 --> 00:11:04,010
+Bye, all. Thank you.
