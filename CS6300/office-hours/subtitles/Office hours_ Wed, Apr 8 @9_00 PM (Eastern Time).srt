@@ -1,0 +1,3773 @@
+1
+00:00:04,380 --> 00:00:05,520
+Hello, everyone.
+
+2
+00:00:05,660 --> 00:00:07,900
+Welcome to tonight's
+office hour.
+
+3
+00:00:08,480 --> 00:00:10,400
+Tonight is just me and Will,
+
+4
+00:00:10,920 --> 00:00:15,120
+so no Shin, but
+hopefully we'll do well,
+
+5
+00:00:15,400 --> 00:00:17,920
+just the two of us. Will,
+do you want to say hi?
+
+6
+00:00:18,120 --> 00:00:19,480
+Hello, everyone.
+
+7
+00:00:19,500 --> 00:00:22,280
+I don't know if Shin
+gave us anything
+
+8
+00:00:22,280 --> 00:00:25,140
+that we were supposed
+to mention this time.
+
+9
+00:00:25,140 --> 00:00:27,020
+I don't know what
+week number it is.
+
+10
+00:00:27,780 --> 00:00:29,060
+Me neither.
+
+11
+00:00:30,720 --> 00:00:32,580
+But here we'll go.
+
+12
+00:00:33,280 --> 00:00:35,040
+it didn't look like
+there were any questions
+
+13
+00:00:35,040 --> 00:00:37,360
+yet so I'm sort of looking
+up just seeing where
+
+14
+00:00:37,360 --> 00:00:40,640
+we should be right now
+yeah but also the main
+
+15
+00:00:40,840 --> 00:00:45,800
+topic of this office hour
+is for us to provide the
+
+16
+00:00:45,800 --> 00:00:50,120
+solution of assignment 6
+this is true and then of
+
+17
+00:00:50,120 --> 00:00:52,540
+course if in the meantime
+you have any questions and
+
+18
+00:00:52,540 --> 00:00:55,420
+you want to post them in ad
+we will take care of them
+
+19
+00:00:55,600 --> 00:00:58,370
+after that so let
+me start sharing
+
+20
+00:00:58,370 --> 00:01:00,260
+and thank you to
+the person that
+
+21
+00:01:00,790 --> 00:01:04,400
+that shared that it
+is week 13. Thank you.
+
+22
+00:01:04,400 --> 00:01:05,540
+Thank you.
+
+23
+00:01:05,600 --> 00:01:06,860
+Somebody's counting.
+
+24
+00:01:06,860 --> 00:01:09,740
+So I was saying very close
+to the end, much more
+
+25
+00:01:09,740 --> 00:01:12,500
+than the beginning, but
+I wouldn't have said the
+
+26
+00:01:12,500 --> 00:01:15,780
+week. But we didn't do
+13 office hours. I think
+
+27
+00:01:15,780 --> 00:01:19,330
+this includes the two weeks
+that we had the spring
+
+28
+00:01:19,330 --> 00:01:22,160
+break and the ********.
+Okay, so let me share my
+
+29
+00:01:22,160 --> 00:01:24,620
+screen in the meantime,
+because if you want to say
+
+30
+00:01:24,620 --> 00:01:27,320
+something, because I am
+clearly not multitasking.
+
+31
+00:01:27,320 --> 00:01:30,320
+so before i start sharing
+a random other document
+
+32
+00:01:30,320 --> 00:01:37,260
+i let you say something
+okay yeah so we're uh
+
+33
+00:01:37,580 --> 00:01:41,660
+got the answers all set
+up for you so and we can
+
+34
+00:01:41,660 --> 00:01:46,060
+see it now okay perfect so
+you see the document and
+
+35
+00:01:46,060 --> 00:01:49,520
+nothing else that's perfect
+okay so um i'm starting
+
+36
+00:01:49,520 --> 00:01:51,740
+with the with the
+solution but as i said In
+
+37
+00:01:51,740 --> 00:01:54,190
+the meantime, if you have
+any comment or question,
+
+38
+00:01:54,760 --> 00:01:59,660
+Will is monitoring the
+post on the office hour, so
+
+39
+00:01:59,660 --> 00:02:03,620
+feel free to ask through
+that. And I will say, keep
+
+40
+00:02:03,620 --> 00:02:07,100
+in mind, when we say the
+answer, these are sample
+
+41
+00:02:07,100 --> 00:02:10,160
+answers. There are any
+number of ways you could
+
+42
+00:02:10,160 --> 00:02:13,660
+have solved several of
+these. So we're giving you a
+
+43
+00:02:13,660 --> 00:02:16,260
+sample of how it could have
+been solved, not necessarily
+
+44
+00:02:16,260 --> 00:02:18,240
+saying you have to have
+exactly this or you
+
+45
+00:02:18,240 --> 00:02:21,000
+won't get points. Yeah, and
+I will repeat it 3 million
+
+46
+00:02:21,000 --> 00:02:23,980
+times. This is just a
+possible solution, right?
+
+47
+00:02:24,980 --> 00:02:28,460
+Somehow, I think one of
+the easiest way to solve
+
+48
+00:02:28,460 --> 00:02:31,860
+it, because you can
+overcomplicate if you look
+
+49
+00:02:31,860 --> 00:02:34,420
+at the way in which you
+said it, or you could have
+
+50
+00:02:34,420 --> 00:02:36,880
+solved it in a little,
+slightly different way.
+
+51
+00:02:37,260 --> 00:02:40,440
+But I think that looking
+through a possible
+
+52
+00:02:40,440 --> 00:02:44,220
+solution gives you an
+idea of the direction
+
+53
+00:02:44,220 --> 00:02:46,600
+you should have taken
+with your solution.
+
+54
+00:02:47,120 --> 00:02:49,620
+Okay, so let's start
+with task number one.
+
+55
+00:02:50,000 --> 00:02:54,080
+And so the task was
+asking you to create
+
+56
+00:02:55,030 --> 00:03:01,080
+a method that
+contain a division by
+
+57
+00:03:01,080 --> 00:03:04,220
+zero fault and at
+least two branches,
+
+58
+00:03:04,220 --> 00:03:08,160
+such that every possible
+test suite that reveal
+
+59
+00:03:08,160 --> 00:03:11,980
+the fault achieve 100%
+statement coverage, and
+
+60
+00:03:11,980 --> 00:03:14,480
+it's possible to create
+a test suite that achieve
+
+61
+00:03:14,480 --> 00:03:18,740
+100% branch coverage and
+does not reveal the fault.
+
+62
+00:03:18,740 --> 00:03:21,200
+Now, one of the problems
+with this one, sorry,
+
+63
+00:03:21,200 --> 00:03:23,600
+one of the problems with
+this one is just to be
+
+64
+00:03:24,200 --> 00:03:26,920
+aware that there is a
+difference between every
+
+65
+00:03:26,920 --> 00:03:29,760
+possible test suite that
+reveals the fault, achieves
+
+66
+00:03:29,760 --> 00:03:33,380
+100% statement coverage, and
+every possible test suite
+
+67
+00:03:33,380 --> 00:03:35,560
+that achieves 100% statement
+coverage reveals the
+
+68
+00:03:35,560 --> 00:03:38,460
+fault. This is not saying
+every 100% statement
+
+69
+00:03:38,460 --> 00:03:41,000
+coverage has to find the
+fault. It says you can't find
+
+70
+00:03:41,000 --> 00:03:44,020
+the fault with less than
+100% statement coverage.
+
+71
+00:03:44,860 --> 00:03:48,180
+yeah exactly because if it
+was the other way around
+
+72
+00:03:48,180 --> 00:03:51,410
+one could say okay how
+is it possible that this
+
+73
+00:03:51,410 --> 00:03:55,940
+happened and there is a
+test suite that achieve 100%
+
+74
+00:03:55,940 --> 00:03:58,640
+coverage and that's not
+refill the fault but this is
+
+75
+00:03:58,640 --> 00:04:02,760
+not saying that every test
+suite that reveal the fault
+
+76
+00:04:03,330 --> 00:04:07,500
+it doesn't say every test
+suite that achieve 100%
+
+77
+00:04:07,500 --> 00:04:09,460
+coverage reveal the fault
+it's say the other way
+
+78
+00:04:09,460 --> 00:04:11,920
+around it's say every test
+suite that reveal default
+
+79
+00:04:11,920 --> 00:04:17,320
+achieve 100% coverage okay
+that's so now a possible
+
+80
+00:04:17,320 --> 00:04:21,480
+solution right how do you
+start the idea is this it
+
+81
+00:04:21,480 --> 00:04:24,300
+the suggestion is that as
+there are at least two branches
+
+82
+00:04:24,300 --> 00:04:27,900
+so ideally you try to
+see if you know you can
+
+83
+00:04:27,900 --> 00:04:32,000
+just do it with two branches
+right and now because it
+
+84
+00:04:32,120 --> 00:04:35,600
+says every possible test
+suite that reveal default
+
+85
+00:04:35,600 --> 00:04:40,380
+achieve 100% statement
+coverage ideally one could say
+
+86
+00:04:40,380 --> 00:04:43,540
+okay so i have two branches
+in one nothing happened
+
+87
+00:04:43,540 --> 00:04:46,900
+and in the other there is
+this statement that can
+
+88
+00:04:46,900 --> 00:04:51,460
+create a fault okay and
+so this is how we built a
+
+89
+00:04:51,460 --> 00:04:55,860
+possible solution and i um
+i will repeat it million
+
+90
+00:04:55,860 --> 00:05:00,480
+times um we'll say it at
+the beginning but it applies
+
+91
+00:05:00,920 --> 00:05:05,120
+all the way so in our
+solution what we decide to
+
+92
+00:05:05,120 --> 00:05:07,740
+say is that at the end
+right we have a division
+
+93
+00:05:08,380 --> 00:05:12,700
+one divided by a and so we
+have two branches in one
+
+94
+00:05:12,700 --> 00:05:16,550
+we manipulate the value of
+a in the other we do nothing
+
+95
+00:05:16,550 --> 00:05:20,820
+and that means that there
+might be way in which we
+
+96
+00:05:20,820 --> 00:05:24,060
+manipulate the value of a
+in this in in the branch
+
+97
+00:05:24,060 --> 00:05:27,160
+where there is the statement
+in which we can make it
+
+98
+00:05:27,160 --> 00:05:31,680
+become zero and so it means
+that when a becomes zero,
+
+99
+00:05:31,960 --> 00:05:34,080
+since if you look at our graph,
+
+100
+00:05:39,140 --> 00:05:41,960
+every time we go and
+manipulate the value
+
+101
+00:05:41,960 --> 00:05:45,820
+of a, we cover all
+the statement, right?
+
+102
+00:05:47,220 --> 00:05:52,960
+And our condition requires
+that a to go in the false
+
+103
+00:05:52,960 --> 00:05:59,040
+branch, that a is less than
+zero. So when we arrive at
+
+104
+00:05:59,040 --> 00:06:05,960
+the division by A here, we
+arrive either manipulating
+
+105
+00:06:05,960 --> 00:06:10,260
+the value of A, and in that
+case, there is a situation
+
+106
+00:06:10,260 --> 00:06:13,400
+in which A can become zero,
+or we arrive in this direction
+
+107
+00:06:13,400 --> 00:06:16,420
+and A is always less than
+zero, so it's never equal
+
+108
+00:06:16,420 --> 00:06:20,860
+to zero. So the only way
+to have a division by zero
+
+109
+00:06:20,860 --> 00:06:25,700
+is to go in the branch, is
+to cover all the statement.
+
+110
+00:06:26,200 --> 00:06:30,840
+And it happens just
+when A is equal to one.
+
+111
+00:06:30,840 --> 00:06:36,360
+So every time, so in
+order to reveal the fault,
+
+112
+00:06:36,360 --> 00:06:39,160
+I have to have a test case
+that is A equal to one.
+
+113
+00:06:39,160 --> 00:06:42,100
+But I can cover all the
+branches without choosing
+
+114
+00:06:42,100 --> 00:06:44,640
+A equal to one as a
+value, right? because, for
+
+115
+00:06:44,640 --> 00:06:47,740
+instance, I can choose
+A equal to 0 and A equal
+
+116
+00:06:47,740 --> 00:06:50,740
+to minus 1, or I can
+choose A equal to 10 and A
+
+117
+00:06:50,740 --> 00:06:53,940
+equal to minus 7. I cover
+all the branches, but
+
+118
+00:06:53,940 --> 00:06:57,320
+I don't reveal the fault.
+But every time I include
+
+119
+00:06:57,320 --> 00:07:00,600
+A equal to 1, I'm covering
+all the statement.
+
+120
+00:07:01,740 --> 00:07:05,000
+So every time I reveal
+the fault, I have covered
+
+121
+00:07:05,000 --> 00:07:08,060
+all the statement as was
+requested by the task.
+
+122
+00:07:08,880 --> 00:07:10,490
+Will, do you want
+to add anything?
+
+123
+00:07:10,640 --> 00:07:11,440
+Nope.
+
+124
+00:07:11,440 --> 00:07:12,800
+If you want to go
+up and just show
+
+125
+00:07:12,800 --> 00:07:14,200
+them what the code
+looks like, too.
+
+126
+00:07:14,700 --> 00:07:16,160
+It was up. Yeah.
+
+127
+00:07:16,160 --> 00:07:17,260
+Yes. Right there.
+
+128
+00:07:17,540 --> 00:07:20,800
+You know, I'm a visual
+person, so the graph speaks
+
+129
+00:07:20,800 --> 00:07:24,160
+to me much more than
+the code. But yes. And I
+
+130
+00:07:24,160 --> 00:07:25,940
+tend to be much more
+of a code person, so I
+
+131
+00:07:25,940 --> 00:07:28,080
+figured you probably have
+some of each in the class,
+
+132
+00:07:28,080 --> 00:07:30,080
+so it's good to show them
+both. Maybe I can manage
+
+133
+00:07:30,080 --> 00:07:32,400
+to have both at the
+same time in the screen.
+
+134
+00:07:32,780 --> 00:07:33,580
+Almost.
+
+135
+00:07:33,880 --> 00:07:35,080
+Almost. Yay.
+
+136
+00:07:36,760 --> 00:07:39,520
+But you can basically see
+the same situation. is
+
+137
+00:07:39,520 --> 00:07:43,760
+the only way you can reach
+it is passing in one,
+
+138
+00:07:43,840 --> 00:07:48,300
+which does create 100%
+statement coverage. So you
+
+139
+00:07:48,300 --> 00:07:52,800
+can't do it in less than
+100% statement coverage.
+
+140
+00:07:52,800 --> 00:07:55,880
+And yet if you pass in
+two and zero, you won't
+
+141
+00:07:55,880 --> 00:07:58,280
+find it, but you'll have
+created branch coverage.
+
+142
+00:07:58,960 --> 00:08:00,820
+Two and minus one.
+
+143
+00:08:02,600 --> 00:08:03,920
+Or two and zero.
+
+144
+00:08:04,180 --> 00:08:06,440
+No. Oh, no, two and minus
+one. Sorry, it's greater
+
+145
+00:08:06,440 --> 00:08:09,480
+than or equal to. yes because
+if you would include the
+
+146
+00:08:09,480 --> 00:08:13,740
+zero here so if a was
+greater than zero my dyslexic
+
+147
+00:08:13,740 --> 00:08:15,880
+brain didn't see the
+greater than or equal to it
+
+148
+00:08:15,880 --> 00:08:19,580
+just so yeah i'm telling
+you the graph is your friend
+
+149
+00:08:21,740 --> 00:08:28,300
+okay let's go to task number
+two uh okay task number
+
+150
+00:08:28,300 --> 00:08:31,860
+two was asking uh to
+against the usual things to
+
+151
+00:08:31,860 --> 00:08:34,580
+create a method call unstable
+method two that contains
+
+152
+00:08:34,580 --> 00:08:37,860
+a division by zero fault
+and at least two branches
+
+153
+00:08:37,860 --> 00:08:41,580
+such that every possible
+test suite that achieve
+
+154
+00:08:41,580 --> 00:08:47,220
+100% branch coverage reveal
+the fault and it is not
+
+155
+00:08:47,220 --> 00:08:50,120
+possible to create a test
+suite that achieve less
+
+156
+00:08:50,120 --> 00:08:54,800
+than 100% statement coverage
+and reveal the fault
+
+157
+00:08:54,940 --> 00:08:59,560
+so let's read it again so
+every possible test suite
+
+158
+00:08:59,560 --> 00:09:03,160
+that achieve 100% branch
+coverage, reveal default.
+
+159
+00:09:03,360 --> 00:09:06,400
+But at the same time,
+it is not possible
+
+160
+00:09:06,400 --> 00:09:08,860
+to create a test suite
+that doesn't cover
+
+161
+00:09:08,860 --> 00:09:11,640
+all the statements
+and reveal default.
+
+162
+00:09:11,840 --> 00:09:14,940
+So if we think about what
+we had before, we are
+
+163
+00:09:14,940 --> 00:09:18,600
+in a similar situation,
+right? Because we have two
+
+164
+00:09:18,600 --> 00:09:22,420
+branches, right? And if
+we think in the simplest
+
+165
+00:09:22,420 --> 00:09:28,300
+way, we can say, okay, so
+I cannot develop the else
+
+166
+00:09:28,340 --> 00:09:32,360
+branch. And so I have a
+branch in which I have
+
+167
+00:09:32,360 --> 00:09:34,760
+a statement and a branch
+in which I don't have it
+
+168
+00:09:35,340 --> 00:09:37,320
+if the
+
+169
+00:09:39,540 --> 00:09:42,840
+fault was where
+nothing happened so
+
+170
+00:09:42,840 --> 00:09:45,730
+where there are no
+statement I could
+
+171
+00:09:45,960 --> 00:09:51,460
+reach I could find
+the default without
+
+172
+00:09:51,920 --> 00:09:54,420
+reaching the without
+
+173
+00:09:55,180 --> 00:09:58,640
+getting 100% statement
+coverage so again yeah,
+
+174
+00:09:58,640 --> 00:10:01,880
+I need to be able to
+cover all the statement
+
+175
+00:10:02,180 --> 00:10:08,000
+to find the fault. So
+in this way, we did it
+
+176
+00:10:08,000 --> 00:10:12,100
+as simple as possible.
+And we just say, okay,
+
+177
+00:10:12,100 --> 00:10:15,820
+so let's do the most
+simple way is like, okay,
+
+178
+00:10:15,820 --> 00:10:19,420
+if A is equal to zero,
+I divided one by A.
+
+179
+00:10:19,560 --> 00:10:25,300
+And that means that, you
+know, to reveal the fault,
+
+180
+00:10:25,300 --> 00:10:31,620
+I need to execute this
+statement and it's not
+
+181
+00:10:31,620 --> 00:10:38,120
+possible to find this fault
+unless I execute all the
+
+182
+00:10:38,120 --> 00:10:42,160
+statement. On the other
+hand, every time I cover all
+
+183
+00:10:42,160 --> 00:10:45,860
+the branches, I also cover
+this one and so I always
+
+184
+00:10:45,860 --> 00:10:49,020
+reveal the fault because
+it doesn't, whenever I go
+
+185
+00:10:49,020 --> 00:10:54,400
+in the then branch so
+on this side i go with a
+
+186
+00:10:54,400 --> 00:10:57,860
+single value so i to go on
+this side i i need to have
+
+187
+00:10:57,860 --> 00:11:01,360
+a equal to zero so to cover
+all the branches i have
+
+188
+00:11:01,360 --> 00:11:04,720
+to have a equal one one
+test case in which a equal
+
+189
+00:11:04,720 --> 00:11:07,740
+to zero and one test case
+in which a is different
+
+190
+00:11:07,740 --> 00:11:10,620
+from zero and it doesn't
+really matter the value
+
+191
+00:11:10,620 --> 00:11:15,000
+which a is different from
+zero but every time i cover
+
+192
+00:11:15,000 --> 00:11:19,200
+this this branch i reveal
+the fault and i I cannot
+
+193
+00:11:19,200 --> 00:11:22,500
+reveal the fault unless
+I cover this branch. And
+
+194
+00:11:22,500 --> 00:11:25,000
+when I cover this branch,
+I cover all the statement.
+
+195
+00:11:27,540 --> 00:11:29,660
+Will, I'll show the code.
+
+196
+00:11:29,660 --> 00:11:30,280
+Yeah.
+
+197
+00:11:33,280 --> 00:11:34,280
+Basically,
+
+198
+00:11:34,760 --> 00:11:37,800
+you've got one branch that
+you always will reveal
+
+199
+00:11:37,800 --> 00:11:40,100
+the fault any time you
+go into that branch.
+
+200
+00:11:40,500 --> 00:11:44,200
+And the other branch
+doesn't contain
+
+201
+00:11:44,200 --> 00:11:47,880
+anything. So you can't
+execute the fault
+
+202
+00:11:47,880 --> 00:11:49,800
+and not have hit
+all the statements.
+
+203
+00:11:50,680 --> 00:11:54,140
+And think about this. You
+say every possible test
+
+204
+00:11:54,140 --> 00:11:57,100
+suite that achieves 100
+% branch coverage will be
+
+205
+00:11:57,100 --> 00:12:00,500
+the fault. And so we put
+the fault in a position
+
+206
+00:12:00,500 --> 00:12:06,040
+in a way that every time
+you go down that branch,
+
+207
+00:12:06,600 --> 00:12:11,340
+to go down that branch,
+you have always the
+
+208
+00:12:11,340 --> 00:12:15,460
+same value, right?
+Because if it was more
+
+209
+00:12:15,460 --> 00:12:17,860
+articulated like in
+the previous example,
+
+210
+00:12:17,860 --> 00:12:19,700
+then you could
+cover that branch
+
+211
+00:12:19,700 --> 00:12:22,040
+with different
+values of A, right?
+
+212
+00:12:22,040 --> 00:12:25,840
+And before, we were just
+decremented the value of
+
+213
+00:12:25,840 --> 00:12:29,200
+A. Here it's really,
+really simple. Every time A
+
+214
+00:12:29,200 --> 00:12:32,280
+is equal to zero, you go
+in the then branch. And
+
+215
+00:12:32,280 --> 00:12:35,740
+in that branch, you
+divided one by A. That is
+
+216
+00:12:35,740 --> 00:12:39,340
+equal to zero. And actually,
+you could do this even
+
+217
+00:12:39,340 --> 00:12:42,100
+slightly more simply if
+you passed in a boolean.
+
+218
+00:12:42,100 --> 00:12:46,880
+And if the Boolean
+was true, you have int
+
+219
+00:12:46,880 --> 00:12:50,100
+a equals 1. If the
+Boolean is true, it's 0.
+
+220
+00:12:50,100 --> 00:12:51,880
+a equals 1 over a.
+
+221
+00:12:52,200 --> 00:12:55,340
+It would be the same
+situation, but it'd be even
+
+222
+00:12:55,340 --> 00:12:59,480
+simpler because there'd be
+only two things you could
+
+223
+00:12:59,480 --> 00:13:01,780
+pass in. You don't get
+confused by, oh, well, but
+
+224
+00:13:01,780 --> 00:13:03,800
+there's a zillion different
+a's I could pass in.
+
+225
+00:13:05,120 --> 00:13:06,040
+Yeah.
+
+226
+00:13:06,180 --> 00:13:11,280
+Yeah, but yes. But the
+fact is just to, yeah.
+
+227
+00:13:11,280 --> 00:13:13,400
+I may just be confusing
+things. I'm sorry.
+
+228
+00:13:13,400 --> 00:13:17,080
+It's okay. No, it's fine.
+Because I think that the
+
+229
+00:13:17,080 --> 00:13:20,860
+key here is that to cover
+all the branches, you need
+
+230
+00:13:20,860 --> 00:13:23,800
+to pick A equal to zero
+and A different from zero.
+
+231
+00:13:23,800 --> 00:13:26,540
+When you pick A equal to
+zero, you reveal the fault.
+
+232
+00:13:26,540 --> 00:13:30,740
+And so there is no
+other way you can cover
+
+233
+00:13:30,740 --> 00:13:32,840
+all the branches. So
+every time you cover
+
+234
+00:13:32,840 --> 00:13:34,620
+all the branches,
+you reveal the fault.
+
+235
+00:13:34,620 --> 00:13:37,580
+And to reveal the fault,
+you need to cover all
+
+236
+00:13:37,580 --> 00:13:40,980
+the statement because the
+fault is on this side.
+
+237
+00:13:40,980 --> 00:13:43,320
+not on the side where
+nothing happened.
+
+238
+00:13:44,100 --> 00:13:46,280
+Okay, third task.
+
+239
+00:13:47,560 --> 00:13:50,620
+Again, create a method
+called unstable method
+
+240
+00:13:50,620 --> 00:13:53,180
+three, third task,
+that contain a division
+
+241
+00:13:53,180 --> 00:13:56,200
+by zero fault and at
+least two branches so
+
+242
+00:13:56,200 --> 00:13:58,980
+that every possible
+task suite that achieves
+
+243
+00:13:58,980 --> 00:14:02,280
+100% statement coverage
+reveals the fault.
+
+244
+00:14:02,500 --> 00:14:05,900
+And it is possible to
+create a task suite that
+
+245
+00:14:05,900 --> 00:14:09,560
+achieves 100% path coverage
+and does not reveal default
+
+246
+00:14:09,560 --> 00:14:18,140
+will thoughts this this
+is not possible and in
+
+247
+00:14:18,140 --> 00:14:21,560
+order to receive full points
+on this one you had to
+
+248
+00:14:21,560 --> 00:14:24,460
+adequately describe that
+it is not possible and
+
+249
+00:14:24,460 --> 00:14:29,170
+essentially you had to
+describe subsumption because
+
+250
+00:14:29,170 --> 00:14:33,020
+essentially what it means
+is because path coverage
+
+251
+00:14:33,020 --> 00:14:35,840
+subsumes branch coverage
+and branch coverage subsume
+
+252
+00:14:35,840 --> 00:14:38,980
+statement coverage. Therefore,
+every path coverage,
+
+253
+00:14:38,980 --> 00:14:44,100
+100% path coverage test suite
+will also be 100% statement
+
+254
+00:14:44,100 --> 00:14:47,600
+coverage. So therefore,
+any path coverage that did
+
+255
+00:14:47,600 --> 00:14:49,620
+not reveal the fault would
+have to not reveal the
+
+256
+00:14:49,620 --> 00:14:51,680
+fault because it was path
+coverage, but also reveal the
+
+257
+00:14:51,680 --> 00:14:53,820
+fault because it was statement
+coverage. And since it
+
+258
+00:14:53,820 --> 00:14:58,150
+can't do both things, it's
+impossible. So if you didn't
+
+259
+00:14:58,150 --> 00:15:00,580
+fully convey your understanding
+of that, you'd get
+
+260
+00:15:00,580 --> 00:15:03,700
+half points for it if
+you've fully described that
+
+261
+00:15:03,700 --> 00:15:07,940
+situation uh then you would
+get full points and you can
+
+262
+00:15:07,940 --> 00:15:11,970
+also think about this and
+explain this in a much more
+
+263
+00:15:11,970 --> 00:15:15,160
+simplified way rightly you
+can say something like okay
+
+264
+00:15:15,160 --> 00:15:19,480
+assuming i i'm i'm the
+daughter of two mathematicians
+
+265
+00:15:19,480 --> 00:15:22,930
+right so i like this idea
+like let's pretend like
+
+266
+00:15:22,930 --> 00:15:25,980
+let's let's uh let's have
+let's start by contradiction
+
+267
+00:15:25,980 --> 00:15:28,860
+so let's assume i can create
+a test suite that achieves
+
+268
+00:15:28,860 --> 00:15:32,480
+100% coverage and does not
+reveal the fault, right?
+
+269
+00:15:32,600 --> 00:15:34,040
+But then
+
+270
+00:15:34,140 --> 00:15:39,540
+in that test suite, there
+are different subsets of
+
+271
+00:15:39,540 --> 00:15:43,760
+that test suite that achieve
+100% statement coverage.
+
+272
+00:15:44,400 --> 00:15:49,340
+But my second
+hypothesis is that every
+
+273
+00:15:49,340 --> 00:15:51,140
+possible test suite
+that achieves 100
+
+274
+00:15:51,140 --> 00:15:54,160
+% statement coverage
+reveal the fault.
+
+275
+00:15:54,280 --> 00:16:00,440
+So those subsets would
+reveal the fault and I reach
+
+276
+00:16:00,440 --> 00:16:02,940
+a contradiction. And
+this comes exactly by the
+
+277
+00:16:02,940 --> 00:16:06,000
+subsumption, right? This is
+really a mathematical concept
+
+278
+00:16:06,000 --> 00:16:09,340
+you can think about,
+subsumption as you are, you
+
+279
+00:16:09,340 --> 00:16:13,880
+know, a test suite is a
+set of test cases and the
+
+280
+00:16:13,880 --> 00:16:17,760
+different coverage criteria
+give you different sets.
+
+281
+00:16:18,020 --> 00:16:21,620
+And because certain
+coverage criteria are
+
+282
+00:16:21,620 --> 00:16:25,980
+stronger than others, they
+contain other subsets.
+
+283
+00:16:27,120 --> 00:16:29,320
+Maybe now was my time to
+
+284
+00:16:29,320 --> 00:16:31,280
+confuse them more.
+I don't know.
+
+285
+00:16:31,960 --> 00:16:35,880
+We take turns, guys. We take
+turns. This is teamwork.
+
+286
+00:16:36,060 --> 00:16:39,570
+Okay, but this is
+the solution. We
+
+287
+00:16:39,570 --> 00:16:42,120
+set it, and so that
+was not possible.
+
+288
+00:16:43,020 --> 00:16:48,700
+Okay, so let's move into—now
+we start from the code
+
+289
+00:16:48,700 --> 00:16:53,060
+and we need to build the
+task suite so we have a
+
+290
+00:16:53,060 --> 00:16:58,100
+class we have a method that
+has been given so it's i
+
+291
+00:16:58,100 --> 00:17:00,400
+leave you the code here for
+a second but of course you
+
+292
+00:17:00,400 --> 00:17:04,400
+all have worked with it
+and seen it and what we are
+
+293
+00:17:04,400 --> 00:17:07,740
+asked we have been asked to
+is to apply two different
+
+294
+00:17:07,740 --> 00:17:13,760
+criteria so the statement
+coverage and modify
+
+295
+00:17:13,760 --> 00:17:18,420
+condition and decision
+coverage and we want to create
+
+296
+00:17:20,540 --> 00:17:26,660
+we want to create a test
+suite that achieves 100%
+
+297
+00:17:26,660 --> 00:17:31,160
+statement coverage with at
+most three test cases and then
+
+298
+00:17:31,160 --> 00:17:36,160
+we want to create a test suite
+that achieves 100% modify
+
+299
+00:17:36,160 --> 00:17:40,320
+condition and decision
+coverage and contain at most
+
+300
+00:17:40,320 --> 00:17:44,300
+eight test cases. Now, there
+are a lot of, there are
+
+301
+00:17:44,300 --> 00:17:49,360
+bonus points here because
+we'll talk about this when we
+
+302
+00:17:49,360 --> 00:17:54,360
+look into that, but you
+can, you get extra points if
+
+303
+00:17:54,360 --> 00:17:59,560
+you actually get, you find
+what is the minimum possible
+
+304
+00:17:59,560 --> 00:18:04,320
+number of test cases that
+you need to achieve 100%
+
+305
+00:18:04,320 --> 00:18:09,540
+modified condition and decision
+coverage. Okay, so this
+
+306
+00:18:09,900 --> 00:18:14,080
+was the overall problem.
+And I know that we like the
+
+307
+00:18:14,080 --> 00:18:16,940
+code a little better than me,
+but let's reason about the
+
+308
+00:18:16,940 --> 00:18:19,840
+code for a second and move
+to the control flow graph.
+
+309
+00:18:20,020 --> 00:18:23,420
+In this case, we start and
+we have like we initialize
+
+310
+00:18:23,420 --> 00:18:26,000
+result to zero. Then we
+have our first condition
+
+311
+00:18:26,000 --> 00:18:28,980
+that is a simple condition.
+So it's just if A is different
+
+312
+00:18:28,980 --> 00:18:32,980
+from B, we do something.
+otherwise we do something
+
+313
+00:18:32,980 --> 00:18:36,840
+else and we do something
+is all of these that we
+
+314
+00:18:36,840 --> 00:18:40,640
+are asking ourselves if a
+certain much more complicated
+
+315
+00:18:40,640 --> 00:18:45,500
+condition is if this certain
+much more complicated
+
+316
+00:18:45,500 --> 00:18:53,480
+condition that contain three
+simple elements if this
+
+317
+00:18:53,480 --> 00:18:56,940
+is true then result is equal
+to one otherwise result
+
+318
+00:18:56,940 --> 00:19:02,780
+is equal to zero then And
+if I go back here, so if A
+
+319
+00:19:02,780 --> 00:19:06,180
+was not different from B,
+I'm down here, and then
+
+320
+00:19:06,180 --> 00:19:09,460
+result is equal to 3. And
+at the end, I return result.
+
+321
+00:19:09,460 --> 00:19:13,260
+So if we look at this
+visually, we get this
+
+322
+00:19:13,260 --> 00:19:16,520
+control-throw graph, and
+I'll skip the entry at
+
+323
+00:19:16,520 --> 00:19:18,480
+the beginning so we
+can fit everything that
+
+324
+00:19:18,480 --> 00:19:21,740
+is really important for
+us to reason a second.
+
+325
+00:19:22,000 --> 00:19:25,940
+This is what we see, right?
+and so if you look at these
+
+326
+00:19:25,940 --> 00:19:30,500
+we have in the graph we
+have the condition here can
+
+327
+00:19:30,500 --> 00:19:33,260
+be true or false if the
+condition is true this condition
+
+328
+00:19:33,260 --> 00:19:36,920
+can be true or false
+and so to cover all the
+
+329
+00:19:36,920 --> 00:19:40,740
+statement and every branch
+has a listed statement so I
+
+330
+00:19:40,740 --> 00:19:44,700
+need to go to cover all the
+statement I need to make
+
+331
+00:19:44,700 --> 00:19:49,080
+through I mean to go in in
+all the different branches of
+
+332
+00:19:49,080 --> 00:19:55,360
+these of each decision so
+i need to cover for true i
+
+333
+00:19:55,360 --> 00:19:58,980
+go here i need to cover
+for true i go here and here
+
+334
+00:19:58,980 --> 00:20:01,960
+i'm covered i'm covering
+this statement i'm covered
+
+335
+00:20:01,960 --> 00:20:06,660
+result equal to one then if
+a is different from b and
+
+336
+00:20:06,660 --> 00:20:10,320
+this condition is false i
+cover result equal to two and
+
+337
+00:20:10,320 --> 00:20:14,200
+then if a is equal to b i
+cover result equal to three
+
+338
+00:20:14,200 --> 00:20:19,140
+so to cover all the statement
+I need three test cases
+
+339
+00:20:19,140 --> 00:20:23,420
+right one is to go in this
+direction and is any test
+
+340
+00:20:23,420 --> 00:20:28,160
+cases in which a is equal
+to b so and all the other
+
+341
+00:20:28,160 --> 00:20:32,460
+values c b c d and e I don't
+really care because they
+
+342
+00:20:32,460 --> 00:20:36,640
+don't affect where I go
+after a is equal to b so a
+
+343
+00:20:36,640 --> 00:20:40,780
+equal to 3 and b equal to 3
+would be perfectly fine to
+
+344
+00:20:40,780 --> 00:20:44,840
+cover this statement that
+I can cover just when a is
+
+345
+00:20:44,840 --> 00:20:49,840
+equal to b and when a is
+different from b I'm going in
+
+346
+00:20:49,840 --> 00:20:53,500
+in this case and now this
+is a little tricky because
+
+347
+00:20:53,500 --> 00:20:57,680
+it's a more complex condition
+and that's precedent
+
+348
+00:20:57,680 --> 00:21:04,520
+overall so it means that for
+this condition to be true c
+
+349
+00:21:04,980 --> 00:21:07,820
+is equal to zero
+and d is greater
+
+350
+00:21:07,820 --> 00:21:14,160
+than zero or a e
+is less than zero.
+
+351
+00:21:15,850 --> 00:21:19,420
+So if we go in this
+direction, let's get any two
+
+352
+00:21:19,420 --> 00:21:22,840
+different values for a and
+b, so a equal to one and
+
+353
+00:21:22,840 --> 00:21:28,500
+b equal to two. And then
+for this condition to be
+
+354
+00:21:28,500 --> 00:21:31,400
+true, for instance, I get
+a negative value for e,
+
+355
+00:21:31,520 --> 00:21:34,160
+and that makes the
+whole condition true.
+
+356
+00:21:34,160 --> 00:21:36,760
+And so I'm moving down
+in this direction.
+
+357
+00:21:37,060 --> 00:21:40,160
+Now to make the
+condition false,
+
+358
+00:21:40,780 --> 00:21:45,580
+this has to be false,
+and this has to be
+
+359
+00:21:45,580 --> 00:21:49,260
+false. So I get a
+positive number for e,
+
+360
+00:21:49,580 --> 00:21:53,180
+a negative number for
+d, and c different
+
+361
+00:21:53,180 --> 00:21:56,600
+from zero. So for
+example, c equal to 1,
+
+362
+00:21:57,090 --> 00:22:01,100
+D equal to minus 1,
+and E equal to 2. And
+
+363
+00:22:01,100 --> 00:22:03,240
+this would give me
+this coverage, right?
+
+364
+00:22:03,240 --> 00:22:06,440
+So this would allow
+me to cover this.
+
+365
+00:22:06,600 --> 00:22:10,540
+And so I need three
+test cases because in
+
+366
+00:22:10,600 --> 00:22:14,280
+every branch, every
+time I make a decision,
+
+367
+00:22:14,280 --> 00:22:17,220
+I also have a statement
+underneath it.
+
+368
+00:22:17,580 --> 00:22:20,920
+And this is to achieve
+100% statement coverage.
+
+369
+00:22:21,120 --> 00:22:24,060
+Will you want to add
+something before we move?
+
+370
+00:22:24,400 --> 00:22:29,120
+So now to do the modified
+condition and decision
+
+371
+00:22:29,120 --> 00:22:32,600
+criteria, we need to build
+our truth table because
+
+372
+00:22:32,600 --> 00:22:34,670
+here the idea is a little
+bit more sophisticated.
+
+373
+00:22:35,040 --> 00:22:38,640
+And what we are trying to
+do is how any condition
+
+374
+00:22:38,640 --> 00:22:41,840
+within a more complex
+condition within a decision
+
+375
+00:22:41,840 --> 00:22:46,260
+in the control flow graph
+affect the condition.
+
+376
+00:22:46,260 --> 00:22:49,440
+So what we are trying to
+do is here nothing has
+
+377
+00:22:49,840 --> 00:22:52,640
+changed because it's a
+simple condition. is done
+
+378
+00:22:52,640 --> 00:22:56,380
+by, I mean, it can be
+just true or false, and it
+
+379
+00:22:56,380 --> 00:22:59,380
+affects the decision. When
+A is different from B,
+
+380
+00:22:59,380 --> 00:23:01,880
+I go in a direction,
+otherwise I go in the other.
+
+381
+00:23:02,300 --> 00:23:07,000
+But this, in this decision
+point, I have a much
+
+382
+00:23:07,000 --> 00:23:09,900
+more complicated thing,
+right? And so all the
+
+383
+00:23:09,900 --> 00:23:14,460
+different parts of
+these, all the different
+
+384
+00:23:14,460 --> 00:23:20,170
+conditions, c equal to 0 d
+greater than 0 and e less
+
+385
+00:23:20,170 --> 00:23:23,980
+than 0 affect the decision
+of where I'm going
+
+386
+00:23:24,140 --> 00:23:25,600
+in different ways.
+
+387
+00:23:25,680 --> 00:23:28,160
+And so with this criteria,
+I'm trying to cover
+
+388
+00:23:28,200 --> 00:23:32,120
+where every single one of
+these conditions affect
+
+389
+00:23:32,120 --> 00:23:35,340
+the decision that I
+make. And to try to see
+
+390
+00:23:35,340 --> 00:23:38,880
+how this happens, what
+I need to do is to build
+
+391
+00:23:38,880 --> 00:23:42,160
+the truth table and
+try to see how all the
+
+392
+00:23:42,160 --> 00:23:44,360
+different conditions
+affect the decision, right?
+
+393
+00:23:44,660 --> 00:23:47,070
+And so now we have one,
+
+394
+00:23:48,120 --> 00:23:51,540
+two, three, four conditions,
+so four different
+
+395
+00:23:51,540 --> 00:23:55,220
+conditions, and so that means
+I have to build a truth table
+
+396
+00:23:55,220 --> 00:23:57,980
+with 16 lines, right?
+This is all the possible
+
+397
+00:23:57,980 --> 00:24:01,780
+combinations of true or
+false, and so each of these
+
+398
+00:24:01,780 --> 00:24:05,160
+conditions can be true or
+false, and the combinations are
+
+399
+00:24:05,160 --> 00:24:09,760
+16. Now, because when a
+different from b is false,
+
+400
+00:24:09,760 --> 00:24:14,380
+really the value of c equal
+to 0, D greater than 0, E
+
+401
+00:24:14,380 --> 00:24:19,720
+less than 0 are not relevant,
+I can collapse all the
+
+402
+00:24:19,720 --> 00:24:25,800
+cases in which A is greater
+than B. But when A is
+
+403
+00:24:25,800 --> 00:24:30,340
+equal to B, but when A is
+different from B, I need to
+
+404
+00:24:30,340 --> 00:24:34,500
+combine these with all these
+values. So I'm building
+
+405
+00:24:34,500 --> 00:24:38,380
+the truth table. I mean, I'm
+not building it is already
+
+406
+00:24:38,380 --> 00:24:41,640
+built in the document i
+show but let's reason about
+
+407
+00:24:41,640 --> 00:24:45,360
+this together right so
+this is this last line here
+
+408
+00:24:45,360 --> 00:24:48,960
+are all the cases in which
+a different from b is
+
+409
+00:24:48,960 --> 00:24:52,540
+false and as i was telling
+you before because in that
+
+410
+00:24:52,540 --> 00:24:56,860
+side right over here when a
+is different from b is false
+
+411
+00:24:56,860 --> 00:24:59,540
+the value of the other
+condition doesn't matter i
+
+412
+00:24:59,540 --> 00:25:02,840
+can collapse that because
+when a is different from b
+
+413
+00:25:02,840 --> 00:25:06,480
+is different uh is different
+from b it's really the
+
+414
+00:25:06,480 --> 00:25:09,920
+value of this higher condition
+doesn't really matter
+
+415
+00:25:10,520 --> 00:25:15,640
+but uh if now i was um
+to see how i'm covering
+
+416
+00:25:15,640 --> 00:25:20,760
+the the graph i need to
+see instead in case a
+
+417
+00:25:20,760 --> 00:25:23,900
+is different from b how
+this different value
+
+418
+00:25:23,900 --> 00:25:27,180
+affect the decision in
+the control flow graph
+
+419
+00:25:27,180 --> 00:25:31,360
+right and so i build a
+true table here uh so i
+
+420
+00:25:31,360 --> 00:25:33,920
+try to do all the
+combination of the values so
+
+421
+00:25:35,300 --> 00:25:38,850
+these are three elements so
+there are eight combinations
+
+422
+00:25:38,850 --> 00:25:42,340
+um and we build it
+right so now it's tricky
+
+423
+00:25:42,340 --> 00:25:46,540
+because there is no parentheses
+so i'm i'm looking at c
+
+424
+00:25:46,540 --> 00:25:52,160
+equal to zero and d greater
+than zero or e less than
+
+425
+00:25:52,160 --> 00:25:57,620
+zero so i i approach
+always true table in a lazy
+
+426
+00:25:57,620 --> 00:26:02,140
+mode so because this is the
+norm right when a is less
+
+427
+00:26:02,140 --> 00:26:06,570
+than zero so when a less
+than zero is true this
+
+428
+00:26:06,760 --> 00:26:10,420
+formula is always true and
+so i start like you know um
+
+429
+00:26:10,420 --> 00:26:13,780
+okay this is true and the
+form and the condition will
+
+430
+00:26:13,780 --> 00:26:16,440
+be true this is true this
+is true and this is true
+
+431
+00:26:16,440 --> 00:26:19,260
+and i don't even look at
+the others right it doesn't
+
+432
+00:26:19,260 --> 00:26:22,700
+matter and now when this
+is fault for the the truth
+
+433
+00:26:22,700 --> 00:26:26,440
+value depend on c equal
+to zero and d greater than
+
+434
+00:26:26,440 --> 00:26:29,880
+zero but it's an end so they
+have to be both true for
+
+435
+00:26:29,880 --> 00:26:35,120
+the formula to be true so
+in row two c is equal to
+
+436
+00:26:35,120 --> 00:26:39,260
+zero uh true d greater than
+zero true and so it doesn't
+
+437
+00:26:39,260 --> 00:26:42,600
+really matter if a is
+not less than zero the
+
+438
+00:26:42,600 --> 00:26:46,340
+decision i will make will
+go to go on the true on the
+
+439
+00:26:46,340 --> 00:26:50,840
+true side of the control
+flow graph here i have one of
+
+440
+00:26:50,840 --> 00:26:53,700
+the two is false here i
+have one of the two is false
+
+441
+00:26:53,700 --> 00:26:56,540
+They are both false. So
+in all these other cases,
+
+442
+00:26:56,740 --> 00:27:01,900
+the value is false. And this
+
+443
+00:27:01,900 --> 00:27:03,780
+is how I build my truth table.
+
+444
+00:27:03,920 --> 00:27:04,920
+Yes?
+
+445
+00:27:05,720 --> 00:27:07,800
+Will, any clarification?
+
+446
+00:27:07,880 --> 00:27:09,380
+Did I go too fast?
+
+447
+00:27:11,740 --> 00:27:12,740
+No?
+
+448
+00:27:13,140 --> 00:27:15,020
+I cannot hear you.
+
+449
+00:27:15,820 --> 00:27:17,400
+It might be just me.
+
+450
+00:27:17,400 --> 00:27:21,340
+No, I had accidentally hit
+the mute button on my mic.
+
+451
+00:27:21,590 --> 00:27:25,160
+um jace is better with
+this stuff than i am so uh
+
+452
+00:27:25,160 --> 00:27:28,420
+you've done a good job of
+explaining it so we'll go
+
+453
+00:27:28,420 --> 00:27:33,020
+with that okay let's and
+then anyway you you can ask
+
+454
+00:27:33,020 --> 00:27:38,220
+any question you want about
+this now using um using
+
+455
+00:27:38,220 --> 00:27:42,520
+the office hour post okay
+so now the the trick is
+
+456
+00:27:42,520 --> 00:27:48,320
+that i want to cover all
+the lines um in the minimum
+
+457
+00:27:48,320 --> 00:27:51,160
+number of eyes because we
+want the bonus point right
+
+458
+00:27:51,160 --> 00:27:57,300
+to uh in which each of
+these is the only one that
+
+459
+00:27:57,300 --> 00:28:02,080
+change and affect as and
+because it's it is the only
+
+460
+00:28:02,080 --> 00:28:07,000
+one that change also change
+the value the decision
+
+461
+00:28:07,000 --> 00:28:10,570
+that i will make in the
+control flow graph right so now
+
+462
+00:28:10,620 --> 00:28:15,340
+that means i need to pick
+if i look at the first
+
+463
+00:28:15,340 --> 00:28:18,780
+branch that i have in my
+control flow graph, it means
+
+464
+00:28:18,780 --> 00:28:23,900
+I need to pick one test
+case between one and eight,
+
+465
+00:28:24,200 --> 00:28:24,780
+right?
+
+466
+00:28:25,040 --> 00:28:28,700
+And one test case between
+nine and 16, because I want
+
+467
+00:28:28,700 --> 00:28:32,720
+to be able to go on this side
+and on this side. Because
+
+468
+00:28:32,720 --> 00:28:37,140
+A, different from B, is
+just a simple condition, so
+
+469
+00:28:37,140 --> 00:28:42,880
+its root value fully affects
+the path that I will take
+
+470
+00:28:42,880 --> 00:28:46,020
+in the control flow graph.
+Now, it becomes more
+
+471
+00:28:46,020 --> 00:28:50,190
+complicated when i look at
+the other right like one c
+
+472
+00:28:50,190 --> 00:28:55,260
+different equal to zero is
+the condition that affect the
+
+473
+00:28:55,260 --> 00:28:58,780
+decision i will make on the
+control flow graph okay so
+
+474
+00:28:58,780 --> 00:29:01,520
+i need to start looking and
+say okay let's look at two
+
+475
+00:29:01,520 --> 00:29:06,820
+rows where the only thing
+that change is c the different
+
+476
+00:29:06,820 --> 00:29:11,200
+from equal to zero. And so
+if I look at row one and
+
+477
+00:29:11,200 --> 00:29:16,660
+row five, the only two things
+that change is the truth
+
+478
+00:29:16,660 --> 00:29:21,900
+value of C equal to zero.
+But this change doesn't
+
+479
+00:29:21,900 --> 00:29:25,600
+affect the truth value of
+the overall condition. So
+
+480
+00:29:25,600 --> 00:29:30,120
+independently from the truth
+value of C equal to zero, I
+
+481
+00:29:30,120 --> 00:29:34,240
+will always go in the truth
+branch. So that means that
+
+482
+00:29:34,240 --> 00:29:37,380
+condition doesn't affect
+the decision i'm making so
+
+483
+00:29:37,380 --> 00:29:42,380
+now i'm looking at two with
+six and here again c equal
+
+484
+00:29:42,380 --> 00:29:45,460
+to zero is the only one that
+changed but in this case
+
+485
+00:29:45,460 --> 00:29:52,300
+if you look if c is equal
+to zero there i will go to
+
+486
+00:29:52,300 --> 00:29:57,920
+the uh then branch in the
+in this in these when i'm
+
+487
+00:29:57,920 --> 00:30:02,080
+making this decision while
+instead in row six that where
+
+488
+00:30:02,080 --> 00:30:06,080
+the only thing that changes
+the value of C, I go into
+
+489
+00:30:06,080 --> 00:30:10,980
+the other branch. So the
+pair 2, 6 is a pair in which
+
+490
+00:30:10,980 --> 00:30:15,640
+I value the value of C, of
+the condition C equal to
+
+491
+00:30:15,640 --> 00:30:20,080
+zero. And so I'll put it there
+as a pair that is a potential
+
+492
+00:30:20,080 --> 00:30:22,920
+pair to be covered. Now,
+if I keep going and I
+
+493
+00:30:22,920 --> 00:30:26,460
+look at 3 with 7, in which
+again is just C that changed,
+
+494
+00:30:26,460 --> 00:30:31,020
+or at 4 and 8, in this case,
+the value of C does not
+
+495
+00:30:31,020 --> 00:30:35,000
+affect the final decision
+that I'm making in my flow.
+
+496
+00:30:35,640 --> 00:30:38,740
+I need to do the same for
+all the other conditions,
+
+497
+00:30:38,740 --> 00:30:43,440
+and so if I look at the
+condition d greater than 0,
+
+498
+00:30:43,680 --> 00:30:47,180
+and I need to look at the
+rows where d is the only
+
+499
+00:30:47,180 --> 00:30:50,220
+thing that changes, so I
+look at row 1 with row 3,
+
+500
+00:30:50,900 --> 00:30:53,480
+d is the only thing that
+changes but the final value
+
+501
+00:30:53,480 --> 00:30:57,340
+doesn't change, I look
+at row 2 with row 4, d is
+
+502
+00:30:57,340 --> 00:30:59,880
+the only thing that change
+and the final value change
+
+503
+00:30:59,880 --> 00:31:04,380
+so that would be a row that
+i add then i look at the
+
+504
+00:31:04,380 --> 00:31:09,580
+value of five with seven
+and nothing change in the
+
+505
+00:31:09,580 --> 00:31:12,740
+final decision and then
+six and eight and nothing
+
+506
+00:31:12,740 --> 00:31:17,000
+change in the in the in the
+final decision so at the
+
+507
+00:31:17,000 --> 00:31:24,700
+end the only the only
+pairs that I need, that is
+
+508
+00:31:24,700 --> 00:31:27,960
+relevant for the modified
+condition decision criteria
+
+509
+00:31:28,240 --> 00:31:34,540
+is 2, 4. Now, I look at E
+less than 0, and then the
+
+510
+00:31:35,280 --> 00:31:38,620
+pairs that I need to consider
+together are 1, 2, 3,
+
+511
+00:31:38,620 --> 00:31:41,760
+4, and 5, 6, and 7, 8,
+because these are the two
+
+512
+00:31:41,760 --> 00:31:44,100
+pairs in which the only thing
+that change is the value
+
+513
+00:31:44,100 --> 00:31:47,520
+of a less than zero. And
+if I look at one and two,
+
+514
+00:31:48,630 --> 00:31:52,600
+the truth value of e less
+than zero is the only thing
+
+515
+00:31:52,600 --> 00:31:55,000
+that changed, but that
+doesn't affect the decision.
+
+516
+00:31:55,020 --> 00:31:59,000
+But if I look to all the
+other pairs, in those pairs,
+
+517
+00:32:00,230 --> 00:32:04,140
+the change in the value
+and the truth value of e
+
+518
+00:32:04,140 --> 00:32:09,920
+less than zero change also
+the final value in how I
+
+519
+00:32:09,920 --> 00:32:14,340
+navigate the control flow
+graph, so in the execution
+
+520
+00:32:14,340 --> 00:32:20,420
+of my program. And so the
+pairs 3, 4, 5, 6, and 7, 8
+
+521
+00:32:20,420 --> 00:32:24,500
+are pairs that are eligible
+to cover that condition.
+
+522
+00:32:24,900 --> 00:32:28,380
+Okay, so now I want to
+cover the minimum number to
+
+523
+00:32:28,380 --> 00:32:31,120
+get the bonus points,
+right? So for sure, I need
+
+524
+00:32:31,120 --> 00:32:36,020
+to choose a test case in
+the group 9, 16, right?
+
+525
+00:32:36,280 --> 00:32:39,020
+and then i need to choose
+one this case in the group
+
+526
+00:32:39,020 --> 00:32:42,240
+one eight but really it's
+not that important which one
+
+527
+00:32:42,240 --> 00:32:46,560
+so let's see what are my
+other constraints now for to
+
+528
+00:32:46,560 --> 00:32:51,640
+cover c greater than c equal
+to zero i need to cover both
+
+529
+00:32:51,640 --> 00:32:56,020
+two and six to cover d
+greater than zero i need to
+
+530
+00:32:56,020 --> 00:33:01,780
+cover both two and four so
+two four and six that are
+
+531
+00:33:01,780 --> 00:33:04,660
+needed because they're my
+only option to cover these two
+
+532
+00:33:04,660 --> 00:33:08,580
+conditions also take care of
+a test case in one to eight
+
+533
+00:33:08,580 --> 00:33:13,840
+but also if i look here
+they also cover already this
+
+534
+00:33:13,840 --> 00:33:19,180
+right and so if i'm adding
+three then i cover this
+
+535
+00:33:19,180 --> 00:33:23,980
+pair and i take care also
+of a e less than zero and so
+
+536
+00:33:23,980 --> 00:33:29,180
+if i look at two three four
+six and anything in here for
+
+537
+00:33:29,180 --> 00:33:32,820
+for example, nine, with
+five test case in my test
+
+538
+00:33:32,820 --> 00:33:38,360
+suite, I reach 100% coverage
+in the modified condition
+
+539
+00:33:38,360 --> 00:33:42,970
+decision criteria. Notice
+that you could have taken two,
+
+540
+00:33:43,700 --> 00:33:47,440
+four, I mean, you are
+stuck at taking two, four,
+
+541
+00:33:47,440 --> 00:33:50,900
+six, right? Because these
+two pairs are needed
+
+542
+00:33:50,900 --> 00:33:53,620
+to cover these two
+conditions. But then because
+
+543
+00:33:53,620 --> 00:33:56,120
+you already had six, you
+could have taken five
+
+544
+00:33:56,460 --> 00:33:59,900
+instead of taking three
+and then instead of
+
+545
+00:33:59,900 --> 00:34:03,040
+taking nine you could
+have taken 16 it doesn't
+
+546
+00:34:03,040 --> 00:34:06,980
+really matter so there
+are still staying in the
+
+547
+00:34:06,980 --> 00:34:09,580
+realm of the minimum
+number of test cases you
+
+548
+00:34:09,580 --> 00:34:13,380
+could have taken um
+other test cases than the
+
+549
+00:34:13,380 --> 00:34:15,840
+one that we are representing
+in this solution
+
+550
+00:34:17,360 --> 00:34:20,000
+but the minimum
+number was five yeah
+
+551
+00:34:25,140 --> 00:34:30,100
+yep okay so now last exercise
+
+552
+00:34:31,340 --> 00:34:35,740
+this is this is probably
+like kind of i i always
+
+553
+00:34:35,740 --> 00:34:38,100
+when i look at the assignment
+i always think this
+
+554
+00:34:38,100 --> 00:34:40,680
+is kind of you know the
+let's get relaxed now we are
+
+555
+00:34:40,680 --> 00:34:43,660
+at the end because it's
+uh it's somehow a little
+
+556
+00:34:46,320 --> 00:34:50,300
+less mental right you really
+just need to execute the
+
+557
+00:34:50,300 --> 00:34:53,380
+code manually might execute
+the code that you have in
+
+558
+00:34:53,380 --> 00:35:02,180
+front of you and so you
+have the code for a method
+
+559
+00:35:02,180 --> 00:35:08,940
+and they're asking you to
+fill out the table here and
+
+560
+00:35:08,940 --> 00:35:13,120
+saying what is the expected
+output with this value of a
+
+561
+00:35:13,120 --> 00:35:17,220
+and b and then to complete
+certain sentences, right?
+
+562
+00:35:17,300 --> 00:35:22,980
+So let's just look at
+the code here, and then
+
+563
+00:35:22,980 --> 00:35:25,520
+we look at the sentences,
+right? So we need to
+
+564
+00:35:25,520 --> 00:35:29,180
+look, depending on the
+truth value of a and b,
+
+565
+00:35:29,180 --> 00:35:31,700
+try to understand what
+is the output, right?
+
+566
+00:35:31,700 --> 00:35:37,100
+So let's just, talking
+aloud, execute this
+
+567
+00:35:37,100 --> 00:35:40,960
+code. So x is equal
+to 1, y is equal to 1.
+
+568
+00:35:41,410 --> 00:35:44,000
+so now we do the
+first rule A is
+
+569
+00:35:44,000 --> 00:35:47,080
+true, B is true when A is true
+
+570
+00:35:47,580 --> 00:35:50,640
+what happens is that X becomes
+
+571
+00:35:51,600 --> 00:35:52,640
+0
+
+572
+00:35:53,400 --> 00:35:56,480
+and then when B is true then
+
+573
+00:35:56,480 --> 00:36:00,080
+X that is now 0 become minus 1
+
+574
+00:36:00,860 --> 00:36:03,140
+and so when I arrive here I
+
+575
+00:36:03,140 --> 00:36:07,420
+divide Y that is 1 by minus 1
+
+576
+00:36:08,770 --> 00:36:12,000
+that is negative, so
+the final value is true.
+
+577
+00:36:14,420 --> 00:36:19,200
+Yes? Yes. I'm doing it without
+looking to the solution,
+
+578
+00:36:19,200 --> 00:36:24,740
+so and I'm also pretty tired,
+so I'm counting on you.
+
+579
+00:36:24,740 --> 00:36:29,700
+Now the second row is when
+A is true and B is false.
+
+580
+00:36:30,150 --> 00:36:33,860
+And so when A is true, we
+already saw this a become
+
+581
+00:36:33,860 --> 00:36:38,640
+x become equal to zero
+because i'm going here but b
+
+582
+00:36:38,640 --> 00:36:44,240
+now is uh but b now is
+false so i'm going here so
+
+583
+00:36:44,240 --> 00:36:48,000
+i'm not changing again the
+value of x so x remain equal
+
+584
+00:36:48,000 --> 00:36:51,920
+to zero so when i arrive
+here i have a division a
+
+585
+00:36:51,920 --> 00:36:59,300
+division by zero and so i
+have an error yep now other
+
+586
+00:36:59,300 --> 00:37:04,180
+combination is when a is
+false and b is true so in
+
+587
+00:37:04,180 --> 00:37:07,700
+this case i'm here and i'm
+changing the value of y
+
+588
+00:37:08,280 --> 00:37:14,000
+and y was equal to 1 and
+it becomes equal to 2.
+
+589
+00:37:14,560 --> 00:37:18,600
+then i'm here and i'm
+changing the value of x
+
+590
+00:37:18,720 --> 00:37:21,480
+x was equal to 1 and
+become equal to 0
+
+591
+00:37:21,480 --> 00:37:24,360
+so when i arrive here
+again i'm dividing
+
+592
+00:37:24,360 --> 00:37:27,200
+2 by 0 and so again
+I have an error.
+
+593
+00:37:27,820 --> 00:37:36,260
+Now the last case is when
+A is equal to false and
+
+594
+00:37:36,260 --> 00:37:40,360
+B is equal to false and
+in this case in both cases
+
+595
+00:37:40,360 --> 00:37:44,560
+I'm just X is not touch
+and so X is equal to 1
+
+596
+00:37:45,150 --> 00:37:49,160
+and so I already know there
+is not gonna be an error
+
+597
+00:37:49,160 --> 00:37:51,740
+but let's see if it's
+true or false what we get.
+
+598
+00:37:52,040 --> 00:37:55,220
+So x remain equal to 1, y
+
+599
+00:37:55,220 --> 00:37:58,000
+become equal to 2, and then 3.
+
+600
+00:37:58,000 --> 00:38:01,200
+So it's 3 divided by
+1 is 3. Is it less
+
+601
+00:38:01,200 --> 00:38:03,340
+than 0? No. So the
+result is false.
+
+602
+00:38:04,060 --> 00:38:05,880
+This is what I'm returning.
+
+603
+00:38:05,880 --> 00:38:08,360
+So then if we
+look at the table,
+
+604
+00:38:08,360 --> 00:38:10,940
+it would be true, error, error,
+
+605
+00:38:11,160 --> 00:38:11,920
+false.
+
+606
+00:38:13,180 --> 00:38:17,860
+Now, let's keep trying
+to be brave and solving
+
+607
+00:38:17,860 --> 00:38:21,120
+things on the flight
+let's see these sentences
+
+608
+00:38:21,120 --> 00:38:24,120
+so the last the last
+point to the end of
+
+609
+00:38:24,120 --> 00:38:26,840
+this exercise was to
+complete these sentences
+
+610
+00:38:26,840 --> 00:38:30,000
+right and so they say
+the following sentences
+
+611
+00:38:32,340 --> 00:38:36,060
+we need to complete these
+sentences with never
+
+612
+00:38:36,060 --> 00:38:41,440
+sometimes or always so
+the first sentence say
+
+613
+00:38:41,440 --> 00:38:46,280
+test suite with 100
+statement coverage reveal the
+
+614
+00:38:46,280 --> 00:38:51,360
+fault in this method and
+we need to say if it's
+
+615
+00:38:51,560 --> 00:38:57,440
+never sometimes or always
+um let me turn on the brain
+
+616
+00:38:57,440 --> 00:39:01,760
+um and so um to reach
+statement coverage it means
+
+617
+00:39:01,760 --> 00:39:09,000
+that i need um uh i need to
+cover this statement this
+
+618
+00:39:09,000 --> 00:39:11,720
+statement this statement
+and this statement, but
+
+619
+00:39:11,720 --> 00:39:16,320
+I can cover all the statement
+in different ways, right?
+
+620
+00:39:16,320 --> 00:39:19,580
+If we look at the true
+table that we just built,
+
+621
+00:39:20,000 --> 00:39:20,540
+okay?
+
+622
+00:39:20,800 --> 00:39:24,180
+I, for instance, could
+cover all the statement with
+
+623
+00:39:24,180 --> 00:39:28,500
+this one and this one,
+right? When A is true and
+
+624
+00:39:28,500 --> 00:39:31,660
+B is true, and when A is
+false and B is false, I
+
+625
+00:39:31,660 --> 00:39:37,280
+cover all the statement and
+I don't ever reveal. You
+
+626
+00:39:37,280 --> 00:39:40,300
+don't find the error.
+Yeah, I don't. But, of
+
+627
+00:39:40,300 --> 00:39:44,520
+course, I could instead
+choose this one and this one,
+
+628
+00:39:45,140 --> 00:39:47,580
+right? And I'm covering
+all the statements
+
+629
+00:39:47,580 --> 00:39:51,240
+with two test cases
+and find error, right?
+
+630
+00:39:51,240 --> 00:39:55,220
+So, never is wrong,
+always is wrong.
+
+631
+00:39:55,220 --> 00:40:00,320
+We are now stuck with
+sometimes. Sometimes.
+
+632
+00:40:01,000 --> 00:40:04,720
+And yes, oh, okay,
+now I kind of cheated.
+
+633
+00:40:04,720 --> 00:40:06,170
+Okay, I was in the
+wrong direction.
+
+634
+00:40:06,170 --> 00:40:08,020
+Sometimes was right. Now,
+
+635
+00:40:08,640 --> 00:40:19,160
+the second branch coverage,
+but kind of the examples
+
+636
+00:40:19,160 --> 00:40:25,050
+I gave you now were also
+examples that shows that I
+
+637
+00:40:25,050 --> 00:40:28,110
+actually gave a sneak peek
+that the answer is sometimes.
+
+638
+00:40:29,200 --> 00:40:32,460
+But the two examples that
+I gave you for statement
+
+639
+00:40:32,460 --> 00:40:37,040
+coverage right now reaches
+100% branch coverage.
+
+640
+00:40:37,040 --> 00:40:40,800
+So because we are
+covering all the branches.
+
+641
+00:40:40,800 --> 00:40:43,460
+Now, to cover all the
+statements, you need to
+
+642
+00:40:43,460 --> 00:40:45,620
+cover all the branches
+because there are no empty
+
+643
+00:40:45,620 --> 00:40:50,300
+branches here. So the
+answer is still sometimes,
+
+644
+00:40:50,300 --> 00:40:53,460
+right? Because you can
+choose a test suite that
+
+645
+00:40:53,840 --> 00:41:01,200
+are these two central rows
+and reveal the test case,
+
+646
+00:41:01,200 --> 00:41:05,200
+or you can choose these two
+and then reveal the error.
+
+647
+00:41:05,240 --> 00:41:06,160
+Yep.
+
+648
+00:41:07,200 --> 00:41:12,240
+last question now i'm not
+gonna cheat again test suite
+
+649
+00:41:12,240 --> 00:41:15,660
+with 100 path coverage
+reveal default in this
+
+650
+00:41:15,660 --> 00:41:21,540
+method so now if you think
+about this there are certain
+
+651
+00:41:21,540 --> 00:41:26,160
+uh if you if you if you
+cover all the paths you will
+
+652
+00:41:26,160 --> 00:41:32,420
+cover the path in which
+you tweak um you change the
+
+653
+00:41:32,420 --> 00:41:36,110
+value of x and in in the
+first part and you don't
+
+654
+00:41:36,110 --> 00:41:39,260
+change it back in the second
+part so when you cover
+
+655
+00:41:39,260 --> 00:41:42,640
+all the possible combinations
+of way in which you
+
+656
+00:41:42,640 --> 00:41:46,760
+navigate these branches you
+always find the error because
+
+657
+00:41:46,760 --> 00:41:50,140
+all the all the possible
+paths will will be you
+
+658
+00:41:50,140 --> 00:41:52,520
+know when you cover all the
+path you need to be able to
+
+659
+00:41:52,520 --> 00:41:55,720
+cover all the all the tables
+here because there are
+
+660
+00:41:55,720 --> 00:41:58,300
+all the combination in
+which you cover the branch.
+
+661
+00:41:58,440 --> 00:41:59,500
+So when
+
+662
+00:41:59,980 --> 00:42:02,870
+test suite with
+100% path coverage
+
+663
+00:42:02,870 --> 00:42:05,260
+always reveals the
+fault in this method.
+
+664
+00:42:07,080 --> 00:42:10,900
+And that's, that
+was the solution.
+
+665
+00:42:10,920 --> 00:42:13,500
+So there is one question in the
+
+666
+00:42:13,500 --> 00:42:15,660
+discussion and it
+says, can we know the
+
+667
+00:42:15,660 --> 00:42:17,640
+points associated
+with each question?
+
+668
+00:42:18,020 --> 00:42:19,380
+Oh, I
+
+669
+00:42:19,750 --> 00:42:21,500
+will. Can we know the point
+
+670
+00:42:21,500 --> 00:42:23,300
+associated with each question?
+
+671
+00:42:23,300 --> 00:42:26,780
+I think that's your
+call, isn't it?
+
+672
+00:42:28,360 --> 00:42:32,640
+do we usually do it
+for other assignment?
+
+673
+00:42:33,580 --> 00:42:36,180
+I don't think so.
+
+674
+00:42:36,360 --> 00:42:39,880
+I'm going to announce that.
+Basically, I mean, you
+
+675
+00:42:39,880 --> 00:42:42,880
+know, you can assume they're
+all pretty much similar.
+
+676
+00:42:45,000 --> 00:42:47,280
+If it's exactly
+the same or not,
+
+677
+00:42:48,290 --> 00:42:50,660
+maybe it might be weighted
+a little bit towards
+
+678
+00:42:50,660 --> 00:42:53,220
+some and not towards
+others, but it's going
+
+679
+00:42:53,220 --> 00:42:56,760
+to be close to similar
+for each of the tasks.
+
+680
+00:42:57,320 --> 00:42:59,760
+That's kind of what
+we generally say.
+
+681
+00:42:59,900 --> 00:43:01,620
+Thank you, Will.
+
+682
+00:43:07,130 --> 00:43:09,690
+This is the moment
+I miss Sheen first.
+
+683
+00:43:09,970 --> 00:43:11,630
+It's like, where are you?
+
+684
+00:43:11,870 --> 00:43:14,940
+Yeah, and I don't know
+if we have anything else,
+
+685
+00:43:16,450 --> 00:43:18,170
+but there's another thing.
+
+686
+00:43:18,170 --> 00:43:20,370
+Just general feedback
+about this one, since
+
+687
+00:43:20,370 --> 00:43:22,710
+the graphs were used
+for the A6 explanation,
+
+688
+00:43:23,090 --> 00:43:25,930
+I found Unreal Blueprints
+to be very helpful
+
+689
+00:43:25,930 --> 00:43:28,110
+for visualizing
+problems one and three.
+
+690
+00:43:28,510 --> 00:43:32,770
+So I'm not sure what
+Unreal Blueprints are, but
+
+691
+00:43:33,280 --> 00:43:35,810
+apparently somebody
+found them very helpful.
+
+692
+00:43:37,590 --> 00:43:39,770
+Probably a site, I'm guessing.
+
+693
+00:43:42,810 --> 00:43:47,360
+But anyway, so if there are
+any questions outstanding
+
+694
+00:43:48,510 --> 00:43:51,010
+at this point, now is
+the time to ask them.
+
+695
+00:43:51,950 --> 00:43:55,310
+Otherwise, we will
+be finishing up soon.
+
+696
+00:43:55,390 --> 00:43:58,450
+Yeah, because this
+is always an office
+
+697
+00:43:58,450 --> 00:44:01,290
+hour that goes
+long because I talk
+
+698
+00:44:01,290 --> 00:44:03,430
+most of the time
+about the solution.
+
+699
+00:44:06,910 --> 00:44:10,930
+Just a reminder,
+
+700
+00:44:12,070 --> 00:44:17,010
+if you look, I'm in your
+ear, so you watch the
+
+701
+00:44:17,010 --> 00:44:21,010
+solution now, but I don't
+know how useful it is to
+
+702
+00:44:21,010 --> 00:44:23,570
+say in the office hour,
+because if somebody is
+
+703
+00:44:23,570 --> 00:44:26,210
+watching the office hour,
+they watch the solution, but
+
+704
+00:44:26,210 --> 00:44:29,170
+watching this solution
+is a necessary condition
+
+705
+00:44:29,170 --> 00:44:35,250
+to be able to, what is
+the English word for this
+
+706
+00:44:35,250 --> 00:44:37,790
+tonight? Not that very good.
+I use all my mathematical
+
+707
+00:44:37,790 --> 00:44:45,490
+words, but if you want
+to ask for a change of
+
+708
+00:44:45,490 --> 00:44:49,630
+grade or you disagree
+on something about your
+
+709
+00:44:49,630 --> 00:44:53,970
+grade, you have to have
+watched this solution first.
+
+710
+00:44:54,830 --> 00:44:58,010
+And if you arrive at the
+end now you know you can
+
+711
+00:44:58,010 --> 00:45:01,790
+or or you understood what
+you what what you made
+
+712
+00:45:01,790 --> 00:45:07,230
+wrong or not and uh um but
+yeah so that's um completely
+
+713
+00:45:07,230 --> 00:45:09,710
+useless because if
+somebody listened me saying
+
+714
+00:45:09,710 --> 00:45:12,550
+it it means they already
+watched the solution so
+
+715
+00:45:12,550 --> 00:45:15,050
+i know when i was saying
+it i say like why are you
+
+716
+00:45:15,050 --> 00:45:17,970
+telling this maybe at the
+beginning of the office
+
+717
+00:45:17,970 --> 00:45:22,490
+hour would have been a
+better idea but yep um Um,
+
+718
+00:45:23,090 --> 00:45:27,290
+but you know, if, if any
+of your fellow classmates
+
+719
+00:45:27,290 --> 00:45:30,110
+are like, Hey, why won't
+they answer my question? Uh,
+
+720
+00:45:30,110 --> 00:45:33,670
+generally speaking, uh,
+if, if you haven't, if the,
+
+721
+00:45:33,670 --> 00:45:35,850
+if the student has not
+attested that they've watched
+
+722
+00:45:35,850 --> 00:45:38,950
+the solution first, uh,
+Justin will kick it back
+
+723
+00:45:38,950 --> 00:45:41,370
+and say, you know, you haven't
+followed the instructions.
+
+724
+00:45:41,370 --> 00:45:44,130
+You have to have to
+watch these first. And
+
+725
+00:45:44,130 --> 00:45:46,750
+there's a couple other things
+you need to do to properly
+
+726
+00:45:46,750 --> 00:45:50,370
+sit. And we're not, we
+mostly just do that because
+
+727
+00:45:50,690 --> 00:45:53,230
+otherwise we get a
+lot of questions that
+
+728
+00:45:53,230 --> 00:45:55,330
+we really don't need
+to go through this
+
+729
+00:45:55,630 --> 00:45:58,480
+for everyone individually
+right we've already done it
+
+730
+00:45:58,480 --> 00:46:01,690
+yeah so if you if you if
+your question is you just
+
+731
+00:46:01,690 --> 00:46:04,110
+don't understand what's wrong
+this is the way to solve
+
+732
+00:46:04,110 --> 00:46:07,150
+that if you still think
+yours is right after having
+
+733
+00:46:07,150 --> 00:46:10,290
+watched it we're happy to to
+look at your grade challenge
+
+734
+00:46:10,290 --> 00:46:12,170
+but we're not going to
+take it if it's just hey i
+
+735
+00:46:12,170 --> 00:46:14,650
+don't know why i got this
+wrong because you can get
+
+736
+00:46:14,650 --> 00:46:17,830
+that from from here yeah and
+somehow i think it's like
+
+737
+00:46:17,830 --> 00:46:20,990
+you know it's not just for
+not doing it many times we
+
+738
+00:46:20,990 --> 00:46:24,750
+do this live in the office
+hour because talking about
+
+739
+00:46:24,750 --> 00:46:27,650
+this might help you to
+better understand and just
+
+740
+00:46:27,650 --> 00:46:30,310
+reading the solution because
+another option could be just
+
+741
+00:46:30,310 --> 00:46:33,650
+publish the solution and
+so it gives an opportunity
+
+742
+00:46:33,650 --> 00:46:36,530
+to ask additional questions
+because so for us to add
+
+743
+00:46:36,530 --> 00:46:39,590
+additional comment and you
+know like will and i for
+
+744
+00:46:39,590 --> 00:46:42,550
+instance we are a classic
+example of people that have a
+
+745
+00:46:42,550 --> 00:46:46,150
+different approach right you
+know what what what comes
+
+746
+00:46:46,150 --> 00:46:48,890
+easy and what not so you
+know like i look at the
+
+747
+00:46:48,890 --> 00:46:52,010
+graph i look at the code
+uh he explained thing in a
+
+748
+00:46:52,010 --> 00:46:54,690
+certain way i'll do it in
+another but they are both true
+
+749
+00:46:54,690 --> 00:46:58,430
+and both correct right so
+it helps doing it live in a
+
+750
+00:46:58,430 --> 00:47:01,510
+way that uh you know you
+say oh yeah this is why it's
+
+751
+00:47:01,510 --> 00:47:04,250
+different they they told
+me in two different way now
+
+752
+00:47:04,250 --> 00:47:06,650
+i understand i should have
+looked at this other thing
+
+753
+00:47:06,650 --> 00:47:11,590
+right it's uh doing it
+live it's um give give more
+
+754
+00:47:11,590 --> 00:47:15,890
+more explanation than just
+publishing the solution yep
+
+755
+00:47:17,690 --> 00:47:21,290
+any more question there
+do not seem to be any more
+
+756
+00:47:22,550 --> 00:47:27,270
+and so 50 minutes 40
+a second we did very
+
+757
+00:47:27,270 --> 00:47:29,770
+well yeah oh we are
+so we are set the clap
+
+758
+00:47:29,770 --> 00:47:31,930
+so i'm I'm feeling
+very proud tonight.
+
+759
+00:47:32,550 --> 00:47:36,270
+Hopefully you're all getting
+started on the second
+
+760
+00:47:36,270 --> 00:47:39,930
+phase of the individual
+project at this point.
+
+761
+00:47:42,750 --> 00:47:46,170
+And we'll see you
+next week. Next
+
+762
+00:47:46,170 --> 00:47:48,830
+week. Yeah, next
+week. For week 14.
+
+763
+00:47:49,150 --> 00:47:50,490
+For week 14.
+
+764
+00:47:50,520 --> 00:47:52,270
+Hopefully Shin will
+be here to tell
+
+765
+00:47:52,270 --> 00:47:53,790
+us that because I
+will have forgotten.
+
+766
+00:47:54,720 --> 00:47:56,410
+Me too, probably. Have
+a great week, everyone.
+
+767
+00:47:56,850 --> 00:47:57,850
+Bye.
+
+768
+00:47:58,030 --> 00:47:59,030
+Bye.
