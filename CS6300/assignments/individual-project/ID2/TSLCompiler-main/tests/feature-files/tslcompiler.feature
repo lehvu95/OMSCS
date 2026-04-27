@@ -1,0 +1,336 @@
+Feature: The TSLCompiler should generate test frames.
+    Scenario: A user provides a file containing a Category and a Choice.
+        Given a TSL file called one_category_one_choice.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 1 test cases.
+        Then test case 1 should have 'Simple Category 1:' as category 1.
+        Then test case 1 should have 'Simple Choice 1.' chosen in category 1.
+
+    Scenario: A user provides a file containing two Categories with one Choice each.
+        Given a TSL file called two_categories_two_choices_each.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 4 test cases.
+        Then test case 1 should have 'Simple Category 1:' as category 1.
+        Then test case 1 should have 'Simple Choice 1.' chosen in category 1.
+        Then test case 1 should have 'Simple Category 2:' as category 2.
+        Then test case 1 should have 'Simple Choice 3.' chosen in category 2.
+        Then test case 2 should have 'Simple Category 1:' as category 1.
+        Then test case 2 should have 'Simple Choice 1.' chosen in category 1.
+        Then test case 2 should have 'Simple Category 2:' as category 2.
+        Then test case 2 should have 'Simple Choice 4.' chosen in category 2.
+        Then test case 3 should have 'Simple Category 1:' as category 1.
+        Then test case 3 should have 'Simple Choice 2.' chosen in category 1.
+        Then test case 3 should have 'Simple Category 2:' as category 2.
+        Then test case 3 should have 'Simple Choice 3.' chosen in category 2.
+        Then test case 4 should have 'Simple Category 1:' as category 1.
+        Then test case 4 should have 'Simple Choice 2.' chosen in category 1.
+        Then test case 4 should have 'Simple Category 2:' as category 2.
+        Then test case 4 should have 'Simple Choice 4.' chosen in category 2.
+
+    Scenario: Files with markers in it should show up first as test cases.
+        Given a TSL file called choices_with_multiple_markers.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 3 test cases.
+        Then test case 1 should have 'Simple Category 1:' as category 1.
+        Then test case 1 should have 'Simple Choice 2.' chosen in category 1.
+        Then test case 1 should be flagged as having a marker.
+        Then test case 2 should have 'Simple Category 2:' as category 1.
+        Then test case 2 should have 'Simple Choice 3.' chosen in category 1.
+        Then test case 2 should be flagged as having a marker.
+
+    Scenario: Properties influence if statements in a test case.
+        Given a TSL file called choices_with_simple_if.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 1 test cases.
+        Then test case 1 should have 'Simple Category 1:' as category 1.
+        Then test case 1 should have 'Simple Choice 1.' chosen in category 1.
+        Then test case 1 should have 'Simple Category 2:' as category 2.
+        Then test case 1 should have 'Simple Choice 2.' chosen in category 2.
+
+    Scenario: If statements with single markers are not similar to normal test cases.
+        Given a TSL file called choice_with_conditional_single_marker.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 2 test cases.
+        Then test case 1 should have 1 categories.
+        Then test case 1 should have 'Simple Category 2:' as category 1.
+        Then test case 1 should have 'Simple Choice 2.' chosen in category 1.
+        Then test case 2 should have 3 categories.
+        Then test case 2 should have 'Simple Category 1:' as category 1.
+        Then test case 2 should have 'Simple Choice 1.' chosen in category 1.
+        Then test case 2 should have 'Simple Category 2:' as category 2.
+        Then test case 2 should have 'Simple Choice 3.' chosen in category 2.
+        Then test case 2 should have 'Simple Category 3:' as category 3.
+        Then test case 2 should have 'Simple Choice 4.' chosen in category 3.
+
+    Scenario: If statements with error markers are not similar to normal test cases.
+        Given a TSL file called choice_with_conditional_error_marker.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 2 test cases.
+        Then test case 1 should have 1 categories.
+        Then test case 1 should have 'Simple Category 2:' as category 1.
+        Then test case 1 should have 'Simple Choice 2.' chosen in category 1.
+        Then test case 2 should have 3 categories.
+        Then test case 2 should have 'Simple Category 1:' as category 1.
+        Then test case 2 should have 'Simple Choice 1.' chosen in category 1.
+        Then test case 2 should have 'Simple Category 2:' as category 2.
+        Then test case 2 should have 'Simple Choice 3.' chosen in category 2.
+        Then test case 2 should have 'Simple Category 3:' as category 3.
+        Then test case 2 should have 'Simple Choice 4.' chosen in category 3.
+
+    Scenario: A Choice mentions how it was chosen from an if statement.
+        Given a TSL file called choice_with_conditional_single_marker.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 2 test cases.
+        Then test case 1 should have 1 categories.
+        Then test case 1 should have 'Simple Category 2:' as category 1.
+        Then test case 1 should have 'Simple Choice 2.' chosen in category 1.
+        Then test case 1 should have 'follows [if simple]' as a dependency for the chosen choice in category 1.
+
+    Scenario: A Choice mentions how it was chosen from an else statement.
+        Given a TSL file called choice_chosen_from_else_statement.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 1 test cases.
+        Then test case 1 should have 2 categories.
+        Then test case 1 should have 'follows [else] from [if !simple]' as a dependency for the chosen choice in category 2.
+
+    Scenario: Not Applicable shows up if a Category has no other way of progressing.
+        Given a TSL file called category_with_na.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 2 test cases.
+        Then test case 1 should have 'Simple Category 1:' as category 1.
+        Then test case 1 should have 'Simple Choice 1.' chosen in category 1.
+        Then test case 1 should have 'Simple Category 2:' as category 2.
+        Then test case 1 should have 'N/A' chosen in category 2.
+        Then test case 2 should have 'Simple Category 1:' as category 1.
+        Then test case 2 should have 'Simple Choice 2.' chosen in category 1.
+        Then test case 2 should have 'Simple Category 2:' as category 2.
+        Then test case 2 should have 'Simple Choice 3.' chosen in category 2.
+
+    Scenario: Not Applicable shows up if multiple Categories have no other way of progressing.
+        Given a TSL file called categories_with_na.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 2 test cases.
+        Then test case 1 should have 'Simple Category 1:' as category 1.
+        Then test case 1 should have 'Simple Choice 1.' chosen in category 1.
+        Then test case 1 should have 'Simple Category 2:' as category 2.
+        Then test case 1 should have 'N/A' chosen in category 2.
+        Then test case 1 should have 'Simple Category 3:' as category 3.
+        Then test case 1 should have 'N/A' chosen in category 3.
+        Then test case 2 should have 'Simple Category 1:' as category 1.
+        Then test case 2 should have 'Simple Choice 2.' chosen in category 1.
+        Then test case 2 should have 'Simple Category 2:' as category 2.
+        Then test case 2 should have 'Simple Choice 3.' chosen in category 2.
+        Then test case 2 should have 'Simple Category 3:' as category 3.
+        Then test case 2 should have 'Simple Choice 4.' chosen in category 3.
+
+    Scenario: A Choice dependency should only be present for a Choice with a conditional.
+        Given a TSL file called chained_choices_with_if.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 1 test cases.
+        Then test case 1 should not have a choice dependency for category 1.
+        Then test case 1 should not have a choice dependency for category 2.
+        Then test case 1 should have 'follows [if abc]' as a dependency for the chosen choice in category 3.
+
+    Scenario: All marker test cases should show up first.
+        Given a TSL file called markers_found_in_order.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 3 test cases.
+        Then test case 1 should have 1 categories.
+        Then test case 1 should have 'Simple Category 1:' as category 1.
+        Then test case 1 should have 'Simple Choice 1.' chosen in category 1.
+        Then test case 2 should have 1 categories.
+        Then test case 2 should have 'Simple Category 2:' as category 1.
+        Then test case 2 should have 'Simple Choice 4.' chosen in category 1.
+        Then test case 3 should have 2 categories.
+        Then test case 3 should have 'Simple Category 1:' as category 1.
+        Then test case 3 should have 'Simple Choice 2.' chosen in category 1.
+        Then test case 3 should have 'Simple Category 2:' as category 2.
+        Then test case 3 should have 'Simple Choice 3.' chosen in category 2.
+
+    Scenario: A marker should not be visited more than once.
+        Given a TSL file called markers_not_visited_twice.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 3 test cases.
+        Then test case 1 should have 1 categories.
+        Then test case 1 should have 'Simple Category 2:' as category 1.
+        Then test case 1 should have 'Simple Choice 3.' chosen in category 1.
+        Then test case 2 should have 2 categories.
+        Then test case 2 should have 'Simple Category 1:' as category 1.
+        Then test case 2 should have 'Simple Choice 1.' chosen in category 1.
+        Then test case 2 should have 'Simple Category 2:' as category 2.
+        Then test case 2 should have 'Simple Choice 4.' chosen in category 2.
+        Then test case 3 should have 2 categories.
+        Then test case 3 should have 'Simple Category 1:' as category 1.
+        Then test case 3 should have 'Simple Choice 2.' chosen in category 1.
+        Then test case 3 should have 'Simple Category 2:' as category 2.
+        Then test case 3 should have 'Simple Choice 4.' chosen in category 2.
+
+    Scenario: Duplicate test cases made from N/As should not be displayed.
+        Given a TSL file called duplicate_cases_from_nas.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 1 test cases.
+        Then test case 1 should have 'Category 1:' as category 1.
+        Then test case 1 should have 'Choice 1.' chosen in category 1.
+        Then test case 1 should have 'Category 2:' as category 2.
+        Then test case 1 should have 'Choice 4.' chosen in category 2.
+
+    Scenario: An If and Else from some Choice should be visited.
+        Given a TSL file called complex-if-else.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 2 test cases.
+        Then test case 1 should have 'Simple Category 1:' as category 1.
+        Then test case 1 should have 'Simple Choice 1.' chosen in category 1.
+        Then test case 1 should have 'Simple Category 2:' as category 2.
+        Then test case 1 should have 'Simple Choice 2.' chosen in category 2.
+        Then test case 1 should have 'follows [else] from [if simple]' as a dependency for the chosen choice in category 2.
+        Then test case 2 should have 'Simple Category 1:' as category 1.
+        Then test case 2 should have 'Simple Choice 2.' chosen in category 1.
+        Then test case 2 should have 'Simple Category 2:' as category 2.
+        Then test case 2 should have 'Simple Choice 2.' chosen in category 2.
+        Then test case 2 should have 'follows [if simple]' as a dependency for the chosen choice in category 2.
+
+    Scenario: A category with an error choice should still look at all other choices.
+        Given a TSL file called category_with_error_splitting_choices.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 4 test cases.
+        Then test case 1 should have 'Sample Category 1:' as category 1.
+        Then test case 1 should have 'Choice 2.' chosen in category 1.
+        Then test case 2 should have 'Sample Category 2:' as category 1.
+        Then test case 2 should have 'Choice 5.' chosen in category 1.
+        Then test case 3 should have 'Sample Category 1:' as category 1.
+        Then test case 3 should have 'Choice 1.' chosen in category 1.
+        Then test case 3 should have 'Sample Category 2:' as category 2.
+        Then test case 3 should have 'Choice 4.' chosen in category 2.
+        Then test case 3 should have 'Sample Category 3:' as category 3.
+        Then test case 3 should have 'Choice 6.' chosen in category 3.
+        Then test case 4 should have 'Sample Category 1:' as category 1.
+        Then test case 4 should have 'Choice 1.' chosen in category 1.
+        Then test case 4 should have 'Sample Category 2:' as category 2.
+        Then test case 4 should have 'Choice 4.' chosen in category 2.
+        Then test case 4 should have 'Sample Category 3:' as category 3.
+        Then test case 4 should have 'Choice 7.' chosen in category 3.
+
+    Scenario: A Category with a long if statement should print the expression correctly.
+        Given a TSL file called category_with_long_if.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 32 test cases.
+        Then test case 2 should have 'follows [if (a || b || c || d || e) && !(d && e)]' as a dependency for the chosen choice in category 6.
+
+    Scenario: Two negated properties should behave as-intended.
+        Given a TSL file called negated-and-statement.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 4 test cases.
+        Then test case 1 should have 'Sample Category 1:' as category 1.
+        Then test case 1 should have 'a.' chosen in category 1.
+        Then test case 1 should have 'Sample Category 2:' as category 2.
+        Then test case 1 should have 'b.' chosen in category 2.
+        Then test case 1 should have 'Sample Category 3:' as category 3.
+        Then test case 1 should have 'N/A' chosen in category 3.
+
+        Then test case 2 should have 'Sample Category 1:' as category 1.
+        Then test case 2 should have 'a.' chosen in category 1.
+        Then test case 2 should have 'Sample Category 2:' as category 2.
+        Then test case 2 should have 'not b.' chosen in category 2.
+        Then test case 2 should have 'Sample Category 3:' as category 3.
+        Then test case 2 should have 'N/A' chosen in category 3.
+
+        Then test case 3 should have 'Sample Category 1:' as category 1.
+        Then test case 3 should have 'not a.' chosen in category 1.
+        Then test case 3 should have 'Sample Category 2:' as category 2.
+        Then test case 3 should have 'b.' chosen in category 2.
+        Then test case 3 should have 'Sample Category 3:' as category 3.
+        Then test case 3 should have 'N/A' chosen in category 3.
+
+        Then test case 4 should have 'Sample Category 1:' as category 1.
+        Then test case 4 should have 'not a.' chosen in category 1.
+        Then test case 4 should have 'Sample Category 2:' as category 2.
+        Then test case 4 should have 'not b.' chosen in category 2.
+        Then test case 4 should have 'Sample Category 3:' as category 3.
+        Then test case 4 should have 'not a and not b.' chosen in category 3.
+
+    Scenario: A negated group of properties should behave as-intended.
+        Given a TSL file called negated-and-group.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 4 test cases.
+        Then test case 1 should have 'Sample Category 1:' as category 1.
+        Then test case 1 should have 'a.' chosen in category 1.
+        Then test case 1 should have 'Sample Category 2:' as category 2.
+        Then test case 1 should have 'b.' chosen in category 2.
+        Then test case 1 should have 'Sample Category 3:' as category 3.
+        Then test case 1 should have 'N/A' chosen in category 3.
+
+        Then test case 2 should have 'Sample Category 1:' as category 1.
+        Then test case 2 should have 'a.' chosen in category 1.
+        Then test case 2 should have 'Sample Category 2:' as category 2.
+        Then test case 2 should have 'not b.' chosen in category 2.
+        Then test case 2 should have 'Sample Category 3:' as category 3.
+        Then test case 2 should have 'N/A' chosen in category 3.
+
+        Then test case 3 should have 'Sample Category 1:' as category 1.
+        Then test case 3 should have 'not a.' chosen in category 1.
+        Then test case 3 should have 'Sample Category 2:' as category 2.
+        Then test case 3 should have 'b.' chosen in category 2.
+        Then test case 3 should have 'Sample Category 3:' as category 3.
+        Then test case 3 should have 'N/A' chosen in category 3.
+
+        Then test case 4 should have 'Sample Category 1:' as category 1.
+        Then test case 4 should have 'not a.' chosen in category 1.
+        Then test case 4 should have 'Sample Category 2:' as category 2.
+        Then test case 4 should have 'not b.' chosen in category 2.
+        Then test case 4 should have 'Sample Category 3:' as category 3.
+        Then test case 4 should have 'not a or b.' chosen in category 3.
+
+    Scenario: A TSL file with conditional markers at the end are not visited twice.
+        Given a TSL file called conditional_marker_deadend.txt,
+        When the input is consumed by the TSLCompiler,
+        Then the TSLCompiler's result should contain 6 test cases.
+
+        Then test case 1 should have 'Category 4:' as category 1.
+        Then test case 1 should have 'Choice 1.' chosen in category 1.
+
+        Then test case 2 should have 'Category 5:' as category 1.
+        Then test case 2 should have 'Choice 1.' chosen in category 1.
+
+        Then test case 3 should have 'Category 1:' as category 1.
+        Then test case 3 should have 'Yes.' chosen in category 1.
+        Then test case 3 should have 'Category 2:' as category 2.
+        Then test case 3 should have 'No.' chosen in category 2.
+        Then test case 3 should have 'Category 3:' as category 3.
+        Then test case 3 should have 'No.' chosen in category 3.
+        Then test case 3 should have 'Category 4:' as category 4.
+        Then test case 3 should have 'N/A' chosen in category 4.
+        Then test case 3 should have 'Category 5:' as category 5.
+        Then test case 3 should have 'N/A' chosen in category 5.
+
+        Then test case 4 should have 'Category 1:' as category 1.
+        Then test case 4 should have 'No.' chosen in category 1.
+        Then test case 4 should have 'Category 2:' as category 2.
+        Then test case 4 should have 'Yes.' chosen in category 2.
+        Then test case 4 should have 'Category 3:' as category 3.
+        Then test case 4 should have 'Yes.' chosen in category 3.
+        Then test case 4 should have 'Category 4:' as category 4.
+        Then test case 4 should have 'N/A' chosen in category 4.
+        Then test case 4 should have 'Category 5:' as category 5.
+        Then test case 4 should have 'N/A' chosen in category 5.
+
+        Then test case 5 should have 'Category 1:' as category 1.
+        Then test case 5 should have 'No.' chosen in category 1.
+        Then test case 5 should have 'Category 2:' as category 2.
+        Then test case 5 should have 'Yes.' chosen in category 2.
+        Then test case 5 should have 'Category 3:' as category 3.
+        Then test case 5 should have 'No.' chosen in category 3.
+        Then test case 5 should have 'Category 4:' as category 4.
+        Then test case 5 should have 'N/A' chosen in category 4.
+        Then test case 5 should have 'Category 5:' as category 5.
+        Then test case 5 should have 'N/A' chosen in category 5.
+
+        Then test case 6 should have 'Category 1:' as category 1.
+        Then test case 6 should have 'No.' chosen in category 1.
+        Then test case 6 should have 'Category 2:' as category 2.
+        Then test case 6 should have 'No.' chosen in category 2.
+        Then test case 6 should have 'Category 3:' as category 3.
+        Then test case 6 should have 'No.' chosen in category 3.
+        Then test case 6 should have 'Category 4:' as category 4.
+        Then test case 6 should have 'N/A' chosen in category 4.
+        Then test case 6 should have 'Category 5:' as category 5.
+        Then test case 6 should have 'N/A' chosen in category 5.
