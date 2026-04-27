@@ -1,0 +1,2175 @@
+1
+00:00:10,970 --> 00:00:11,550
+Okay,
+
+2
+00:00:11,890 --> 00:00:14,880
+yeah, Paula, you can
+have the first saying.
+
+3
+00:00:15,210 --> 00:00:16,580
+Yeah, hi, everybody.
+
+4
+00:00:17,150 --> 00:00:20,830
+Welcome to the second office
+hour of this semester.
+
+5
+00:00:21,880 --> 00:00:23,910
+And as usual, we are going to
+
+6
+00:00:23,910 --> 00:00:26,010
+respond to the
+question you posted,
+
+7
+00:00:26,390 --> 00:00:30,250
+Inad. So I'll let
+the word to Shin
+
+8
+00:00:30,250 --> 00:00:32,270
+to guide us through
+the process.
+
+9
+00:00:32,950 --> 00:00:36,130
+Okay, yeah. So hello, everyone.
+
+10
+00:00:36,170 --> 00:00:41,470
+And yeah, this is the second
+office hour. I hope all
+
+11
+00:00:41,470 --> 00:00:44,950
+students are safe. I
+understand that we have the
+
+12
+00:00:45,240 --> 00:00:50,710
+winter storm breaking the
+East Park Cup of the U.S.
+
+13
+00:00:50,790 --> 00:00:56,590
+But anyway, so we have
+assignment two due earlier
+
+14
+00:00:56,590 --> 00:01:04,910
+today in the morning and
+A3 already open. and this
+
+15
+00:01:04,910 --> 00:01:07,670
+Saturday we will have we
+will have assignment 4
+
+16
+00:01:07,670 --> 00:01:14,930
+open and this week student
+should be so during
+
+17
+00:01:14,930 --> 00:01:20,390
+this week let me see so
+student should be watching
+
+18
+00:01:20,390 --> 00:01:24,650
+the requirement engineering
+and the two external
+
+19
+00:01:24,650 --> 00:01:31,150
+sources JUnit and
+IntelliJ Okay, besides the
+
+20
+00:01:31,150 --> 00:01:34,750
+assignment three, we also
+have the participation quiz
+
+21
+00:01:34,750 --> 00:01:39,350
+opening. So don't forget
+about that because it's
+
+22
+00:01:39,350 --> 00:01:43,130
+supposed to be easy, simple
+giveaway points only.
+
+23
+00:01:43,730 --> 00:01:48,150
+All right. So, and one
+more thing, I also posted
+
+24
+00:01:48,150 --> 00:01:52,250
+the grade statistics and
+grading updates on it.
+
+25
+00:01:52,470 --> 00:01:55,730
+As mentioned before
+and emphasized again,
+
+26
+00:01:55,950 --> 00:02:00,240
+you will see that
+assignment six is somewhat
+
+27
+00:02:00,840 --> 00:02:05,330
+having a bigger spread
+than the remaining.
+
+28
+00:02:05,330 --> 00:02:09,390
+So have your expectation
+management in check.
+
+29
+00:02:10,070 --> 00:02:11,190
+All right.
+
+30
+00:02:11,330 --> 00:02:14,170
+Other than that, I think
+we can have the first
+
+31
+00:02:14,170 --> 00:02:18,010
+question, which I'm happy
+to let Paula answer that.
+
+32
+00:02:18,010 --> 00:02:19,370
+What makes a good test?
+
+33
+00:02:25,400 --> 00:02:26,960
+Paula, you are muted.
+
+34
+00:02:26,960 --> 00:02:31,580
+I know. I'm muted. class
+with me and so honestly one
+
+35
+00:02:31,580 --> 00:02:34,860
+you know uh could could
+teach a full class on that
+
+36
+00:02:34,860 --> 00:02:38,760
+i actually think i i did a
+full half class of it right
+
+37
+00:02:38,760 --> 00:02:43,820
+uh and so uh so you know
+let's but let's keep it
+
+38
+00:02:43,820 --> 00:02:51,980
+short uh on this so like
+uh so first of all a test
+
+39
+00:02:51,980 --> 00:02:55,700
+should measure what is supposed
+to measure right so has
+
+40
+00:02:55,700 --> 00:03:00,640
+to be a valid test and uh
+and second uh it has to
+
+41
+00:03:00,640 --> 00:03:03,940
+be reliable so it has to
+give you consistent result
+
+42
+00:03:03,940 --> 00:03:13,080
+um and um you know and uh
+so somehow so these are the
+
+43
+00:03:13,080 --> 00:03:18,910
+two main things right so
+if we um what else uh you
+
+44
+00:03:20,300 --> 00:03:25,820
+need to choose the tasks
+that make it uh make it
+
+45
+00:03:25,820 --> 00:03:31,840
+discriminate in in a meaningful
+way uh so you want to
+
+46
+00:03:31,840 --> 00:03:39,920
+separate what what uh if
+you write a good test we can
+
+47
+00:03:39,920 --> 00:03:44,700
+we can we can see and like
+you you can when we look
+
+48
+00:03:44,700 --> 00:03:48,070
+on our side we can see the
+people that really understood
+
+49
+00:03:48,260 --> 00:03:51,660
+the people that partially
+understood and that that
+
+50
+00:03:51,660 --> 00:03:54,640
+who don't yet right if
+you think about that so
+
+51
+00:03:54,640 --> 00:04:00,060
+somehow uh bad test cluster
+every uh everyone at the top
+
+52
+00:04:00,060 --> 00:04:03,220
+or at the bottom right if
+you think about that and
+
+53
+00:04:03,220 --> 00:04:08,400
+then last things um you
+need to write so you cannot
+
+54
+00:04:08,400 --> 00:04:13,600
+you cannot test everything
+so you need uh to uh matches
+
+55
+00:04:13,600 --> 00:04:17,260
+the uh a good test needs
+to matches the level of
+
+56
+00:04:17,260 --> 00:04:24,930
+thinking you care about um
+and so um what else says
+
+57
+00:04:26,240 --> 00:04:31,480
+maybe another important
+thing is say that it's uh uh
+
+58
+00:04:31,680 --> 00:04:35,880
+it's fair and accessible so
+fair but fair doesn't mean
+
+59
+00:04:35,880 --> 00:04:42,260
+easy right uh it means
+not biased uh and then of
+
+60
+00:04:42,260 --> 00:04:45,640
+course okay now maybe i
+should have said this at the
+
+61
+00:04:45,640 --> 00:04:50,950
+very beginning a test need
+to to provide you uh useful
+
+62
+00:04:51,560 --> 00:04:55,080
+feedback if you if you don't
+understand the feedback
+
+63
+00:04:55,080 --> 00:04:58,720
+from your test so but this
+is becoming a little bit
+
+64
+00:05:03,060 --> 00:05:06,760
+a little bit more in
+
+65
+00:05:12,020 --> 00:05:16,520
+yeah it goes a little bit
+more in depth I think I stand
+
+66
+00:05:16,520 --> 00:05:20,400
+probably actually I was
+thinking I'm going I should
+
+67
+00:05:20,400 --> 00:05:22,900
+have got prepared because
+it was in an ad but I read
+
+68
+00:05:22,900 --> 00:05:26,600
+it three seconds before we
+came in I think I stand by
+
+69
+00:05:29,160 --> 00:05:31,900
+Validity and reliability.
+
+70
+00:05:32,180 --> 00:05:36,440
+So consistent
+result and aligns in
+
+71
+00:05:38,070 --> 00:05:40,300
+measure what it's
+supposed to measure.
+
+72
+00:05:42,890 --> 00:05:46,750
+Yes. So on top of what
+Paula said, I think because
+
+73
+00:05:46,920 --> 00:05:51,860
+we are cut up just three
+weeks into the semester
+
+74
+00:05:51,860 --> 00:05:55,480
+only, later on you will
+learn more about tests. we
+
+75
+00:05:55,480 --> 00:05:58,620
+have blackboard testing,
+whiteboard testing, etc.
+
+76
+00:05:58,920 --> 00:06:02,250
+And then you will also learn
+
+77
+00:06:02,560 --> 00:06:05,280
+the concept of test plan,
+
+78
+00:06:05,400 --> 00:06:09,840
+test suite, and test
+cases. Because when you ask
+
+79
+00:06:09,840 --> 00:06:15,400
+what makes a good test,
+it's hard for the people to
+
+80
+00:06:15,400 --> 00:06:18,600
+answer, right? And then
+probably have to like give
+
+81
+00:06:18,600 --> 00:06:21,320
+a lot of context just to
+go into their validity.
+
+82
+00:06:21,720 --> 00:06:25,120
+So I wanted to be very vague
+at this point because you
+
+83
+00:06:25,120 --> 00:06:29,120
+haven't studied also all
+the kind of way in which you
+
+84
+00:06:29,120 --> 00:06:35,040
+can write your tests and so
+I was trying to stay on a
+
+85
+00:06:35,040 --> 00:06:39,060
+general bit on a general
+and I think you know and I
+
+86
+00:06:39,060 --> 00:06:41,540
+feel if I want to stay on
+the philosophical case if you
+
+87
+00:06:41,540 --> 00:06:47,520
+think about tests in software
+engineering and the word
+
+88
+00:06:47,520 --> 00:06:51,460
+test is used also in the
+real world is the same exact
+
+89
+00:06:51,460 --> 00:06:55,420
+things right so what makes
+a good test in real life
+
+90
+00:06:55,420 --> 00:06:59,160
+like as a professor if i if
+you write a test for your
+
+91
+00:06:59,160 --> 00:07:04,020
+student uh what are you doing
+you're trying to measure
+
+92
+00:07:04,230 --> 00:07:07,060
+that you're trying to make
+sure a good test i would
+
+93
+00:07:07,060 --> 00:07:09,600
+love for my student to say
+a good test is a test that
+
+94
+00:07:09,600 --> 00:07:13,680
+that measure what i wanted
+you know what i try to teach
+
+95
+00:07:13,680 --> 00:07:17,360
+you right and so a good
+test in software engineering
+
+96
+00:07:17,360 --> 00:07:22,300
+is a test that try to to to
+to check the things you care
+
+97
+00:07:22,300 --> 00:07:25,040
+about now you can do it
+what do you care about then
+
+98
+00:07:25,040 --> 00:07:28,560
+you learn you might care
+about covering some part of
+
+99
+00:07:28,560 --> 00:07:31,740
+your code or you might care
+about checking some property
+
+100
+00:07:31,740 --> 00:07:35,770
+without looking at the code
+it depends it's it's an
+
+101
+00:07:35,770 --> 00:07:39,060
+equivalence right it's it's
+really i don't think that
+
+102
+00:07:39,060 --> 00:07:41,420
+in software so in software
+engineering a lot of words
+
+103
+00:07:41,420 --> 00:07:44,580
+exist also in the real world
+right already we didn't
+
+104
+00:07:44,580 --> 00:07:47,500
+invent them we just use them
+in this context and I think
+
+105
+00:07:47,500 --> 00:07:51,000
+it's because it's the same
+idea as just in a different
+
+106
+00:07:51,000 --> 00:07:54,460
+context so but when you
+don't have the tools yet I
+
+107
+00:07:54,460 --> 00:07:59,000
+try to stay on a philosophical
+level because sorely as
+
+108
+00:07:59,000 --> 00:08:05,440
+Shin was saying you don't
+really know it's enough to to
+
+109
+00:08:05,440 --> 00:08:09,440
+answer to this question but
+maybe when we go back when
+
+110
+00:08:09,440 --> 00:08:11,580
+we go further in the semester
+and you are at different
+
+111
+00:08:11,580 --> 00:08:16,160
+stages we can you know we
+can look into that more.
+
+112
+00:08:17,220 --> 00:08:20,480
+Thanks Paula. So
+the next question,
+
+113
+00:08:20,480 --> 00:08:22,840
+when can we know our
+group assignments?
+
+114
+00:08:22,840 --> 00:08:26,080
+This is the logistic
+of the course. So I
+
+115
+00:08:26,080 --> 00:08:30,700
+think we did mention
+that last of this hour,
+
+116
+00:08:31,220 --> 00:08:36,240
+the students will
+know that during
+
+117
+00:08:36,890 --> 00:08:40,260
+assignment five and GPD zero,
+
+118
+00:08:40,880 --> 00:08:44,000
+the one or two days
+before gpd0 opens
+
+119
+00:08:44,000 --> 00:08:46,700
+and deliverable 0 is
+just a simple contact
+
+120
+00:08:46,700 --> 00:08:48,740
+information so don't
+stress about that
+
+121
+00:08:48,900 --> 00:08:55,260
+the reason we wait until
+that late to form the group
+
+122
+00:08:55,260 --> 00:09:01,940
+is because we it's because
+sometimes students are
+
+123
+00:09:01,940 --> 00:09:05,320
+dropped across and we don't
+want to form the groups
+
+124
+00:09:05,320 --> 00:09:07,920
+and then some students drop
+and And then it becomes
+
+125
+00:09:07,920 --> 00:09:16,480
+in the group has two few
+members that it is becoming
+
+126
+00:09:16,480 --> 00:09:21,680
+unviable groups. So that's
+why we wait until one
+
+127
+00:09:21,860 --> 00:09:27,540
+or two days before D0 opens
+and have the assignment.
+
+128
+00:09:31,520 --> 00:09:36,200
+okay so it seems we
+only have two questions
+
+129
+00:09:36,200 --> 00:09:40,580
+so far both of which
+already answered
+
+130
+00:09:40,960 --> 00:09:48,440
+um meanwhile any anything
+new from uh from you paula
+
+131
+00:09:48,440 --> 00:09:52,340
+something from the academia
+oh yeah now you know like
+
+132
+00:09:52,340 --> 00:09:56,120
+what I want to grasp your
+okay assuming I have to
+
+133
+00:09:56,120 --> 00:09:58,920
+give a talk and I have two
+different topics to pick
+
+134
+00:09:58,920 --> 00:10:01,540
+from I'll tell you the
+topics they are both software
+
+135
+00:10:01,540 --> 00:10:04,660
+engineering related both
+requirements so that I don't
+
+136
+00:10:04,660 --> 00:10:07,820
+know if you read my bio but
+one of the two things I do
+
+137
+00:10:07,820 --> 00:10:10,780
+most is requirements
+engineering that is you know
+
+138
+00:10:10,780 --> 00:10:14,160
+the beginning of a project
+when you collect requirements
+
+139
+00:10:14,160 --> 00:10:18,640
+for building your your
+solution okay I need to give
+
+140
+00:10:18,640 --> 00:10:21,800
+a talk that talks about
+things I already done and
+
+141
+00:10:21,800 --> 00:10:25,900
+things that I will do and my
+two options so okay no and
+
+142
+00:10:25,900 --> 00:10:30,040
+my story is the following
+okay it's what do I care
+
+143
+00:10:30,040 --> 00:10:34,800
+about when I do research
+is I think humans will be
+
+144
+00:10:34,800 --> 00:10:38,880
+always necessary in certain
+activity and so my goal is
+
+145
+00:10:38,880 --> 00:10:43,200
+always to try to create
+support for humans to be better
+
+146
+00:10:43,200 --> 00:10:46,000
+in doing those activities
+right and so I work a
+
+147
+00:10:46,000 --> 00:10:49,420
+lot on requirements and
+dissertation interviews and now
+
+148
+00:10:49,420 --> 00:10:54,380
+I'm working a lot also on
+try to help for certain
+
+149
+00:10:54,380 --> 00:10:56,800
+type kind of software
+development and I know you know
+
+150
+00:10:56,800 --> 00:10:59,460
+already this but I'm saying
+it also for the students
+
+151
+00:11:00,120 --> 00:11:05,700
+you need to use formal
+specification because it's
+
+152
+00:11:05,700 --> 00:11:08,420
+required because of the
+kind of software that is
+
+153
+00:11:08,420 --> 00:11:11,700
+critical and you know if it
+fails people might die it's
+
+154
+00:11:11,700 --> 00:11:15,780
+just a lot of money get
+lost right And so I've done
+
+155
+00:11:15,780 --> 00:11:18,000
+already a lot of work
+before, and now I'm trying
+
+156
+00:11:18,000 --> 00:11:20,980
+to understand how LLMs can
+support these activities.
+
+157
+00:11:20,980 --> 00:11:26,440
+And so in one direction, we
+are using LLMs to analyze
+
+158
+00:11:26,750 --> 00:11:30,100
+the preparation of a
+person before going to a
+
+159
+00:11:30,100 --> 00:11:34,860
+requirement solicitation
+interview. The other work is to
+
+160
+00:11:34,860 --> 00:11:38,600
+try to not to translate
+natural language informal
+
+161
+00:11:38,600 --> 00:11:40,900
+requirements that are very
+difficult, because I think
+
+162
+00:11:40,900 --> 00:11:44,090
+it's very risky because
+at some point you get
+
+163
+00:11:44,090 --> 00:11:47,270
+confident in the result of a
+tool that is never perfect.
+
+164
+00:11:47,460 --> 00:11:52,620
+And so the purpose is to
+try to explain formulas
+
+165
+00:11:52,620 --> 00:11:55,580
+that you write in natural
+language so that you can have
+
+166
+00:11:55,580 --> 00:11:57,920
+feedback on the correctness
+of your sentence and
+
+167
+00:11:57,920 --> 00:12:00,920
+reason about that, like
+human in the loop. Now it's
+
+168
+00:12:00,920 --> 00:12:03,540
+much more complicated, but
+these are the two topics.
+
+169
+00:12:03,860 --> 00:12:05,360
+Formal requirements,
+
+170
+00:12:05,720 --> 00:12:08,760
+support for formal
+requirements or support
+
+171
+00:12:08,760 --> 00:12:10,740
+for interviews.
+What would you pick?
+
+172
+00:12:16,310 --> 00:12:17,610
+I'm collecting votes.
+
+173
+00:12:19,510 --> 00:12:24,130
+I am looking... Well,
+
+174
+00:12:24,270 --> 00:12:28,650
+I think it's because
+we are interacting
+
+175
+00:12:28,650 --> 00:12:31,430
+with students on
+ad, so maybe we
+
+176
+00:12:31,430 --> 00:12:36,190
+have to wait a
+little bit for that.
+
+177
+00:12:36,250 --> 00:12:39,610
+So students, please just
+comment on the ad thread,
+
+178
+00:12:39,610 --> 00:12:43,370
+so which topic... You
+can also have a vote.
+
+179
+00:12:43,790 --> 00:12:48,850
+Yeah. Well, I mean, if I
+choose to have the vote,
+
+180
+00:12:48,850 --> 00:12:54,450
+then the LLM formal verification
+sounds really interesting
+
+181
+00:12:54,450 --> 00:12:58,550
+to me because I have
+been involved with both.
+
+182
+00:12:58,550 --> 00:13:03,610
+and the fact that because I
+also do vibe coding myself
+
+183
+00:13:03,610 --> 00:13:10,270
+and the thing is the LM
+just keep forgetting or keep
+
+184
+00:13:10,270 --> 00:13:13,350
+doing the wrong thing that
+I explicitly tell them
+
+185
+00:13:13,350 --> 00:13:17,890
+to do like recently I
+explicitly tell them to do TDD
+
+186
+00:13:17,890 --> 00:13:22,690
+and then actually they
+have the plan like when in
+
+187
+00:13:22,690 --> 00:13:24,990
+order like step one do
+something step two do something
+
+188
+00:13:24,990 --> 00:13:28,410
+step three uh run the test
+uh set four do something
+
+189
+00:13:28,580 --> 00:13:31,370
+but they just keep writing
+the code and they they
+
+190
+00:13:31,370 --> 00:13:35,110
+never run the test so they
+go one two three four six
+
+191
+00:13:35,110 --> 00:13:39,430
+seven and then step five
+never get completed so it's
+
+192
+00:13:39,430 --> 00:13:43,050
+uh again hallucination so
+i'm really interested how
+
+193
+00:13:43,050 --> 00:13:47,730
+can we uh because for me,
+yes, formal verification,
+
+194
+00:13:48,310 --> 00:13:54,990
+it's like a lawyer,
+so the lawyer language
+
+195
+00:13:54,990 --> 00:13:57,710
+is everything is like
+exact meaning that
+
+196
+00:13:57,710 --> 00:14:00,230
+can be never like
+double meaning, right?
+
+197
+00:14:02,230 --> 00:14:06,490
+I'm translating natural
+language, informal language,
+
+198
+00:14:06,490 --> 00:14:08,570
+automatically, without
+mistake, it's impossible
+
+199
+00:14:08,570 --> 00:14:11,570
+because natural language
+is intrinsically ambiguous
+
+200
+00:14:11,570 --> 00:14:15,490
+so this is why the human
+is needed but i want to say
+
+201
+00:14:15,490 --> 00:14:18,950
+i was building a gold
+standard and i may mistake
+
+202
+00:14:18,950 --> 00:14:22,170
+myself because um after
+you are in this formula for
+
+203
+00:14:22,170 --> 00:14:24,890
+a very very long time it's
+easy to make a mistake
+
+204
+00:14:24,890 --> 00:14:30,030
+yeah so yeah that's why i
+mean if it is my choice and
+
+205
+00:14:30,030 --> 00:14:33,770
+i would really interested
+in that i just don't know
+
+206
+00:14:33,770 --> 00:14:36,250
+how but on the other hand
+you are a professor so
+
+207
+00:14:36,250 --> 00:14:39,130
+you have a like new research,
+like novel research.
+
+208
+00:14:39,130 --> 00:14:41,830
+Yeah, I have both,
+I mean, both things
+
+209
+00:14:41,830 --> 00:14:45,870
+I have, I have, I've
+been working on,
+
+210
+00:14:45,870 --> 00:14:48,330
+on formal verification
+since my PhD.
+
+211
+00:14:48,430 --> 00:14:50,630
+So I don't want to say
+how many years, but
+
+212
+00:14:50,630 --> 00:14:54,790
+wait, and, and then in
+requirements for more
+
+213
+00:14:54,790 --> 00:14:57,150
+than 10 years at this
+point. So in there,
+
+214
+00:14:57,150 --> 00:15:00,270
+and yeah, we got a
+question. So we were so
+
+215
+00:15:00,270 --> 00:15:02,590
+entertaining that we got
+a new question. Yeah,
+
+216
+00:15:04,110 --> 00:15:07,410
+so what can we do to prepare
+for future assignments?
+
+217
+00:15:07,410 --> 00:15:10,350
+If we get a good score
+in Grayscope, does it
+
+218
+00:15:10,350 --> 00:15:12,870
+mean we did not use any
+non-allow libraries or
+
+219
+00:15:12,870 --> 00:15:15,540
+just making sure I'm
+not? Okay, yeah, so what
+
+220
+00:15:15,540 --> 00:15:19,210
+can we do to prepare
+for future assignments?
+
+221
+00:15:19,830 --> 00:15:22,770
+Well, I mean,
+watch the lecture,
+
+222
+00:15:22,990 --> 00:15:26,150
+read the assignment
+instruction clearly, follow
+
+223
+00:15:26,150 --> 00:15:29,410
+the assignment
+instruction clearly, and
+
+224
+00:15:29,410 --> 00:15:33,470
+follow the feedback
+from Grayscope. So every
+
+225
+00:15:33,470 --> 00:15:37,550
+semester we have students
+like violate any combination
+
+226
+00:15:37,550 --> 00:15:40,090
+of those three, did
+not watch the lecture,
+
+227
+00:15:40,090 --> 00:15:42,110
+did not follow the
+assignment instruction,
+
+228
+00:15:42,610 --> 00:15:48,150
+nor did or did not
+resolve Gradescope
+
+229
+00:15:48,150 --> 00:15:51,810
+feedback, especially
+with certain manual
+
+230
+00:15:51,890 --> 00:15:55,630
+graded, manually
+graded assignment.
+
+231
+00:15:55,930 --> 00:16:01,050
+we still have sanity check
+and if Grayscope say you
+
+232
+00:16:01,050 --> 00:16:04,050
+have to do something
+otherwise you will get zero it
+
+233
+00:16:04,050 --> 00:16:09,150
+does mean you will get a
+zero regardless of what it
+
+234
+00:16:09,150 --> 00:16:13,510
+could have been when it is
+manually graded so that's one
+
+235
+00:16:13,510 --> 00:16:19,390
+thing and it is connected
+to the second part um if
+
+236
+00:16:19,390 --> 00:16:23,270
+you if students get good
+score on Grayscope. In other
+
+237
+00:16:23,270 --> 00:16:28,390
+words, if Grayscope is happy,
+then yes, mostly we are
+
+238
+00:16:28,390 --> 00:16:33,550
+fine. We only run final
+human manual check on
+
+239
+00:16:33,550 --> 00:16:39,370
+plagiarism. And if you, one,
+did not plagiarize, two, did
+
+240
+00:16:39,370 --> 00:16:44,870
+not use AI-assisted coding,
+then you should be fine.
+
+241
+00:16:45,030 --> 00:16:50,130
+Again, do not violate
+code of conduct. And then
+
+242
+00:16:50,130 --> 00:16:52,890
+the rest. If Grayscope
+happy, then you're good.
+
+243
+00:16:54,430 --> 00:16:58,110
+So that's the logistic.
+Paula, do you have any
+
+244
+00:16:59,300 --> 00:17:00,470
+comment on that?
+
+245
+00:17:00,930 --> 00:17:04,950
+On the logistic? No, because
+I'm getting used to it
+
+246
+00:17:04,950 --> 00:17:09,930
+myself, but I'm preparing
+for the next assignment. I
+
+247
+00:17:09,930 --> 00:17:14,950
+second everything that Shin
+say and try to make sure,
+
+248
+00:17:14,950 --> 00:17:17,650
+you know, like you, when
+you read the assignment that
+
+249
+00:17:17,650 --> 00:17:21,290
+you can make this step from
+I listen to like in some
+
+250
+00:17:21,290 --> 00:17:23,750
+of the in some of the part
+and some of the lecture
+
+251
+00:17:23,750 --> 00:17:26,550
+you also see more practical
+stuff but some you know
+
+252
+00:17:26,550 --> 00:17:29,510
+you need to learn the
+foundation so try to make sure
+
+253
+00:17:29,510 --> 00:17:33,010
+you can do this step to move
+forward so it depends on
+
+254
+00:17:33,010 --> 00:17:38,190
+the assignment but my
+suggestion is always this and it
+
+255
+00:17:38,190 --> 00:17:41,650
+applies in software
+development less than in for
+
+256
+00:17:41,650 --> 00:17:45,930
+instance I took many years
+theoretical computer science
+
+257
+00:17:45,930 --> 00:17:49,890
+but very often there is
+much more time in thinking
+
+258
+00:17:49,890 --> 00:17:53,330
+and planning than in actually
+doing right so make sure
+
+259
+00:17:53,330 --> 00:17:55,890
+that when you read the
+assignment you take that time
+
+260
+00:17:55,890 --> 00:18:00,770
+to think you know and build
+your plan for solving it
+
+261
+00:18:01,490 --> 00:18:05,730
+it's because if you're
+rushing the solution then
+
+262
+00:18:05,820 --> 00:18:08,890
+then if at some point
+you realize that that was
+
+263
+00:18:08,890 --> 00:18:12,850
+wrong it's so much so
+much undoing right so make
+
+264
+00:18:12,850 --> 00:18:15,090
+sure you arrive at the
+end you make your plan
+
+265
+00:18:15,090 --> 00:18:17,510
+and you go to the solution
+but it's much more
+
+266
+00:18:17,510 --> 00:18:22,110
+thinking than doing that's
+or planning than doing
+
+267
+00:18:24,070 --> 00:18:30,110
+okay cool so next question
+um if someone took the
+
+268
+00:18:30,110 --> 00:18:32,830
+course in prior semester are
+they allowed to reuse some
+
+269
+00:18:32,830 --> 00:18:35,370
+code from their personal
+assignments uh for this we
+
+270
+00:18:35,370 --> 00:18:39,590
+explicitly have it in the
+syllabus so please make sure
+
+271
+00:18:39,590 --> 00:18:43,450
+that you already read the
+syllabus and if you already
+
+272
+00:18:43,450 --> 00:18:46,490
+did and still have the same
+question please come back
+
+273
+00:18:46,490 --> 00:18:51,850
+to us because it means
+that we did not do our job
+
+274
+00:18:51,910 --> 00:18:54,670
+good enough explaining in
+the syllabus that you have to
+
+275
+00:18:54,670 --> 00:18:58,950
+ask the question even after
+that and also you have to
+
+276
+00:18:58,950 --> 00:19:02,710
+read the syllabus anyway because
+we have the participation
+
+277
+00:19:02,710 --> 00:19:07,230
+and syllabus quiz coming
+due and And if you
+
+278
+00:19:07,230 --> 00:19:11,490
+don't read the syllabus and
+answer incorrectly, then you
+
+279
+00:19:11,490 --> 00:19:14,410
+would be sad because it's
+essentially three points.
+
+280
+00:19:17,730 --> 00:19:21,450
+Next question, does the
+skeleton code generated
+
+281
+00:19:21,450 --> 00:19:25,330
+by IntelliJ count as
+AI-generated code?
+
+282
+00:19:27,310 --> 00:19:31,310
+So the skeleton
+or the boilerplate
+
+283
+00:19:31,310 --> 00:19:35,550
+generated by IntelliJ
+is not considered AI
+
+284
+00:19:35,550 --> 00:19:37,830
+-generated. it. So
+yeah, that is fine.
+
+285
+00:19:41,430 --> 00:19:46,910
+Meaning that like five
+years ago before LOM, right,
+
+286
+00:19:47,370 --> 00:19:49,710
+we already have the
+boilerplate code.
+
+287
+00:19:49,710 --> 00:19:53,650
+So yeah, the team only
+look at the project
+
+288
+00:19:54,230 --> 00:19:57,950
+specific code that
+the students do.
+
+289
+00:20:00,670 --> 00:20:04,930
+Okay, no more questions.
+So, Paula, maybe we
+
+290
+00:20:04,930 --> 00:20:09,450
+can spend time a little
+bit on those topics.
+
+291
+00:20:10,830 --> 00:20:14,530
+Which topics? My
+topics or other topics?
+
+292
+00:20:14,870 --> 00:20:16,150
+Yeah, your topics.
+
+293
+00:20:16,610 --> 00:20:18,650
+Okay, so what do
+you want to know?
+
+294
+00:20:18,680 --> 00:20:20,750
+Oh, no, we have
+another question.
+
+295
+00:20:21,730 --> 00:20:24,550
+Students definitely say
+
+296
+00:20:31,690 --> 00:20:35,370
+it's interesting to me how
+often yes and you know okay
+
+297
+00:20:35,370 --> 00:20:38,570
+so let me say something
+about interview before llms
+
+298
+00:20:38,570 --> 00:20:47,410
+so i started to study
+interviews maybe in 2014 for 13
+
+299
+00:20:47,410 --> 00:20:54,930
+2013 no 14 2014 uh and uh And
+we did an analysis because
+
+300
+00:20:54,930 --> 00:20:59,310
+in 2016 there was the
+silver jubilee of the main
+
+301
+00:20:59,310 --> 00:21:02,870
+conference in requirements
+engineering and we submitted
+
+302
+00:21:02,870 --> 00:21:06,860
+this proposal for a talk
+on requirement solicitation
+
+303
+00:21:06,860 --> 00:21:10,210
+and we did an analysis of
+all the research, corporate
+
+304
+00:21:10,210 --> 00:21:13,110
+research published about
+requirement solicitation,
+
+305
+00:21:13,110 --> 00:21:16,270
+right? And so there was a
+very interesting study that
+
+306
+00:21:16,270 --> 00:21:19,930
+shows that when you do
+requirements, when you analyze
+
+307
+00:21:19,930 --> 00:21:23,470
+your requirement specification
+it's already too late
+
+308
+00:21:23,470 --> 00:21:29,690
+even if you do a full
+analysis the mistake you find
+
+309
+00:21:29,690 --> 00:21:32,770
+there are not problem of how
+you wrote your requirements
+
+310
+00:21:32,770 --> 00:21:36,390
+or conflicts that you didn't
+resolve are problem of
+
+311
+00:21:36,390 --> 00:21:41,630
+things that you didn't find
+during your requirements
+
+312
+00:21:41,630 --> 00:21:44,870
+phase and our requirement
+solicitation interview are the
+
+313
+00:21:44,870 --> 00:21:49,030
+most common way to collect
+your requirements and it's
+
+314
+00:21:49,030 --> 00:21:51,250
+interesting because you
+know like very often people
+
+315
+00:21:51,250 --> 00:21:53,750
+think about yes but this is
+common sense it's like me
+
+316
+00:21:53,750 --> 00:21:56,970
+talking with my client or
+talking with other stakeholders
+
+317
+00:21:56,970 --> 00:22:00,210
+right yes but it's not
+the same thing because
+
+318
+00:22:00,210 --> 00:22:02,770
+there is a gap in domain
+knowledge because you're not
+
+319
+00:22:02,770 --> 00:22:05,210
+talking to your colleague but
+you're talking to a person
+
+320
+00:22:05,210 --> 00:22:08,070
+in a completely different
+domain because there is
+
+321
+00:22:08,070 --> 00:22:12,550
+there is no there is no report
+created already with this
+
+322
+00:22:12,550 --> 00:22:16,230
+person and so we did an
+initial very interesting study
+
+323
+00:22:16,230 --> 00:22:20,250
+to try to analyze the most
+common mistake that young
+
+324
+00:22:20,250 --> 00:22:24,290
+analysts do and so we did
+it with a lot of master's
+
+325
+00:22:24,290 --> 00:22:26,810
+students that were already
+professionals so they had
+
+326
+00:22:26,810 --> 00:22:29,110
+already an undergraduate
+degree in computing so they
+
+327
+00:22:29,110 --> 00:22:32,170
+already study requirements
+and most likely have talked
+
+328
+00:22:32,170 --> 00:22:35,410
+with somebody outside their
+field and then we did all
+
+329
+00:22:35,410 --> 00:22:37,730
+these very long analysis
+it was very time consuming
+
+330
+00:22:37,730 --> 00:22:40,710
+I listened to this interview
+we transcribed all of them
+
+331
+00:22:40,710 --> 00:22:44,550
+and we identified this
+most common mistake that um
+
+332
+00:22:44,550 --> 00:22:51,510
+that uh that younger um uh
+analysts do and we use them
+
+333
+00:22:51,510 --> 00:22:55,570
+somehow to create a sort of
+training in reverse order
+
+334
+00:22:55,570 --> 00:22:58,570
+so that you practice and
+then use them and so now for
+
+335
+00:22:58,570 --> 00:23:01,450
+instance i would be very
+excited it's been quite long
+
+336
+00:23:01,450 --> 00:23:03,730
+time that i haven't worked
+on that part but i think
+
+337
+00:23:03,730 --> 00:23:07,130
+it would be quite exciting
+uh to rebuild this training
+
+338
+00:23:07,130 --> 00:23:10,590
+with some support of you
+know what was very expensive
+
+339
+00:23:10,590 --> 00:23:14,230
+for me to do I've been teaching
+a class on requirements
+
+340
+00:23:14,230 --> 00:23:16,570
+engineering for instance
+and so you had time to
+
+341
+00:23:16,570 --> 00:23:20,070
+work really on the different
+aspect and what was anyway
+
+342
+00:23:20,070 --> 00:23:24,410
+too much time consuming
+was like to you know train
+
+343
+00:23:24,410 --> 00:23:29,050
+on interviews with students
+and now we you know LLMs
+
+344
+00:23:29,050 --> 00:23:32,830
+and this ability to you know
+to create an agent that can
+
+345
+00:23:32,830 --> 00:23:37,230
+be the customer students
+can have you know people can
+
+346
+00:23:37,230 --> 00:23:41,870
+can can be easily can eat
+more ease I mean not super
+
+347
+00:23:41,870 --> 00:23:47,110
+easily but it's uh there
+could be this idea of training
+
+348
+00:23:47,110 --> 00:23:50,770
+because I don't think
+despite the fact that LLMs
+
+349
+00:23:50,770 --> 00:23:55,370
+can be the interviewer I think
+people will have to remain
+
+350
+00:23:55,370 --> 00:23:58,830
+the interview that in in
+the in the last year I've
+
+351
+00:23:58,830 --> 00:24:01,650
+seen a couple of paper on
+them and I've seen them
+
+352
+00:24:01,650 --> 00:24:04,270
+presented and asked questions
+while While technically
+
+353
+00:24:04,270 --> 00:24:07,390
+they are very interesting
+from a practical perspective,
+
+354
+00:24:07,590 --> 00:24:10,550
+I don't think that
+many of the problems
+
+355
+00:24:10,550 --> 00:24:16,530
+that were before young
+junior analysts do,
+
+356
+00:24:18,510 --> 00:24:21,630
+they are in the
+relationship in the way in
+
+357
+00:24:21,630 --> 00:24:24,650
+which you communicate
+and you listen and react.
+
+358
+00:24:24,790 --> 00:24:29,110
+So I don't think that this
+will ever… maybe a new
+
+359
+00:24:29,110 --> 00:24:33,330
+elicitation technique in between
+questionnaire an interview
+
+360
+00:24:33,330 --> 00:24:36,770
+can be created through LLMs
+but I think that interview
+
+361
+00:24:36,770 --> 00:24:42,090
+will stay and so if I
+think that analysts need
+
+362
+00:24:42,090 --> 00:24:45,550
+training to go and talk with
+their client and so I'm very
+
+363
+00:24:45,550 --> 00:24:49,790
+curious about you know how
+what we studied before that
+
+364
+00:24:49,790 --> 00:24:52,830
+was very interesting but a
+lot of time consuming for
+
+365
+00:24:52,830 --> 00:24:55,670
+a training part because
+you need you know you need
+
+366
+00:24:55,670 --> 00:25:02,190
+trainee to be able to have a
+fake customer to talk to and
+
+367
+00:25:02,190 --> 00:25:06,630
+we try to create an intelligent
+agent but you know like
+
+368
+00:25:06,630 --> 00:25:09,510
+LLM's changed completely
+shifted completely the
+
+369
+00:25:09,510 --> 00:25:13,590
+ability of you know communication
+in in terms of natural
+
+370
+00:25:13,590 --> 00:25:16,930
+language processing and so
+now what we tried to do before
+
+371
+00:25:16,930 --> 00:25:20,930
+with pre-casted things
+might be much easier so I
+
+372
+00:25:20,930 --> 00:25:23,170
+don't know I think I
+actually think this is a very
+
+373
+00:25:23,170 --> 00:25:28,030
+fascinating problem see I said
+this is my problem Sheen that
+
+374
+00:25:28,030 --> 00:25:31,850
+I I am completely passionate
+about everything I do.
+
+375
+00:25:32,770 --> 00:25:35,750
+I have a question,
+though. So with the
+
+376
+00:25:35,750 --> 00:25:39,850
+requirement
+engineering, it is semi
+
+377
+00:25:39,850 --> 00:25:42,170
+-structured interview.
+Is that right?
+
+378
+00:25:42,350 --> 00:25:47,090
+So you prepare certain
+questions, but then going...
+
+379
+00:25:47,090 --> 00:25:50,690
+So you prepare... So requirements
+and decision interviews,
+
+380
+00:25:50,690 --> 00:25:55,390
+semi-structured as one
+type. but usually and so
+
+381
+00:25:55,970 --> 00:25:58,890
+usually they are unstructured
+the one that you have
+
+382
+00:25:58,890 --> 00:26:03,270
+you have you create kind of
+a set of topics you want to
+
+383
+00:26:03,270 --> 00:26:08,870
+cover and then and so this
+this is there is a preparation
+
+384
+00:26:08,870 --> 00:26:12,890
+semi-structure is in
+between but usually at the
+
+385
+00:26:12,890 --> 00:26:16,170
+very beginning of the project
+the interviews are fully
+
+386
+00:26:16,170 --> 00:26:19,570
+unstructured because you
+really otherwise you know
+
+387
+00:26:19,570 --> 00:26:22,610
+you want to have the freedom
+to really understand uh
+
+388
+00:26:22,610 --> 00:26:25,990
+despite the fact that uh
+it's it's very interesting
+
+389
+00:26:25,990 --> 00:26:30,170
+we are uh very much biased
+i mean tend to bias the
+
+390
+00:26:30,170 --> 00:26:34,410
+customer and another thing
+that we we at some point we
+
+391
+00:26:34,410 --> 00:26:38,950
+did a study in which we
+tried to follow um a process
+
+392
+00:26:38,950 --> 00:26:43,610
+right to see to go from id
+from an idea to a you know
+
+393
+00:26:43,610 --> 00:26:46,010
+to a requirements what
+happened in between and so we
+
+394
+00:26:46,010 --> 00:26:48,650
+had a sequence of interviews
+and then we were seeing
+
+395
+00:26:48,650 --> 00:26:52,060
+that we're seeing the notes
+and the requirements and
+
+396
+00:26:52,060 --> 00:26:56,650
+then funny enough in all
+this interview there were no
+
+397
+00:26:56,650 --> 00:26:59,390
+mention of many non-functional
+requirements like you
+
+398
+00:26:59,390 --> 00:27:03,590
+know privacy or security
+technical things that the
+
+399
+00:27:03,950 --> 00:27:08,310
+customer that your client
+is I don't remember what was
+
+400
+00:27:08,310 --> 00:27:10,710
+the topic but assuming you
+know a person that has a
+
+401
+00:27:10,710 --> 00:27:13,510
+summer camp for children okay
+because this has been very
+
+402
+00:27:13,510 --> 00:27:17,230
+often one of the to me. I
+had little children at the
+
+403
+00:27:17,230 --> 00:27:21,530
+time, so it looked like a
+very important problem to
+
+404
+00:27:21,530 --> 00:27:27,330
+me. But, you know, of
+course, for some reason, we
+
+405
+00:27:27,430 --> 00:27:30,910
+noticed that these were
+questions that were not asked and
+
+406
+00:27:30,910 --> 00:27:34,270
+certain requirements came
+up. These were like, you
+
+407
+00:27:34,270 --> 00:27:37,840
+know, a request from
+them. So it's really, it's
+
+408
+00:27:38,680 --> 00:27:42,370
+interesting. But I mean, semi
+-structured interview, I used
+
+409
+00:27:42,750 --> 00:27:45,290
+like maybe a second, a
+third interview with the
+
+410
+00:27:45,290 --> 00:27:48,090
+same stakeholder to
+make sure you call, in
+
+411
+00:27:48,090 --> 00:27:51,390
+theory, if you follow
+rightly the process, right?
+
+412
+00:27:51,510 --> 00:27:54,230
+And you have a structured
+interview at the
+
+413
+00:27:54,230 --> 00:27:56,490
+beginning with your main
+stakeholders in which
+
+414
+00:27:56,490 --> 00:27:58,390
+you try to understand
+which are the other
+
+415
+00:27:58,390 --> 00:28:01,030
+stakeholders that you
+didn't consider. And then
+
+416
+00:28:01,030 --> 00:28:03,650
+when you go back to look
+at what you collected,
+
+417
+00:28:03,870 --> 00:28:06,950
+you have these things that
+you need to understand
+
+418
+00:28:06,950 --> 00:28:10,950
+better. And then you can
+go in a more structured way
+
+419
+00:28:13,510 --> 00:28:16,630
+completely passionate
+so that was saying
+
+420
+00:28:18,870 --> 00:28:22,130
+in the meantime but
+thank you for the vote
+
+421
+00:28:26,050 --> 00:28:33,270
+okay nice so we don't have
+any other questions so
+
+422
+00:28:33,270 --> 00:28:37,450
+probably we can wait a little
+bit more and then if not then
+
+423
+00:28:37,450 --> 00:28:42,530
+yeah it's still early in the
+semester so it is expected
+
+424
+00:28:42,830 --> 00:28:47,190
+there are some some great
+questions like the first
+
+425
+00:28:47,190 --> 00:28:50,110
+question we have but it's
+also hard for us to answer
+
+426
+00:28:50,110 --> 00:28:53,990
+right now given that we are
+just really early and we
+
+427
+00:28:53,990 --> 00:28:57,450
+the students may not have
+enough contacts but let's take
+
+428
+00:28:57,450 --> 00:29:01,250
+a note for us to respond to
+that later in the semester
+
+429
+00:29:01,250 --> 00:29:05,890
+every time they learn
+something more about us Yeah.
+
+430
+00:29:09,010 --> 00:29:11,550
+I'm counting on your
+memory, not mine,
+
+431
+00:29:11,550 --> 00:29:14,290
+or on the student to
+repost the question.
+
+432
+00:29:19,870 --> 00:29:25,010
+OK, so if there are
+no other questions,
+
+433
+00:29:25,010 --> 00:29:29,410
+then I think we can
+call it a night.
+
+434
+00:29:29,490 --> 00:29:32,870
+And yeah, we will see all of
+
+435
+00:29:32,870 --> 00:29:35,450
+you on it. and
+next office hour.
+
+436
+00:29:35,990 --> 00:29:37,190
+Yeah.
+
+437
+00:29:38,010 --> 00:29:38,590
+Okay.
+
+438
+00:29:38,870 --> 00:29:39,470
+Bye.
+
+439
+00:29:40,730 --> 00:29:42,170
+Bye guys.
+
+440
+00:29:42,370 --> 00:29:43,430
+Bye.
