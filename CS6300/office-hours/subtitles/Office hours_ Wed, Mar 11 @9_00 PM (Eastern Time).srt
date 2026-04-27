@@ -1,0 +1,1828 @@
+1
+00:00:03,380 --> 00:00:05,000
+Hello, everyone, and welcome
+
+2
+00:00:05,000 --> 00:00:06,910
+to the office hours for CS6300.
+
+3
+00:00:07,900 --> 00:00:10,120
+Shin is here as
+well, but he's having
+
+4
+00:00:10,120 --> 00:00:12,840
+minor sound issues,
+and while he corrects
+
+5
+00:00:12,840 --> 00:00:14,320
+that, he asked me
+to get us started.
+
+6
+00:00:14,320 --> 00:00:18,380
+So hi, everyone, and
+let Paola say hi.
+
+7
+00:00:18,680 --> 00:00:22,450
+I can also say hi. I also
+have some communication
+
+8
+00:00:23,150 --> 00:00:25,460
+issue, but these are
+more related to my voice
+
+9
+00:00:25,460 --> 00:00:29,780
+than my mic, but it will
+go away, and still I hope
+
+10
+00:00:29,780 --> 00:00:32,850
+you can hear me well.
+It's much better already.
+
+11
+00:00:33,460 --> 00:00:35,320
+and shin how are you doing now
+
+12
+00:00:37,300 --> 00:00:41,740
+are you with us now sounds
+like he's not hearing me
+
+13
+00:00:41,740 --> 00:00:45,240
+um so unfortunately i don't
+know what announcements
+
+14
+00:00:45,240 --> 00:00:49,040
+he was planning on making
+uh which does make this
+
+15
+00:00:49,040 --> 00:00:53,300
+very difficult um so do
+we want to just uh well i
+
+16
+00:00:53,300 --> 00:00:55,340
+was going to say jump into
+questions i don't have any
+
+17
+00:00:55,340 --> 00:00:58,000
+question right the only
+question there is already
+
+18
+00:00:58,000 --> 00:01:00,540
+resolved and has already
+been answered by justin so
+
+19
+00:01:01,660 --> 00:01:03,920
+So I have no
+announcements to give you,
+
+20
+00:01:03,920 --> 00:01:05,680
+and we have no
+questions to answer. But
+
+21
+00:01:05,680 --> 00:01:07,960
+hopefully some people
+will be asking questions
+
+22
+00:01:07,960 --> 00:01:10,940
+while we sort of
+vamp here for a bit.
+
+23
+00:01:11,140 --> 00:01:14,280
+And hopefully Shin
+will be able to hear us
+
+24
+00:01:14,280 --> 00:01:16,240
+and talk in a bit
+and then can give you
+
+25
+00:01:16,240 --> 00:01:18,420
+the announcements that
+I didn't give you.
+
+26
+00:01:22,900 --> 00:01:24,640
+So what should we talk about
+
+27
+00:01:24,640 --> 00:01:25,800
+while we wait for questions?
+
+28
+00:01:27,560 --> 00:01:31,960
+I don't know, Will. do you
+want um she usually asks
+
+29
+00:01:31,960 --> 00:01:36,740
+me some random question
+and i like i am hello oh
+
+30
+00:01:36,740 --> 00:01:39,580
+no he's back he's here when
+i was thinking he asked
+
+31
+00:01:39,580 --> 00:01:42,820
+me some random question
+he came back i didn't do
+
+32
+00:01:42,820 --> 00:01:44,560
+the announcements because
+i didn't know what to
+
+33
+00:01:44,560 --> 00:01:47,160
+announce and there are no
+there was only one question
+
+34
+00:01:47,160 --> 00:01:49,600
+and justin already answered
+it so we're waiting
+
+35
+00:01:49,600 --> 00:01:52,580
+for questions and so i
+figured you might as well do
+
+36
+00:01:52,580 --> 00:01:54,300
+the announcements and
+then come up with a random
+
+37
+00:01:54,300 --> 00:02:00,280
+question for us to fill time
+okay So today we already
+
+38
+00:02:00,280 --> 00:02:09,480
+closed GPT-3, GPT-4 is
+ongoing, and this week,
+
+39
+00:02:09,480 --> 00:02:15,380
+this Saturday, we opened
+assignment 6, which is the
+
+40
+00:02:15,380 --> 00:02:19,520
+most interesting and
+intellectual challenging one.
+
+41
+00:02:19,660 --> 00:02:25,640
+at the same time we will
+also lock down at discussion
+
+42
+00:02:25,640 --> 00:02:31,630
+for uh during during the
+during the week of a6
+
+43
+00:02:31,630 --> 00:02:37,060
+so today this office hour
+is the one of the most
+
+44
+00:02:37,060 --> 00:02:39,840
+important and should be
+one of the most active
+
+45
+00:02:39,840 --> 00:02:44,360
+office hours from students
+especially asking about
+
+46
+00:02:44,360 --> 00:02:47,680
+a white box testing because
+ASICS is all about white
+
+47
+00:02:47,680 --> 00:02:54,460
+box testing and yeah again
+for for those who are
+
+48
+00:02:54,460 --> 00:02:59,140
+in in this oh which make
+sure that you completely
+
+49
+00:02:59,720 --> 00:03:04,380
+understand white box
+testing because that's all
+
+50
+00:03:05,090 --> 00:03:11,140
+owned unit for ASICS
+otherwise during during ASICS
+
+51
+00:03:11,140 --> 00:03:15,000
+we will not have any public
+post on it, a private
+
+52
+00:03:15,000 --> 00:03:19,810
+post is still allowed,
+and we will not have OH
+
+53
+00:03:20,160 --> 00:03:23,860
+next week as well because
+we are in the lockdown,
+
+54
+00:03:23,860 --> 00:03:26,820
+communication lockdown.
+If we have office hours,
+
+55
+00:03:27,200 --> 00:03:31,620
+someone can sleep in
+certain questions that can
+
+56
+00:03:31,620 --> 00:03:34,800
+help with the answer, so
+we cannot let it happen
+
+57
+00:03:34,800 --> 00:03:37,880
+either. Can I ask you
+a clarification, Jin?
+
+58
+00:03:38,100 --> 00:03:42,720
+Yeah. if if people ask
+a a private question and
+
+59
+00:03:42,720 --> 00:03:45,360
+we decided something
+that everybody should see
+
+60
+00:03:45,420 --> 00:03:47,360
+is it possible some
+of those private
+
+61
+00:03:47,360 --> 00:03:49,640
+questions the instructor
+may make public
+
+62
+00:03:50,020 --> 00:03:54,460
+yes we thank you for the
+clarification yeah we we
+
+63
+00:03:54,460 --> 00:03:58,820
+actually did that in the
+past um sometimes um in
+
+64
+00:03:58,820 --> 00:04:01,260
+the question uh in the
+question itself students
+
+65
+00:04:01,260 --> 00:04:05,280
+say that hey it's fine
+if uh instructor can make
+
+66
+00:04:05,280 --> 00:04:09,460
+this public but sometimes
+we think it can be it
+
+67
+00:04:09,460 --> 00:04:12,520
+can be public but then we
+also have to ask student
+
+68
+00:04:12,520 --> 00:04:15,900
+consent to make it
+public as well so yeah it
+
+69
+00:04:15,900 --> 00:04:19,940
+goes both ways but yes it
+is a possibility that um
+
+70
+00:04:20,180 --> 00:04:23,300
+certain certain question and
+answer can be public during
+
+71
+00:04:23,300 --> 00:04:26,540
+this um lockdown mode
+because i was just gonna i
+
+72
+00:04:26,540 --> 00:04:29,260
+was just gonna say you know
+just because it's locked down
+
+73
+00:04:29,260 --> 00:04:31,880
+doesn't mean you shouldn't
+be reading you know checking
+
+74
+00:04:31,880 --> 00:04:37,040
+in on it uh on on a
+fairly regular basis um uh
+
+75
+00:04:37,040 --> 00:04:41,140
+because there may be some
+posts even though there won't
+
+76
+00:04:41,140 --> 00:04:44,140
+be any from students necessarily
+there may be some that
+
+77
+00:04:44,140 --> 00:04:46,680
+we make but i just want to
+make sure that we hadn't
+
+78
+00:04:46,680 --> 00:04:49,260
+changed policy this semester
+and i wasn't aware of it
+
+79
+00:04:49,260 --> 00:04:52,400
+before i said that so yeah
+you want to check in because
+
+80
+00:04:52,510 --> 00:04:56,360
+if somebody asks a question
+that we think is appropriate
+
+81
+00:04:56,360 --> 00:04:59,760
+for the whole class, a
+clarification or something,
+
+82
+00:04:59,760 --> 00:05:02,220
+we may put it out there
+rather than having to answer
+
+83
+00:05:02,220 --> 00:05:06,200
+it 47 times from everybody
+asking the same question.
+
+84
+00:05:06,340 --> 00:05:10,480
+So don't just assume that
+you can spend the week
+
+85
+00:05:10,480 --> 00:05:13,220
+not doing anything on there
+at all, that there won't
+
+86
+00:05:13,220 --> 00:05:15,580
+be anything useful because
+there probably will be.
+
+87
+00:05:17,640 --> 00:05:21,620
+Another thing that I would
+like to remind you It
+
+88
+00:05:21,620 --> 00:05:26,440
+cannot be reminded here
+enough that when you submit
+
+89
+00:05:26,440 --> 00:05:30,160
+ASIC, make sure that
+the sanity check passed.
+
+90
+00:05:30,160 --> 00:05:33,840
+Otherwise, you will
+be really set even if
+
+91
+00:05:33,840 --> 00:05:37,700
+everything is almost
+correct, you will get zero.
+
+92
+00:05:37,700 --> 00:05:40,920
+Because what Gradescope
+said is what you
+
+93
+00:05:40,920 --> 00:05:43,200
+get. So please, please,
+please make sure
+
+94
+00:05:43,200 --> 00:05:45,880
+that everything passed
+the sanity check.
+
+95
+00:05:45,880 --> 00:05:48,460
+Yeah. Now, I want to
+correct something.
+
+96
+00:05:48,600 --> 00:05:51,240
+What Gradescope says
+won't be what you get
+
+97
+00:05:51,240 --> 00:05:53,500
+in the sense that the
+best you can get out
+
+98
+00:05:53,500 --> 00:05:56,560
+of Gradescope is 10
+out of 100 for ASICS.
+
+99
+00:05:56,780 --> 00:05:59,400
+So that doesn't mean that
+if it gives you 10 out
+
+100
+00:05:59,400 --> 00:06:01,420
+of 100, you're only going
+to get 10. You can't
+
+101
+00:06:01,420 --> 00:06:05,220
+get better than 10 because
+ASICS isn't grading
+
+102
+00:06:05,220 --> 00:06:08,440
+you. It's just doing some
+sanity checks to make
+
+103
+00:06:08,440 --> 00:06:12,420
+sure that you haven't done
+anything really wrong.
+
+104
+00:06:13,600 --> 00:06:16,100
+look at the output make
+sure it looks like you
+
+105
+00:06:16,100 --> 00:06:20,680
+expect it to look uh look
+at that but most importantly
+
+106
+00:06:20,680 --> 00:06:22,680
+look at that score
+because if it gives you
+
+107
+00:06:22,680 --> 00:06:25,880
+a zero out of 10 you can
+have everything right
+
+108
+00:06:25,880 --> 00:06:28,520
+and one stupid error but
+if the thing told you hey
+
+109
+00:06:28,520 --> 00:06:30,620
+you got zero out of 10
+you got to fix something
+
+110
+00:06:30,620 --> 00:06:33,760
+and you don't fix it you
+will not get any points
+
+111
+00:06:33,760 --> 00:06:36,920
+you will get zero out
+of the 100 final points
+
+112
+00:06:37,120 --> 00:06:39,780
+That's what that is
+there for, is to make
+
+113
+00:06:39,780 --> 00:06:42,120
+sure that the simple
+errors don't happen.
+
+114
+00:06:42,280 --> 00:06:45,870
+And if you ignore the fact
+that Gradescope told you
+
+115
+00:06:45,870 --> 00:06:49,620
+that there was a simple
+error and you don't fix it,
+
+116
+00:06:49,820 --> 00:06:53,920
+you will not be very
+successful in asking for
+
+117
+00:06:53,920 --> 00:06:57,440
+partial points. It won't
+happen, just so you know.
+
+118
+00:07:00,520 --> 00:07:02,260
+And there are
+still no questions.
+
+119
+00:07:05,420 --> 00:07:07,620
+and you have muted
+yourself so if you're
+
+120
+00:07:07,620 --> 00:07:09,380
+going to talk you
+probably should unmute
+
+121
+00:07:10,500 --> 00:07:13,060
+and i was telling him
+he was muted being
+
+122
+00:07:13,060 --> 00:07:17,650
+muted myself it's a
+very good thing okay
+
+123
+00:07:24,030 --> 00:07:27,610
+here it is there we go i
+have i have so many i have
+
+124
+00:07:27,610 --> 00:07:31,150
+so many uh tabs on on my
+computer and because i'm
+
+125
+00:07:31,150 --> 00:07:36,690
+running Linux there is no
+native Microsoft Teams or
+
+126
+00:07:36,690 --> 00:07:39,890
+any Microsoft suit for
+that matter so I have to
+
+127
+00:07:39,890 --> 00:07:44,190
+use Chrome in that and then
+the tab is I get lost in
+
+128
+00:07:44,190 --> 00:07:49,020
+all of other time anyway
+I would like to have some
+
+129
+00:07:49,020 --> 00:07:55,790
+questions for Paula so
+we are doing the I was
+
+130
+00:07:55,790 --> 00:07:58,750
+actually asking about to
+ask you a question about the
+
+131
+00:07:58,750 --> 00:08:03,210
+number of tabs you have
+opening because you said and
+
+132
+00:08:03,210 --> 00:08:06,540
+then you get lost in the
+number of tabs and i i
+
+133
+00:08:06,540 --> 00:08:09,630
+have more than you can
+see before you answer that
+
+134
+00:08:09,630 --> 00:08:13,370
+there is in fact a a question
+finally the question is
+
+135
+00:08:13,370 --> 00:08:16,390
+so what are the primary
+learning objectives of a6
+
+136
+00:08:19,430 --> 00:08:23,330
+um so paula um i can i
+can do it yeah and you
+
+137
+00:08:23,330 --> 00:08:26,290
+know and i i actually
+you know i want to say I,
+
+138
+00:08:27,310 --> 00:08:30,970
+you know, this class has
+been developed by a person
+
+139
+00:08:30,970 --> 00:08:35,330
+whose main research focus
+is testing and debugging,
+
+140
+00:08:35,330 --> 00:08:39,730
+actually. But I'm more of a
+theoretician and I absolutely
+
+141
+00:08:39,730 --> 00:08:45,870
+love ASICS because ASICS is,
+you know, for people like
+
+142
+00:08:45,870 --> 00:08:48,460
+me, that come from requirements,
+formal verification,
+
+143
+00:08:48,670 --> 00:08:52,570
+testing is some of these
+necessary, brutal things,
+
+144
+00:08:52,570 --> 00:08:56,110
+right? That doesn't
+give you any certainty.
+
+145
+00:08:57,190 --> 00:09:00,350
+Actually, you know, like
+the classic things that
+
+146
+00:09:00,350 --> 00:09:02,970
+people tell you, and I'm
+pretty sure it's most
+
+147
+00:09:02,970 --> 00:09:06,570
+likely in your class, if
+your test suite doesn't give
+
+148
+00:09:06,570 --> 00:09:10,430
+you any, doesn't report
+any problem, it means that
+
+149
+00:09:10,430 --> 00:09:12,710
+your test suite is probably
+not that very good,
+
+150
+00:09:12,710 --> 00:09:15,450
+right? Because the idea
+of testing is that testing
+
+151
+00:09:15,450 --> 00:09:18,830
+has to find things. But
+the fact that doesn't
+
+152
+00:09:18,830 --> 00:09:21,790
+find anything doesn't say
+anything about your code.
+
+153
+00:09:22,090 --> 00:09:26,130
+And I think that the
+goal of A6 is to make you
+
+154
+00:09:26,130 --> 00:09:30,150
+understand how all the
+different criteria all
+
+155
+00:09:30,150 --> 00:09:33,350
+still are very incomplete,
+right? So none of them
+
+156
+00:09:33,350 --> 00:09:36,730
+give you guarantees. How
+they all combine to each
+
+157
+00:09:36,730 --> 00:09:39,690
+other. So this is, in
+fact, a very complex
+
+158
+00:09:39,690 --> 00:09:44,010
+problem. And then in reality,
+we compromise between
+
+159
+00:09:44,500 --> 00:09:47,750
+what we can actually do
+with the resources and
+
+160
+00:09:47,750 --> 00:09:54,150
+the time we have and how
+much we can guarantee.
+
+161
+00:09:54,150 --> 00:09:57,450
+So we can never guarantee
+anything but how well we
+
+162
+00:09:57,450 --> 00:10:02,910
+do our job. So really the
+goal of this assignment is
+
+163
+00:10:02,910 --> 00:10:07,170
+for you to understand the
+different criteria, how
+
+164
+00:10:07,170 --> 00:10:10,610
+they relate to each other
+and what it actually means
+
+165
+00:10:10,780 --> 00:10:17,470
+when you reach coverage in
+a criteria versus another.
+
+166
+00:10:17,470 --> 00:10:21,070
+So it's really to check
+if you understood the
+
+167
+00:10:21,070 --> 00:10:26,630
+meaning of this technique
+that are explained in the
+
+168
+00:10:26,630 --> 00:10:29,950
+lesson, I mean, that are
+also the one that people use.
+
+169
+00:10:35,240 --> 00:10:40,860
+Okay, I think that should
+answer it really well.
+
+170
+00:10:40,860 --> 00:10:45,500
+Next question is, the IA6
+is locked until March 14.
+
+171
+00:10:45,500 --> 00:10:47,660
+Are we supposed to come
+up with a question today?
+
+172
+00:10:47,660 --> 00:10:51,360
+And we already answered
+some of that. But in
+
+173
+00:10:51,360 --> 00:10:54,800
+short, yes, as we can
+see in the schedule,
+
+174
+00:10:55,140 --> 00:11:00,220
+we have right in the schedule,
+the notes saying that
+
+175
+00:11:00,220 --> 00:11:04,620
+this week is the last week
+before any A6 or white
+
+176
+00:11:04,620 --> 00:11:11,240
+box testing discussion. So
+if the students are still...
+
+177
+00:11:11,240 --> 00:11:13,560
+I think the problem,
+Shin, is you made it sound
+
+178
+00:11:13,560 --> 00:11:16,300
+like you expected lots and
+lots of questions about the
+
+179
+00:11:16,300 --> 00:11:18,920
+assignment itself, which
+clearly they can't ask
+
+180
+00:11:18,920 --> 00:11:21,340
+specific questions about
+the assignment because they
+
+181
+00:11:21,340 --> 00:11:25,460
+haven't seen it yet. The
+point is going into that
+
+182
+00:11:25,460 --> 00:11:28,000
+assignment, especially since
+there won't be an office hours
+
+183
+00:11:28,000 --> 00:11:31,640
+next week, if you have
+specific questions about
+
+184
+00:11:31,640 --> 00:11:34,760
+white box testing, now would
+be the time to ask them.
+
+185
+00:11:35,280 --> 00:11:39,520
+I will tell you when I
+took this class back when
+
+186
+00:11:39,520 --> 00:11:43,580
+dinosaurs roamed the earth,
+this was my favorite assignment
+
+187
+00:11:43,580 --> 00:11:46,020
+of the whole thing.
+There are people who hate
+
+188
+00:11:46,020 --> 00:11:50,140
+it. Um, so it is kind of
+polarizing. Um, I really
+
+189
+00:11:50,140 --> 00:11:54,380
+enjoyed it because as, as an
+engineering minded person,
+
+190
+00:11:54,380 --> 00:11:57,480
+um, some of the things where
+you're designing things,
+
+191
+00:11:57,480 --> 00:12:01,800
+design, there's not
+necessarily a one right
+
+192
+00:12:01,800 --> 00:12:05,440
+answer, right? And with
+design, there's, there's, you
+
+193
+00:12:05,440 --> 00:12:08,700
+know, you can do a good
+design or a bad design in lots
+
+194
+00:12:08,700 --> 00:12:12,100
+of different ways whereas
+with this it's pretty
+
+195
+00:12:12,100 --> 00:12:14,020
+definitive if you have the
+right answer or the wrong
+
+196
+00:12:14,020 --> 00:12:18,400
+answer so that appeals to
+my engineering brain but it
+
+197
+00:12:18,400 --> 00:12:23,120
+is also it is also a
+little bit tricky and it is
+
+198
+00:12:23,120 --> 00:12:30,020
+also worth a lot of points
+towards the final grade so
+
+199
+00:12:30,420 --> 00:12:33,940
+some people don't like it
+for that reason just what
+
+200
+00:12:33,940 --> 00:12:38,520
+i really like about what you
+say is that he also point
+
+201
+00:12:38,520 --> 00:12:41,440
+out something else you
+didn't say but i think it's
+
+202
+00:12:41,440 --> 00:12:46,320
+what's what you say sparkle
+in my mind is um all these
+
+203
+00:12:46,320 --> 00:12:50,240
+criteria right have a
+foundation so they are not
+
+204
+00:12:50,240 --> 00:12:55,440
+they are not random and
+they are connected and there
+
+205
+00:12:55,440 --> 00:12:59,660
+is you can think of them
+as like stat and there are
+
+206
+00:12:59,660 --> 00:13:03,160
+mathematical rules that
+connect one to the other and
+
+207
+00:13:03,160 --> 00:13:06,860
+this is why you have an
+answer that is just one right
+
+208
+00:13:06,860 --> 00:13:09,780
+in this assignment rather
+than the design one that
+
+209
+00:13:09,780 --> 00:13:12,580
+that you make which is also
+probably the reason why I
+
+210
+00:13:12,580 --> 00:13:15,540
+really like this topic but
+it's also something that
+
+211
+00:13:15,540 --> 00:13:19,540
+is important because I
+like that you know all this
+
+212
+00:13:19,540 --> 00:13:22,720
+technique has been developed
+and then and then I'm pretty
+
+213
+00:13:22,720 --> 00:13:26,680
+sure in this in the lesson
+I know the slides very
+
+214
+00:13:26,680 --> 00:13:31,060
+well but I honestly have
+never listened to the lessons
+
+215
+00:13:31,060 --> 00:13:37,400
+but they were recorded
+but in majority in reality
+
+216
+00:13:37,400 --> 00:13:43,440
+people are just you know
+doing this basic step but
+
+217
+00:13:43,440 --> 00:13:47,380
+from a foundational perspective
+you built on it to try
+
+218
+00:13:47,380 --> 00:13:50,260
+to say can we do better And
+what does it mean better?
+
+219
+00:13:50,260 --> 00:13:53,120
+Better means like, can I
+cover something more? And
+
+220
+00:13:53,120 --> 00:13:55,140
+so what does more mean?
+And sometimes when you're
+
+221
+00:13:55,140 --> 00:13:57,420
+thinking you're covering
+something more, you're just
+
+222
+00:13:57,420 --> 00:14:00,720
+covering something different,
+right? And so if you
+
+223
+00:14:00,720 --> 00:14:04,780
+think about that in terms of
+the component of your codes,
+
+224
+00:14:05,200 --> 00:14:09,040
+then you can say, okay,
+this is the set of things
+
+225
+00:14:09,040 --> 00:14:13,960
+I can cover if I reach a
+certain coverage. And this
+
+226
+00:14:13,960 --> 00:14:18,000
+is the set of things I can
+reach if I reach a certain
+
+227
+00:14:18,000 --> 00:14:21,620
+other coverage criteria.
+How these two sets relate.
+
+228
+00:14:21,880 --> 00:14:24,880
+And this is not by chance.
+
+229
+00:14:24,880 --> 00:14:27,260
+If you understand
+this, assignment
+
+230
+00:14:27,260 --> 00:14:29,180
+six will come very easily.
+
+231
+00:14:30,180 --> 00:14:33,620
+easily might be an
+understatement I mean
+
+232
+00:14:33,620 --> 00:14:37,300
+but it's not it's not
+that difficult this I
+
+233
+00:14:37,300 --> 00:14:39,480
+think it's an assignment
+in which you need
+
+234
+00:14:39,480 --> 00:14:42,100
+to spend more time
+thinking than writing
+
+235
+00:14:44,790 --> 00:14:47,280
+I don't know I should
+disagree I also don't
+
+236
+00:14:47,280 --> 00:14:50,640
+have to grade it so I
+think the people grading
+
+237
+00:14:50,640 --> 00:14:53,260
+it's the same but I
+think this is the case
+
+238
+00:14:53,700 --> 00:14:56,220
+no I agree I think
+it's it's there's
+
+239
+00:14:56,220 --> 00:14:58,170
+a there's a fair
+amount of thinking um
+
+240
+00:15:01,580 --> 00:15:05,380
+but it should be easily
+doable if you have,
+
+241
+00:15:05,380 --> 00:15:09,220
+you know, if you
+understand the different
+
+242
+00:15:09,220 --> 00:15:11,260
+coverage levels and
+the different forms
+
+243
+00:15:11,260 --> 00:15:13,340
+of white box testing,
+you should be fine.
+
+244
+00:15:18,840 --> 00:15:19,940
+Still no questions.
+
+245
+00:15:22,420 --> 00:15:25,880
+Okay, let's do, what is that?
+
+246
+00:15:26,120 --> 00:15:29,660
+Time-killing
+podcast with Paola.
+
+247
+00:15:30,720 --> 00:15:35,540
+So, Paula, I think in
+previous office hour, we
+
+248
+00:15:35,540 --> 00:15:39,600
+were talking about
+testing, right, as how much
+
+249
+00:15:39,600 --> 00:15:42,540
+is enough testing. I
+think it was part of the
+
+250
+00:15:42,540 --> 00:15:47,100
+group project question, and
+then we kind of reached,
+
+251
+00:15:47,160 --> 00:15:51,760
+we talked briefly about
+formal verification.
+
+252
+00:15:51,840 --> 00:15:55,000
+But then I think we
+haven't talked about
+
+253
+00:15:55,000 --> 00:15:59,060
+property testing, it's
+some kind of in between.
+
+254
+00:15:59,260 --> 00:16:05,500
+How do you think about
+that property testing like
+
+255
+00:16:05,500 --> 00:16:10,220
+pros and cons, and do you
+think it's a stepping stone
+
+256
+00:16:10,220 --> 00:16:17,380
+or a way forward for
+engineers who are used to
+
+257
+00:16:17,380 --> 00:16:21,200
+certain kind of testing,
+hk testing only to think
+
+258
+00:16:21,200 --> 00:16:28,160
+about certain aspects to
+be more abstract, more
+
+259
+00:16:28,160 --> 00:16:33,760
+mathematical um um and and
+then a factor of the journey
+
+260
+00:16:33,760 --> 00:16:38,700
+so that they can go to
+formal formal verification so
+
+261
+00:16:41,320 --> 00:16:45,520
+i'm not the biggest fan
+if you want to hear my
+
+262
+00:16:45,520 --> 00:16:49,760
+thing because it's not as
+approachable as testing as
+
+263
+00:16:49,760 --> 00:16:53,880
+not as reliable and complete
+as formal verification
+
+264
+00:16:53,880 --> 00:16:59,460
+and so but as everything
+right so I when I when I
+
+265
+00:16:59,460 --> 00:17:03,400
+teach in person any class
+software engineering related
+
+266
+00:17:03,400 --> 00:17:05,960
+I always say we have these
+classes because there
+
+267
+00:17:05,960 --> 00:17:09,640
+is no method that is is
+good for everything right
+
+268
+00:17:10,510 --> 00:17:12,980
+otherwise it would be
+this is the method just
+
+269
+00:17:12,980 --> 00:17:16,330
+apply it and the class
+will be finished right And
+
+270
+00:17:16,520 --> 00:17:28,220
+so I am not that very
+sure that per se it's a
+
+271
+00:17:28,220 --> 00:17:31,540
+substitution or a compromise
+between the technique.
+
+272
+00:17:31,540 --> 00:17:39,500
+But I would think that there
+might be a different kind
+
+273
+00:17:39,500 --> 00:17:44,420
+of situation in which is
+probably a good way to go.
+
+274
+00:17:45,400 --> 00:17:50,040
+I don't know, like for
+instance, if you want to
+
+275
+00:17:50,040 --> 00:17:56,280
+check that operations
+compose correctly or things
+
+276
+00:17:56,280 --> 00:17:58,520
+like that, that could
+be a good thing. It
+
+277
+00:17:58,520 --> 00:18:03,680
+depends on the focus of
+the code you are analyzing.
+
+278
+00:18:04,450 --> 00:18:06,760
+But as I said, I'm
+not really a big
+
+279
+00:18:06,760 --> 00:18:12,940
+fan because it has
+an entry requirement
+
+280
+00:18:12,940 --> 00:18:15,280
+much higher than
+regular testing.
+
+281
+00:18:15,860 --> 00:18:20,320
+but not the same payoff that
+
+282
+00:18:20,320 --> 00:18:23,240
+formal verification give you.
+
+283
+00:18:23,660 --> 00:18:25,540
+So I don't know.
+
+284
+00:18:25,540 --> 00:18:28,760
+And actually on this topic,
+before you ask me, I don't
+
+285
+00:18:28,760 --> 00:18:32,740
+know how AI can help you
+in that. I haven't read
+
+286
+00:18:32,740 --> 00:18:36,480
+anything, but I'll make a
+point to check for some papers
+
+287
+00:18:36,480 --> 00:18:40,440
+and listen to them before
+the next office hour. Right.
+
+288
+00:18:43,040 --> 00:18:48,480
+Do you think that an
+engineer who starts with
+
+289
+00:18:48,480 --> 00:18:51,540
+the black box testing and
+then white box testing
+
+290
+00:18:51,540 --> 00:18:58,240
+can easily move forward
+to formal verification?
+
+291
+00:18:58,240 --> 00:19:02,680
+Or is that like it's a
+totally different thing and
+
+292
+00:19:02,680 --> 00:19:07,300
+it doesn't have advantage
+or disadvantage? or is that
+
+293
+00:19:07,300 --> 00:19:12,660
+that certain most engineer,
+most tester or QA may
+
+294
+00:19:12,660 --> 00:19:16,060
+have disadvantage because
+they have been thinking
+
+295
+00:19:16,060 --> 00:19:20,140
+from the edge, most of the
+edge case so that they can
+
+296
+00:19:20,140 --> 00:19:25,680
+formulate the test. And
+now they bring that mindset
+
+297
+00:19:25,680 --> 00:19:29,080
+into the testing and it
+hones them back when they
+
+298
+00:19:29,080 --> 00:19:32,640
+have to think more about
+certain invariants in formal
+
+299
+00:19:32,640 --> 00:19:35,680
+verification. I think
+black box testing could be
+
+300
+00:19:35,680 --> 00:19:38,880
+more of help than white
+box testing. So people that
+
+301
+00:19:38,880 --> 00:19:42,040
+look at the code, they
+are usually like find
+
+302
+00:19:42,040 --> 00:19:45,540
+difficult to step back and
+thinking, okay, what is the
+
+303
+00:19:45,540 --> 00:19:48,280
+property of this? But in
+theory, black box testing
+
+304
+00:19:48,280 --> 00:19:51,560
+would come from the requirements
+you start from, right?
+
+305
+00:19:51,560 --> 00:19:54,560
+Because you start before.
+And so in that case,
+
+306
+00:19:54,560 --> 00:19:57,940
+from that moment of formal
+verification, what you need
+
+307
+00:19:57,940 --> 00:20:04,330
+to do as a step is to try
+to understand the formalism,
+
+308
+00:20:04,330 --> 00:20:06,840
+to now start formalizing
+what you want to do.
+
+309
+00:20:07,750 --> 00:20:11,100
+So, you know, like I
+think, and I find it very
+
+310
+00:20:11,100 --> 00:20:14,800
+valuable, even before, you
+know, all this advancement
+
+311
+00:20:14,800 --> 00:20:21,320
+in AI, there is a lot of
+work in usable formal methods
+
+312
+00:20:21,320 --> 00:20:27,280
+to support, you know, a
+more, a less human effort
+
+313
+00:20:27,280 --> 00:20:31,540
+in that direction. It will
+be only support because
+
+314
+00:20:31,580 --> 00:20:34,820
+I don't know if we ever,
+I don't remember, I think
+
+315
+00:20:34,820 --> 00:20:39,200
+I did already, but, you
+know, formal verification
+
+316
+00:20:39,200 --> 00:20:44,820
+as a problem, you know, if
+we want to keep the whole
+
+317
+00:20:44,820 --> 00:20:48,760
+potential of what we can
+write as code and every
+
+318
+00:20:48,760 --> 00:20:51,440
+possible property we want
+to see is an undecidable
+
+319
+00:20:51,440 --> 00:20:56,460
+problem. So human in the
+loop are needed, like human
+
+320
+00:20:56,460 --> 00:20:59,500
+contribution is needed.
+But I think that the idea
+
+321
+00:20:59,500 --> 00:21:04,620
+of making formal methods
+usable is the way to go.
+
+322
+00:21:04,980 --> 00:21:07,580
+Because now formal methods, I
+
+323
+00:21:07,580 --> 00:21:09,400
+think we talk
+about this already,
+
+324
+00:21:09,440 --> 00:21:14,780
+because of their very high
+entry requirements are used
+
+325
+00:21:14,780 --> 00:21:18,340
+just when they are needed
+by some low requirements.
+
+326
+00:21:18,340 --> 00:21:21,640
+But I think there are
+some other applications a
+
+327
+00:21:21,640 --> 00:21:24,980
+little behind that bar that
+will still benefit from them.
+
+328
+00:21:24,980 --> 00:21:28,400
+So if we had like a form of
+lightweight formal method
+
+329
+00:21:28,400 --> 00:21:33,980
+or usable approach, then
+that would be fantastic.
+
+330
+00:21:34,880 --> 00:21:36,620
+There is another question.
+
+331
+00:21:36,790 --> 00:21:38,780
+There's another question
+there if you want.
+
+332
+00:21:38,780 --> 00:21:40,980
+It says, it might be too
+soon to ask, but does
+
+333
+00:21:40,980 --> 00:21:43,280
+ASICs cover only the
+criterion discussed in
+
+334
+00:21:43,280 --> 00:21:45,840
+the lectures? or does
+it include supplementary
+
+335
+00:21:45,840 --> 00:21:48,600
+material as well, such
+as mutation testing?
+
+336
+00:21:52,540 --> 00:21:55,620
+Only topics in the
+white box testing.
+
+337
+00:21:55,620 --> 00:22:01,860
+So mutation testing
+is more like,
+
+338
+00:22:01,960 --> 00:22:07,240
+well, it's also
+white box, right?
+
+339
+00:22:07,400 --> 00:22:10,220
+Because we definitely
+need to have access to the
+
+340
+00:22:10,220 --> 00:22:12,720
+code, but it's not like
+we have to understand the
+
+341
+00:22:12,720 --> 00:22:16,580
+code and then um write
+the test case but anyway
+
+342
+00:22:16,580 --> 00:22:19,540
+to to answer yeah there's
+uh on only topics covered
+
+343
+00:22:19,540 --> 00:22:24,740
+in in the lecture so i
+didn't mean to interrupt
+
+344
+00:22:24,740 --> 00:22:26,640
+but since there was a
+question i figured we might
+
+345
+00:22:26,640 --> 00:22:28,440
+as well actually that's
+what we're here for so
+
+346
+00:22:29,760 --> 00:22:32,100
+yeah no we have
+this conversation to
+
+347
+00:22:32,100 --> 00:22:34,220
+allow people to
+ask more questions
+
+348
+00:22:35,540 --> 00:22:39,160
+We are also testing the
+possibility to open a
+
+349
+00:22:39,160 --> 00:22:43,660
+podcast, but I don't know,
+with your voice last week
+
+350
+00:22:43,660 --> 00:22:46,060
+and my voice this week, I
+don't know if we are the
+
+351
+00:22:46,060 --> 00:22:49,500
+best possible host for a
+podcast, but let's see.
+
+352
+00:22:53,340 --> 00:22:58,500
+With that, I think we're
+pretty much over it.
+
+353
+00:23:01,780 --> 00:23:06,880
+so yeah um i think we
+can um call it a night
+
+354
+00:23:06,880 --> 00:23:12,520
+and um good luck to to
+our students uh with the
+
+355
+00:23:12,520 --> 00:23:16,160
+with the gp uh with with
+the final deliverable
+
+356
+00:23:16,160 --> 00:23:20,900
+of gp and the upcoming
+a6 and we will see you
+
+357
+00:23:21,230 --> 00:23:25,240
+um two two weeks from
+now well wait actually
+
+358
+00:23:25,350 --> 00:23:31,960
+this so this week we this
+week is the week before
+
+359
+00:23:31,960 --> 00:23:37,080
+uh a six next week we
+have no um communication
+
+360
+00:23:37,080 --> 00:23:40,400
+******** the week after
+we have spring break
+
+361
+00:23:41,600 --> 00:23:45,260
+so it's like we will be
+off for two weeks and
+
+362
+00:23:45,260 --> 00:23:51,060
+return um on week 12
+starting march third year
+
+363
+00:23:54,920 --> 00:23:59,100
+all right um such a
+such a long gap but
+
+364
+00:23:59,100 --> 00:24:02,880
+uh yeah i think we
+will see you there
+
+365
+00:24:03,280 --> 00:24:08,290
+okay um goodbye everyone
+so long everyone bye
+
+366
+00:24:08,290 --> 00:24:11,700
+everyone good luck with
+all and we'll see you
+
+367
+00:24:11,700 --> 00:24:15,020
+in yes i'm in and we'll
+see you in two weeks
+
+368
+00:24:15,640 --> 00:24:18,620
+okay whatever count on listen
+
+369
+00:24:18,620 --> 00:24:22,140
+to that yeah two weeks okay bye
