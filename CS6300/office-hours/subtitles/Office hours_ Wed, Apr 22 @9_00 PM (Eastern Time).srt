@@ -1,0 +1,1593 @@
+1
+00:00:02,750 --> 00:00:06,810
+Hello, and welcome to
+CS6300 office hour.
+
+2
+00:00:07,260 --> 00:00:09,840
+Sorry, we are a
+little bit late,
+
+3
+00:00:09,840 --> 00:00:12,570
+but here we are
+with Will and Paula.
+
+4
+00:00:13,570 --> 00:00:15,130
+Hi, everyone.
+
+5
+00:00:15,130 --> 00:00:16,290
+Hello, everyone.
+
+6
+00:00:17,650 --> 00:00:23,190
+Okay, so let me look at
+the schedule for this
+
+7
+00:00:23,190 --> 00:00:27,950
+week. So this week,
+students are working on
+
+8
+00:00:29,130 --> 00:00:33,450
+IPD4. this is the last
+deliverable and after this
+
+9
+00:00:33,450 --> 00:00:37,430
+deliverable there will
+be no more assignment
+
+10
+00:00:37,570 --> 00:00:42,590
+though later paula will
+post the two readings
+
+11
+00:00:42,590 --> 00:00:46,750
+the cathedral and the
+bazaar and no silver
+
+12
+00:00:46,750 --> 00:00:51,270
+bullet both are classic
+grid and there will be
+
+13
+00:00:51,270 --> 00:00:56,990
+eight posts for discussing
+those two reading
+
+14
+00:00:56,990 --> 00:01:02,630
+Other than that, we can
+go to the questions.
+
+15
+00:01:03,950 --> 00:01:06,350
+So, first question.
+
+16
+00:01:06,490 --> 00:01:10,470
+For IPD4, are we allowed
+to use our code that
+
+17
+00:01:10,470 --> 00:01:13,930
+we had written for
+IPD3? Yes, of course.
+
+18
+00:01:13,930 --> 00:01:17,660
+If it's to your own
+code, yes, it's allowed.
+
+19
+00:01:18,610 --> 00:01:22,570
+And in fact, this is
+about refactoring and
+
+20
+00:01:22,570 --> 00:01:26,230
+with refactor, then
+supposedly, if you write
+
+21
+00:01:26,230 --> 00:01:30,130
+the code well, you can
+reuse almost all of it.
+
+22
+00:01:39,150 --> 00:01:41,890
+And that's it for
+questions so far.
+
+23
+00:01:42,710 --> 00:01:43,750
+Do
+
+24
+00:01:56,340 --> 00:01:59,160
+we have to refactor it to be,
+
+25
+00:01:59,160 --> 00:02:01,720
+don't repeat yourself, D-R-I?
+
+26
+00:02:02,980 --> 00:02:05,420
+Well, supposedly,
+
+27
+00:02:05,640 --> 00:02:13,210
+you should refactor it so
+that it can be, so it can
+
+28
+00:02:13,210 --> 00:02:18,840
+satisfy the requirement
+of A4, which is, I think,
+
+29
+00:02:19,180 --> 00:02:22,300
+this interface. interface.
+
+30
+00:02:22,620 --> 00:02:26,660
+If you want to
+practice the DIY,
+
+31
+00:02:26,800 --> 00:02:28,820
+yes, you can do so.
+
+32
+00:02:29,020 --> 00:02:32,800
+But if you don't, then
+the gray scope will
+
+33
+00:02:32,800 --> 00:02:36,070
+not penalize you either.
+We don't have specific,
+
+34
+00:02:36,480 --> 00:02:39,620
+let's say, static
+analysis code to see how
+
+35
+00:02:39,620 --> 00:02:42,680
+many code duplication
+this student has and
+
+36
+00:02:42,680 --> 00:02:44,560
+deduct students for
+that. No, we don't have.
+
+37
+00:02:44,760 --> 00:02:47,100
+It's good practice, but
+we don't enforce it.
+
+38
+00:03:05,650 --> 00:03:07,270
+Very quiet office hours.
+
+39
+00:03:17,090 --> 00:03:19,490
+We are also very quiet, if I'm
+
+40
+00:03:19,490 --> 00:03:22,330
+quite waiting for the question.
+
+41
+00:03:22,830 --> 00:03:23,730
+Yeah,
+
+42
+00:03:25,090 --> 00:03:26,250
+that's kind of
+another question.
+
+43
+00:03:26,250 --> 00:03:27,510
+There's another one. Yeah,
+
+44
+00:03:28,110 --> 00:03:30,550
+I saw a post where TA
+specified that we do
+
+45
+00:03:30,550 --> 00:03:33,090
+not need to write
+additional test cases.
+
+46
+00:03:33,170 --> 00:03:35,630
+Could it be good idea
+to write test case
+
+47
+00:03:35,630 --> 00:03:37,830
+for testing? I'm
+thinking it could help
+
+48
+00:03:37,830 --> 00:03:40,980
+write additional test
+cases. Thank you. So,
+
+49
+00:03:41,980 --> 00:03:46,530
+it is true that the
+requirement does not require
+
+50
+00:03:46,530 --> 00:03:53,030
+students to, and there is
+no great scope auto grading
+
+51
+00:03:53,030 --> 00:04:00,950
+enforcement, but of
+course, well, on one hand,
+
+52
+00:04:00,950 --> 00:04:07,110
+if you were doing perfect
+IP D1 and D2, then there's
+
+53
+00:04:07,190 --> 00:04:10,790
+no need for additional
+test case for D3 and D4.
+
+54
+00:04:10,790 --> 00:04:16,930
+It's only that if you were
+missing some cases or,
+
+55
+00:04:16,930 --> 00:04:19,650
+yeah, some edge cases, then
+you would need to write
+
+56
+00:04:19,650 --> 00:04:25,770
+extra. And keep in mind that
+sometimes more test cases
+
+57
+00:04:25,770 --> 00:04:29,220
+does not mean more coverage.
+It may just mean duplicates
+
+58
+00:04:29,510 --> 00:04:32,170
+or meaningless tests. So
+that is something that
+
+59
+00:04:32,170 --> 00:04:35,450
+students and engineers
+should pay attention as well.
+
+60
+00:04:35,450 --> 00:04:39,190
+Yeah, I think it
+kind of depends on
+
+61
+00:04:39,190 --> 00:04:44,730
+when you are writing
+your tests in D1.
+
+62
+00:04:44,730 --> 00:04:48,390
+If you recognize that the
+tests that you generated
+
+63
+00:04:48,390 --> 00:04:54,790
+weren't really complete,
+then, you know, it might
+
+64
+00:04:54,790 --> 00:04:58,950
+make sense to add some
+more, but you don't need
+
+65
+00:04:58,950 --> 00:05:01,890
+to, right? that's
+essentially what we're saying
+
+66
+00:05:43,610 --> 00:05:50,530
+we've only got a
+relatively small number of
+
+67
+00:05:50,530 --> 00:05:55,090
+people here this week
+so I mean is it spring
+
+68
+00:05:55,090 --> 00:05:58,510
+break somewhere else I
+don't know but there's
+
+69
+00:05:58,510 --> 00:06:01,310
+only six students
+here at the moment so
+
+70
+00:06:03,390 --> 00:06:06,090
+they only outnumber
+us two to one
+
+71
+00:06:13,180 --> 00:06:14,400
+there's another one
+
+72
+00:06:16,700 --> 00:06:19,900
+our own deliverables
+for individual
+
+73
+00:06:19,900 --> 00:06:21,720
+project weighted the same.
+
+74
+00:06:22,290 --> 00:06:24,420
+Does it have to
+do better in the
+
+75
+00:06:24,420 --> 00:06:26,320
+later deliverable auto crates?
+
+76
+00:06:26,400 --> 00:06:30,520
+It is weighted more or
+less the same. I cannot
+
+77
+00:06:30,520 --> 00:06:33,280
+confirm nor deny. It
+is exactly the same.
+
+78
+00:06:33,550 --> 00:06:35,800
+Does it have to
+do better in the
+
+79
+00:06:35,800 --> 00:06:38,020
+later deliverable auto crates?
+
+80
+00:06:39,740 --> 00:06:40,700
+No,
+
+81
+00:06:41,680 --> 00:06:45,360
+yes and no. I mean,
+again, it's more or less
+
+82
+00:06:45,360 --> 00:06:48,240
+the same, but not
+necessarily exactly the same.
+
+83
+00:06:48,440 --> 00:06:55,240
+So what I would say is
+it won't necessarily help
+
+84
+00:06:55,240 --> 00:06:59,040
+more than the earlier
+ones would have. But if
+
+85
+00:06:59,040 --> 00:07:01,120
+you're not sure you did
+well on the earlier ones,
+
+86
+00:07:01,120 --> 00:07:03,200
+it's certainly going to be
+better for you to do well
+
+87
+00:07:03,200 --> 00:07:08,220
+on the later ones than
+not, regardless of what
+
+88
+00:07:08,220 --> 00:07:10,920
+the rubric is. I don't
+know what it currently is.
+
+89
+00:07:11,240 --> 00:07:14,340
+When I was in charge,
+it was roughly equal,
+
+90
+00:07:14,820 --> 00:07:19,240
+but it would sort of
+depend on a few different
+
+91
+00:07:19,240 --> 00:07:22,340
+things each time as to
+things would get shifted
+
+92
+00:07:22,340 --> 00:07:24,490
+a little bit depending
+on where we felt
+
+93
+00:07:24,900 --> 00:07:28,320
+like there was more
+effort involved, we'd give
+
+94
+00:07:28,320 --> 00:07:31,260
+more points, but it was
+generally pretty even.
+
+95
+00:07:33,920 --> 00:07:35,820
+And I assume there haven't been
+
+96
+00:07:35,820 --> 00:07:38,190
+radical changes since
+then. refreshing
+
+97
+00:07:55,480 --> 00:07:58,520
+yeah that's that's
+what this seltzer
+
+98
+00:07:58,520 --> 00:08:00,280
+is for is because
+it's refreshing
+
+99
+00:08:02,500 --> 00:08:08,240
+okay if there is
+nothing then I don't
+
+100
+00:08:08,240 --> 00:08:13,240
+know Paula you have
+anything new so yes
+
+101
+00:08:13,240 --> 00:08:17,820
+yes so next week I
+think I'm going to LA
+
+102
+00:08:18,280 --> 00:08:23,780
+maybe in 10 days for
+giving a talk at a workshop
+
+103
+00:08:24,540 --> 00:08:26,600
+collocated with
+NASA for my method
+
+104
+00:08:26,600 --> 00:08:29,200
+conference on
+requirements and AI.
+
+105
+00:08:29,780 --> 00:08:32,880
+And so I extended the
+work I was talking
+
+106
+00:08:32,880 --> 00:08:34,500
+about at the beginning
+of the semester.
+
+107
+00:08:34,500 --> 00:08:38,460
+So funny story is that I'm
+working with a high school
+
+108
+00:08:38,460 --> 00:08:43,300
+student that contacted me
+last year saying during the
+
+109
+00:08:43,300 --> 00:08:46,260
+summer, he contacted me and
+said, really, I would really
+
+110
+00:08:46,260 --> 00:08:49,980
+like, from South Carolina,
+it's not even in Georgia.
+
+111
+00:08:49,980 --> 00:08:52,180
+So he contacted me and I
+said, you know, I'm very
+
+112
+00:08:52,180 --> 00:08:55,480
+interested. This professor
+that I know gave me your name.
+
+113
+00:08:55,860 --> 00:08:58,620
+And so I said, okay, but
+you know, I don't really do
+
+114
+00:08:58,620 --> 00:09:03,300
+a lot of work using AI.
+So, but this is what I've
+
+115
+00:09:03,300 --> 00:09:06,490
+been doing, right? And so
+I sent in my work on using
+
+116
+00:09:08,060 --> 00:09:11,700
+generative AI to make formal
+methods more usable and
+
+117
+00:09:11,700 --> 00:09:14,080
+formal requirements more
+usable. And I thought, you
+
+118
+00:09:14,080 --> 00:09:15,820
+know, as a high school
+student, he's going to read
+
+119
+00:09:15,820 --> 00:09:18,640
+half of the paper and just
+say, okay, bye, I'm going to
+
+120
+00:09:18,640 --> 00:09:22,020
+find something much more
+exciting and instead since
+
+121
+00:09:22,020 --> 00:09:26,720
+then he has learned formal
+languages it's like so
+
+122
+00:09:26,720 --> 00:09:30,720
+now we extended the work on
+this and I mean of course
+
+123
+00:09:30,720 --> 00:09:34,060
+then he likes to do tools
+right on and so now we are
+
+124
+00:09:34,060 --> 00:09:38,200
+working a lot on how you
+can interact with the tool
+
+125
+00:09:38,200 --> 00:09:41,420
+instead of you know we we
+did this work in which we
+
+126
+00:09:41,420 --> 00:09:45,980
+use LLMs to generate explanation
+on formal requirements
+
+127
+00:09:45,980 --> 00:09:49,600
+right but anyway like
+they're not always the
+
+128
+00:09:49,600 --> 00:09:52,060
+explanation are not always
+correct like they do pretty
+
+129
+00:09:52,060 --> 00:09:54,220
+well but they're not always
+correct in any way the
+
+130
+00:09:54,220 --> 00:09:58,760
+explanation it's not a
+translation or it's just it's
+
+131
+00:09:58,760 --> 00:10:02,100
+really to support your
+understanding and so now it
+
+132
+00:10:02,100 --> 00:10:05,960
+created this tool in which
+you have different use cases
+
+133
+00:10:06,320 --> 00:10:09,540
+and different modalities
+to use it and you're
+
+134
+00:10:09,540 --> 00:10:12,520
+trying to analyze and
+in the meantime I have a
+
+135
+00:10:12,520 --> 00:10:16,120
+question in to try to
+analyze how to keep the
+
+136
+00:10:16,120 --> 00:10:20,100
+engagement active of
+people so that you don't
+
+137
+00:10:20,100 --> 00:10:23,300
+lose your ability to
+understand and you remain
+
+138
+00:10:23,300 --> 00:10:27,180
+engaged so you don't
+just blindly accept your
+
+139
+00:10:27,660 --> 00:10:31,240
+so the tool is almost
+ready and we are setting a
+
+140
+00:10:31,240 --> 00:10:35,260
+pilot study to get feedback
+this is where we're I
+
+141
+00:10:35,260 --> 00:10:40,540
+think the student is
+undergraduate and he's super on
+
+142
+00:10:41,800 --> 00:10:45,320
+top of things all the time,
+so I'm very impressed.
+
+143
+00:10:45,620 --> 00:10:47,660
+Wow, that's impressive.
+
+144
+00:10:51,040 --> 00:10:52,660
+So there is another question?
+
+145
+00:10:53,160 --> 00:10:59,220
+Okay, what kind of
+participation is accepted
+
+146
+00:10:59,220 --> 00:11:02,000
+on the forum for
+reading of the last
+
+147
+00:11:02,000 --> 00:11:04,360
+week's reading to count
+towards the grade?
+
+148
+00:11:05,000 --> 00:11:08,440
+So the participation
+is not only for the
+
+149
+00:11:08,440 --> 00:11:15,340
+reading, it's throughout
+the entire semester.
+
+150
+00:11:15,740 --> 00:11:21,200
+So being active here,
+posting questions on
+
+151
+00:11:21,660 --> 00:11:25,250
+posting and reading here
+is already sufficient.
+
+152
+00:11:25,980 --> 00:11:29,760
+And when we release the
+participation grade,
+
+153
+00:11:29,760 --> 00:11:32,740
+it will, there will
+be breakdown as well.
+
+154
+00:11:32,740 --> 00:11:34,920
+So don't worry about that.
+
+155
+00:11:37,060 --> 00:11:40,040
+What's your favorite
+formal validation
+
+156
+00:11:40,040 --> 00:11:45,560
+tools? cork i twist
+to snap proof um this
+
+157
+00:11:45,560 --> 00:11:51,560
+properly um paula
+your your expertise
+
+158
+00:11:53,700 --> 00:12:00,020
+i knew that it's classic
+okay so uh honestly i have
+
+159
+00:12:00,020 --> 00:12:05,700
+been working most of the time
+on uh form formal verification
+
+160
+00:12:05,700 --> 00:12:10,280
+of model using uh uh formal
+models right like not
+
+161
+00:12:10,280 --> 00:12:15,840
+uh not not on code not on so
+i am uh automatic theoretical
+
+162
+00:12:15,840 --> 00:12:18,820
+automatic model checking
+like the one that was
+
+163
+00:12:18,820 --> 00:12:22,300
+invented by clark and emerson
+they i think they got a
+
+164
+00:12:22,300 --> 00:12:27,760
+turing award for it and um
+and so i i've used a new smv
+
+165
+00:12:28,280 --> 00:12:35,100
+spin a lot so spin was was
+invented at bell labs and
+
+166
+00:12:35,100 --> 00:12:39,020
+it's funny because i remember
+my first paper as a phd
+
+167
+00:12:39,020 --> 00:12:43,980
+student was on try to use
+so spin used you model your
+
+168
+00:12:43,980 --> 00:12:48,700
+system as a bouquet automata
+that is basically a final
+
+169
+00:12:48,700 --> 00:12:52,780
+state machine that can
+recognize infinite behavior and
+
+170
+00:12:52,780 --> 00:12:58,020
+and use ltl to specify
+properties right and and i
+
+171
+00:12:58,020 --> 00:13:00,860
+always instead been very
+interested in describing your
+
+172
+00:13:00,860 --> 00:13:05,060
+the system in a descriptive
+way so starting and instead
+
+173
+00:13:05,060 --> 00:13:07,640
+of a you know like an
+operational model of the system
+
+174
+00:13:07,640 --> 00:13:10,760
+is already a step forward
+towards where you want to go
+
+175
+00:13:10,760 --> 00:13:13,200
+and when you study in
+requirements you you have
+
+176
+00:13:13,200 --> 00:13:16,040
+properties right so you have a
+more descriptive specification
+
+177
+00:13:16,040 --> 00:13:20,600
+and they were not tool in
+that sense so we i i my
+
+178
+00:13:20,600 --> 00:13:24,000
+first work was like try to
+see if you could you know
+
+179
+00:13:24,000 --> 00:13:28,680
+simulate a behavior using
+existing tool and i was using
+
+180
+00:13:28,680 --> 00:13:32,660
+spin and i remember my first
+paper was the formal method
+
+181
+00:13:32,660 --> 00:13:37,600
+conference and the invited
+speaker and it was like
+
+182
+00:13:39,450 --> 00:13:42,180
+i don't remember the title
+but like a model checking
+
+183
+00:13:42,180 --> 00:13:45,840
+format descriptive
+specification using spin okay
+
+184
+00:13:45,840 --> 00:13:50,340
+and then the invited speaker
+at the conference was
+
+185
+00:13:50,340 --> 00:13:53,820
+gerald altman that was the
+person who invented spin so
+
+186
+00:13:53,820 --> 00:13:57,100
+i was a phd student that
+the first year presenting
+
+187
+00:13:57,100 --> 00:14:01,260
+the paper using a tool and
+in the audience there was
+
+188
+00:14:01,260 --> 00:14:03,960
+the person that invented
+the tool i just like i had
+
+189
+00:14:03,960 --> 00:14:06,460
+an heart attack in the i
+didn't really realize it
+
+190
+00:14:06,460 --> 00:14:08,920
+so i spoke for 50 minutes
+and apparently i was doing
+
+191
+00:14:08,920 --> 00:14:12,240
+so well and then i saw him
+and i choked in the middle
+
+192
+00:14:12,240 --> 00:14:16,280
+of the presentation uh
+but anyway so spin was at
+
+193
+00:14:16,280 --> 00:14:19,120
+some point died i mean died
+it's the same but never
+
+194
+00:14:19,120 --> 00:14:21,840
+really evolved i think
+there is still a community
+
+195
+00:14:21,840 --> 00:14:24,400
+around it. I think they have
+a conference every year.
+
+196
+00:14:25,280 --> 00:14:34,950
+I actually work a little
+bit with which and then
+
+197
+00:14:34,950 --> 00:14:40,820
+when we died I used a
+little bit of new SMB
+
+198
+00:14:41,460 --> 00:14:46,400
+and I work a little bit
+with Alloy. I don't know
+
+199
+00:14:46,400 --> 00:14:49,480
+if anybody is familiar
+that came out from MIT.
+
+200
+00:14:49,780 --> 00:14:54,220
+It's kind of a lightweight
+approach and then from
+
+201
+00:14:54,220 --> 00:15:00,640
+Alloy there has been a spin
+-off that used the core of
+
+202
+00:15:00,640 --> 00:15:05,400
+Alloy to be able to plug in
+different languages and then
+
+203
+00:15:05,400 --> 00:15:09,820
+I sold my soul to requirements
+and so I do much less
+
+204
+00:15:09,820 --> 00:15:12,900
+formal verification, and
+just formal requirements.
+
+205
+00:15:13,400 --> 00:15:15,980
+Some of the
+specification side of it.
+
+206
+00:15:17,020 --> 00:15:19,840
+Do you guys have
+a favorite one?
+
+207
+00:15:22,120 --> 00:15:26,140
+My would be a Lean
+4, just because it
+
+208
+00:15:26,140 --> 00:15:31,160
+is both implementation
+and proof in the
+
+209
+00:15:31,160 --> 00:15:38,120
+same language. It
+feels really, yeah,
+
+210
+00:15:38,540 --> 00:15:39,600
+like integrated.
+
+211
+00:15:39,600 --> 00:15:48,090
+And also it has the
+kind of compile time.
+
+212
+00:15:48,240 --> 00:15:48,880
+Well,
+
+213
+00:15:49,000 --> 00:15:53,780
+the duration of the
+compile is fast enough and
+
+214
+00:15:53,780 --> 00:15:56,660
+it is compile and not
+just in time like Java.
+
+215
+00:15:57,200 --> 00:16:01,660
+So, yeah, it's just, that's
+my favorite. it, even
+
+216
+00:16:01,660 --> 00:16:05,480
+though the more I look
+into it, it is said that it
+
+217
+00:16:05,480 --> 00:16:08,560
+is not as powerful as some
+other. There is a different
+
+218
+00:16:08,560 --> 00:16:13,130
+level of expressiveness
+in formal verification.
+
+219
+00:16:17,240 --> 00:16:20,280
+And I see there is a
+question about some
+
+220
+00:16:20,280 --> 00:16:23,420
+reading, and I'm going
+to respond in the chat
+
+221
+00:16:23,420 --> 00:16:26,080
+about that putting the
+link after this office
+
+222
+00:16:26,080 --> 00:16:30,840
+hour because that
+now the literature on
+
+223
+00:16:31,180 --> 00:16:35,780
+on the on this topic is uh is
+
+224
+00:16:35,840 --> 00:16:41,600
+exploding exploding um yeah
+
+225
+00:16:50,680 --> 00:16:53,360
+i'll take care of this
+putting also links i
+
+226
+00:16:59,490 --> 00:17:03,270
+haven't been but last week
+there was ICSI that is
+
+227
+00:17:03,270 --> 00:17:06,350
+probably the main conference
+in software engineering and
+
+228
+00:17:06,350 --> 00:17:13,150
+i was looking at the program
+and like finding a paper
+
+229
+00:17:13,150 --> 00:17:21,190
+without ai in the title was
+very difficult yeah it's
+
+230
+00:17:21,190 --> 00:17:23,950
+one of the reasons i'm kind
+of glad i'm i'm retired now
+
+231
+00:17:23,950 --> 00:17:26,850
+is that you know dealing
+with all this ai stuff i'm
+
+232
+00:17:26,850 --> 00:17:29,270
+really glad i'm not still
+in the world of development
+
+233
+00:17:29,270 --> 00:17:34,470
+while this is going on, I
+think it's a difficult time
+
+234
+00:17:34,770 --> 00:17:36,090
+to be a developer.
+
+235
+00:17:36,570 --> 00:17:40,170
+But, you know, I don't
+know. I think it's kind
+
+236
+00:17:40,170 --> 00:17:47,940
+of, it's a shaking
+moment, right? Like some
+
+237
+00:17:48,190 --> 00:17:51,690
+of my colleagues work
+on trying to analyze,
+
+238
+00:17:52,080 --> 00:17:54,170
+you know, there are things
+that you will analyze
+
+239
+00:17:54,170 --> 00:17:57,550
+on the long term of the
+impact of this revolution,
+
+240
+00:17:57,550 --> 00:17:59,990
+like what what what
+did it mean for a code
+
+241
+00:17:59,990 --> 00:18:03,650
+maintainability for it's
+uh we don't know anything
+
+242
+00:18:03,650 --> 00:18:06,410
+of this right no i
+agree but this is this
+
+243
+00:18:06,410 --> 00:18:10,350
+is my my old guy you kids
+get off my lawn moment
+
+244
+00:18:12,750 --> 00:18:14,710
+there's another question okay
+
+245
+00:18:19,980 --> 00:18:21,600
+now i'm not going
+to take anymore
+
+246
+00:18:23,120 --> 00:18:25,920
+how do you think about
+problems that have
+
+247
+00:18:25,920 --> 00:18:28,500
+virtually unlimited
+degrees of freedom
+
+248
+00:18:29,340 --> 00:18:33,780
+and we're using
+combinatorics to
+
+249
+00:18:33,780 --> 00:18:36,120
+determine test frame
+is not practical.
+
+250
+00:18:38,640 --> 00:18:42,040
+The problem has unlimited
+degree of freedom.
+
+251
+00:18:48,080 --> 00:18:51,300
+Anything really have
+unlimited degrees of freedom?
+
+252
+00:18:52,820 --> 00:18:57,760
+i mean and because like
+with engineering we always
+
+253
+00:18:57,760 --> 00:19:01,840
+talk about uh bound right
+lower bound upper bound
+
+254
+00:19:02,220 --> 00:19:05,400
+um and in the in the
+model itself is also
+
+255
+00:19:05,400 --> 00:19:10,400
+have um certain bound
+and say even with um
+
+256
+00:19:11,070 --> 00:19:13,220
+that that's that's the
+model right and then
+
+257
+00:19:13,220 --> 00:19:15,860
+in the implementation
+we have uh concrete
+
+258
+00:19:15,860 --> 00:19:21,220
+let's say float 64
+something so technically
+
+259
+00:19:21,220 --> 00:19:25,120
+we can always brute
+force the whole thing.
+
+260
+00:19:27,130 --> 00:19:29,820
+I don't know, Paola,
+what do you think?
+
+261
+00:19:31,220 --> 00:19:35,100
+I mean then from a
+theoretical perspective you
+
+262
+00:19:35,100 --> 00:19:38,820
+can think of this like
+you can go and try to
+
+263
+00:19:38,890 --> 00:19:43,380
+create a group group
+i mean group is wrong
+
+264
+00:19:43,380 --> 00:19:46,340
+where like uh trying to
+understand how you can
+
+265
+00:19:48,400 --> 00:19:54,040
+what you you know i don't
+know like uh i cannot find
+
+266
+00:19:54,040 --> 00:19:57,320
+the word you can decompose
+the problem and trying
+
+267
+00:19:57,320 --> 00:20:02,700
+to find categories to like
+to create a bound because
+
+268
+00:20:02,700 --> 00:20:06,720
+at the end of the day it's
+uh it's So the complexity
+
+269
+00:20:06,720 --> 00:20:09,340
+of things like autonomous
+vehicle, right, is
+
+270
+00:20:09,340 --> 00:20:13,590
+that anyway, it's what we
+produce is finite and you
+
+271
+00:20:13,660 --> 00:20:16,760
+work with a world that is
+potentially, you know, you
+
+272
+00:20:16,760 --> 00:20:19,960
+cannot predict all the
+possible behavior. And so,
+
+273
+00:20:20,080 --> 00:20:22,820
+very often when you
+think about this,
+
+274
+00:20:23,270 --> 00:20:29,700
+you can verify certain
+things and simulate
+
+275
+00:20:29,700 --> 00:20:32,280
+some others and use
+statistical models for
+
+276
+00:20:32,280 --> 00:20:35,880
+other pieces, but this
+is where you're going.
+
+277
+00:20:36,120 --> 00:20:40,940
+It's not a
+combinatory approach.
+
+278
+00:20:43,340 --> 00:20:47,520
+um yeah i mean the the
+combinatorial approach can
+
+279
+00:20:47,520 --> 00:20:51,760
+itself uh be exploding
+on on already this is
+
+280
+00:20:51,760 --> 00:20:54,690
+what i was saying not a
+combinatorial approach yeah
+
+281
+00:20:54,920 --> 00:20:59,460
+with without uh unlimited
+uh degree of freedom
+
+282
+00:21:01,150 --> 00:21:04,200
+this is what i was like that
+was my final joke is like
+
+283
+00:21:04,200 --> 00:21:07,280
+but not a combinatorial
+approach you can go in many
+
+284
+00:21:07,280 --> 00:21:14,880
+different directions and
+imagining different options.
+
+285
+00:21:33,950 --> 00:21:37,470
+I think that pretty
+much is for today.
+
+286
+00:21:37,690 --> 00:21:43,360
+Then, do we want to have
+office hour next week?
+
+287
+00:21:44,130 --> 00:21:45,170
+Traditionally,
+
+288
+00:21:45,770 --> 00:21:49,050
+with the previous
+instructor, sometimes
+
+289
+00:21:49,050 --> 00:21:50,910
+we do have, sometimes we don't.
+
+290
+00:21:51,690 --> 00:21:55,450
+I kind of remember you were
+mentioning some singing.
+
+291
+00:21:55,530 --> 00:21:58,790
+i'm okay coming to the
+office hour next week but
+
+292
+00:21:58,790 --> 00:22:02,070
+there will be no singing
+okay so nobody wants to
+
+293
+00:22:02,070 --> 00:22:05,550
+hear me singing i promise
+you and i cannot play
+
+294
+00:22:05,550 --> 00:22:08,760
+anything so i'm really
+like musically untalented
+
+295
+00:22:10,730 --> 00:22:14,470
+it's a it's a family thing
+in my family we are all
+
+296
+00:22:14,470 --> 00:22:17,950
+horrible singers but we
+used to sing in the car
+
+297
+00:22:17,950 --> 00:22:21,470
+just for the sake of
+because we were all terrible
+
+298
+00:22:21,470 --> 00:22:25,250
+so nobody could complain
+about the others but
+
+299
+00:22:25,250 --> 00:22:28,450
+really for sure i don't
+want myself recorded singing
+
+300
+00:22:30,990 --> 00:22:34,810
+all right so just to try
+and get me to sing yes yes
+
+301
+00:22:34,810 --> 00:22:38,550
+i was what i was waiting
+for volunteers wheel i
+
+302
+00:22:38,550 --> 00:22:41,110
+mean i can try to see if
+alex want to come and sing
+
+303
+00:22:41,110 --> 00:22:44,710
+we can invite a special
+guest alex had been promising
+
+304
+00:22:44,710 --> 00:22:48,750
+me for a long time to uh
+to play the background
+
+305
+00:22:48,750 --> 00:22:50,850
+for something and i was
+going to say well he was
+
+306
+00:22:50,850 --> 00:22:52,330
+going to sing part and i
+was going to sing part of
+
+307
+00:22:52,330 --> 00:22:55,470
+it and he never got around
+to it so okay let me let
+
+308
+00:22:55,470 --> 00:22:59,630
+me see if i can arrange it
+i don't make any promise
+
+309
+00:22:59,630 --> 00:23:02,350
+the only promise i make
+everybody is that i'm not
+
+310
+00:23:02,350 --> 00:23:05,990
+gonna sing and you should
+be thankful and i'm also
+
+311
+00:23:05,990 --> 00:23:09,330
+not gonna play i took
+piano lessons like a couple
+
+312
+00:23:09,330 --> 00:23:14,510
+of years ago and i'm not
+very good at that either
+
+313
+00:23:15,750 --> 00:23:19,310
+I understand music
+It's just my fingers
+
+314
+00:23:21,480 --> 00:23:26,070
+Yeah I was never good I was
+never good with instruments
+
+315
+00:23:26,070 --> 00:23:28,670
+My fingers are just not
+dexterous enough For piano
+
+316
+00:23:28,670 --> 00:23:31,690
+and guitar and things like
+that But that's more than
+
+317
+00:23:31,690 --> 00:23:34,550
+anybody needs to know It's
+been fun Thanks everyone
+
+318
+00:23:35,750 --> 00:23:38,830
+So what are we
+going to do Sheen
+
+319
+00:23:40,390 --> 00:23:41,350
+Well
+
+320
+00:23:41,850 --> 00:23:43,390
+Reading some poem
+
+321
+00:23:49,610 --> 00:23:53,350
+Victor seems to be, yes,
+that's been some fun.
+
+322
+00:23:53,610 --> 00:23:55,290
+Shall we end the meeting?
+
+323
+00:23:55,330 --> 00:23:57,710
+Yeah, and anyway, so, well,
+
+324
+00:23:57,710 --> 00:24:00,130
+students will find
+out next time.
+
+325
+00:24:00,690 --> 00:24:04,150
+All right, thank you all,
+and have a good week.
+
+326
+00:24:05,210 --> 00:24:06,970
+Bye, everyone. Bye.
