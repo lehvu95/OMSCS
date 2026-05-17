@@ -1,7 +1,9 @@
 .DS_Store
 
-# Files >50MB
-CS6300/lecture-recordings/P1L4_Version_Control/53 - Interview with John Britton.mp4
-CS6300/lecture-recordings/P3L2_A_Tale_of_Analysis_and_Design/192 - Analyzing Requirements.mp4
-CS6300/lecture-recordings/P3L2_A_Tale_of_Analysis_and_Design/196 - Adding Relationships.mp4
-CS6300/office-hours/recordings/Office_hours__Wed,_Feb_25_@9_00_PM_(Eastern_Time)_(Source).aspx
+# Video/recording files — keep out of git history (large, re-downloadable from OMSCS)
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.aspx
