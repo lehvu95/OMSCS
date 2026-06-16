@@ -141,22 +141,22 @@
 
 ## Module Three
 
-### Lesson 6 — Centrality and Network-core Metrics and Algorithms
+### [Lesson 6 — Centrality and Network-core Metrics and Algorithms](06-centrality-network-core/lesson-06-unified.md)
 
-1. [Lesson Six Overview](https://gatech.instructure.com/courses/552990/modules/items/6022864)
-2. [L6: Degree, Eigenvector and The Katz Centrality](https://gatech.instructure.com/courses/552990/modules/items/6022866)
-3. [L6: PageRank Centrality](https://gatech.instructure.com/courses/552990/modules/items/6022868)
-4. [L6: Closeness Centrality and Harmonic Centrality](https://gatech.instructure.com/courses/552990/modules/items/6022870)
-5. [L6: Betweenness Centrality Variants](https://gatech.instructure.com/courses/552990/modules/items/6022872)
-6. [L6: Path Centrality For Directed Acyclic Graphs](https://gatech.instructure.com/courses/552990/modules/items/6022874)
-7. [L6: The Notion of "Node Importance"](https://gatech.instructure.com/courses/552990/modules/items/6022876)
-8. [L6: k-core Decomposition](https://gatech.instructure.com/courses/552990/modules/items/6022878)
-9. [L6: Core-Periphery Structure](https://gatech.instructure.com/courses/552990/modules/items/6022880)
-10. [L6: Rich-Club Set of Nodes](https://gatech.instructure.com/courses/552990/modules/items/6022882)
-11. [L6: Core Set of Nodes in DAGs](https://gatech.instructure.com/courses/552990/modules/items/6022884)
-12. [L6: Applications](https://gatech.instructure.com/courses/552990/modules/items/6022886)
-13. [L6: Lesson Summary](https://gatech.instructure.com/courses/552990/modules/items/6022888)
-14. [L6: Knowledge Check](https://gatech.instructure.com/courses/552990/modules/items/6022890)
+1. [Lesson Six Overview](06-centrality-network-core/sections/00-lesson-overview.pdf)
+2. [L6: Degree, Eigenvector and The Katz Centrality](06-centrality-network-core/sections/01-degree-eigenvector-katz-centrality.pdf)
+3. [L6: PageRank Centrality](06-centrality-network-core/sections/02-pagerank-centrality.pdf)
+4. [L6: Closeness Centrality and Harmonic Centrality](06-centrality-network-core/sections/03-closeness-and-harmonic-centrality.pdf)
+5. [L6: Betweenness Centrality Variants](06-centrality-network-core/sections/04-betweenness-centrality-variants.pdf)
+6. [L6: Path Centrality For Directed Acyclic Graphs](06-centrality-network-core/sections/05-path-centrality-for-dags.pdf)
+7. [L6: The Notion of "Node Importance"](06-centrality-network-core/sections/06-node-importance.pdf)
+8. [L6: k-core Decomposition](06-centrality-network-core/sections/07-k-core-decomposition.pdf)
+9. [L6: Core-Periphery Structure](06-centrality-network-core/sections/08-core-periphery-structure.pdf)
+10. [L6: Rich-Club Set of Nodes](06-centrality-network-core/sections/09-rich-club-set-of-nodes.pdf)
+11. [L6: Core Set of Nodes in DAGs](06-centrality-network-core/sections/10-core-set-of-nodes-in-dags.pdf)
+12. [L6: Applications](06-centrality-network-core/sections/11-applications.pdf)
+13. [L6: Lesson Summary](06-centrality-network-core/sections/12-lesson-summary.pdf)
+14. [L6: Knowledge Check](06-centrality-network-core/lesson06-knowledge-check.pdf)
 
 ### Lesson 7 — Modularity and Community Detection
 
