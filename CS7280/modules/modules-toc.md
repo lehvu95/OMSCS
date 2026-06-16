@@ -212,27 +212,27 @@
 
 ## Module Four
 
-### Lesson 9 — Spreading Phenomena on Networks and Epidemics
+### [Lesson 9 — Spreading Phenomena on Networks and Epidemics](09-spreading-phenomena-epidemics/lesson-09-unified.md)
 
-1. [Lesson Nine Overview](https://gatech.instructure.com/courses/552990/modules/items/6022986)
-2. [L9: Spreading Phenomena on Networks & Epidemics](https://gatech.instructure.com/courses/552990/modules/items/6022988)
-3. [L9: SI Model](https://gatech.instructure.com/courses/552990/modules/items/6022990)
-4. [L9: SIS Model](https://gatech.instructure.com/courses/552990/modules/items/6022992)
-5. [L9: SIR Model](https://gatech.instructure.com/courses/552990/modules/items/6022994)
-6. [L9: Comparison of SI, SIS, SIR Models Under Homogeneous Mixing](https://gatech.instructure.com/courses/552990/modules/items/6022996)
-7. [L9: Number of Partners in Sexual Networks](https://gatech.instructure.com/courses/552990/modules/items/6022998)
-8. [L9: Number of "Close Proximity" Contacts](https://gatech.instructure.com/courses/552990/modules/items/6023000)
-9. [L9: Global Travel Network](https://gatech.instructure.com/courses/552990/modules/items/6023002)
-10. [L9: Reproductive Number R0](https://gatech.instructure.com/courses/552990/modules/items/6023004)
-11. [L9: The Fallacy of The Basic Reproductive Number](https://gatech.instructure.com/courses/552990/modules/items/6023006)
-12. [L9: Degree Block Approximation](https://gatech.instructure.com/courses/552990/modules/items/6023008)
-13. [L9: SIS Model – With An Arbitrary Degree Distribution](https://gatech.instructure.com/courses/552990/modules/items/6023010)
-14. [L9: SIS Model – No Epidemic Threshold For Scale-Free Nets](https://gatech.instructure.com/courses/552990/modules/items/6023012)
-15. [L9: Summary of SI, SIS, SIR Models with Arbitrary Degree Distribution](https://gatech.instructure.com/courses/552990/modules/items/6023014)
-16. [L9: Computational Modeling of Epidemics](https://gatech.instructure.com/courses/552990/modules/items/6023016)
-17. [L9: Effective Distance](https://gatech.instructure.com/courses/552990/modules/items/6023018)
-18. [L9: Lesson Summary](https://gatech.instructure.com/courses/552990/modules/items/6023020)
-19. [L9: Knowledge Check](https://gatech.instructure.com/courses/552990/modules/items/6023022)
+1. [Lesson Nine Overview](09-spreading-phenomena-epidemics/sections/00-lesson-overview.pdf)
+2. [L9: Spreading Phenomena on Networks & Epidemics](09-spreading-phenomena-epidemics/sections/01-spreading-phenomena-and-epidemics.pdf)
+3. [L9: SI Model](09-spreading-phenomena-epidemics/sections/02-si-model.pdf)
+4. [L9: SIS Model](09-spreading-phenomena-epidemics/sections/03-sis-model.pdf)
+5. [L9: SIR Model](09-spreading-phenomena-epidemics/sections/04-sir-model.pdf)
+6. [L9: Comparison of SI, SIS, SIR Models Under Homogeneous Mixing](09-spreading-phenomena-epidemics/sections/05-comparison-si-sis-sir-homogeneous-mixing.pdf)
+7. [L9: Number of Partners in Sexual Networks](09-spreading-phenomena-epidemics/sections/06-number-of-partners-sexual-networks.pdf)
+8. [L9: Number of "Close Proximity" Contacts](09-spreading-phenomena-epidemics/sections/07-close-proximity-contacts.pdf)
+9. [L9: Global Travel Network](09-spreading-phenomena-epidemics/sections/08-global-travel-network.pdf)
+10. [L9: Reproductive Number R0](09-spreading-phenomena-epidemics/sections/09-reproductive-number-r0.pdf)
+11. [L9: The Fallacy of The Basic Reproductive Number](09-spreading-phenomena-epidemics/sections/10-fallacy-of-basic-reproductive-number.pdf)
+12. [L9: Degree Block Approximation](09-spreading-phenomena-epidemics/sections/11-degree-block-approximation.pdf)
+13. [L9: SIS Model – With An Arbitrary Degree Distribution](09-spreading-phenomena-epidemics/sections/12-sis-model-arbitrary-degree-distribution.pdf)
+14. [L9: SIS Model – No Epidemic Threshold For Scale-Free Nets](09-spreading-phenomena-epidemics/sections/13-sis-model-no-epidemic-threshold-scale-free.pdf)
+15. [L9: Summary of SI, SIS, SIR Models with Arbitrary Degree Distribution](09-spreading-phenomena-epidemics/sections/14-summary-si-sis-sir-arbitrary-degree-distribution.pdf)
+16. [L9: Computational Modeling of Epidemics](09-spreading-phenomena-epidemics/sections/15-computational-modeling-of-epidemics.pdf)
+17. [L9: Effective Distance](09-spreading-phenomena-epidemics/sections/16-effective-distance.pdf)
+18. [L9: Lesson Summary](09-spreading-phenomena-epidemics/sections/17-lesson-summary.pdf)
+19. [L9: Knowledge Check](09-spreading-phenomena-epidemics/lesson09-knowledge-check.pdf)
 
 ### Lesson 10 — Social Influence and Other Network Contagion Phenomena
 
