@@ -149,7 +149,7 @@ In practice, the computation of both Katz and PageRank centralities is performed
 
 **Food For Thought**
 
-Recall the concept of random walks on networks, that we introduced in Lesson-2. How can you interpret the PageRank centrality equation based on random walks?
+Recall the concept of random walks on networks, that we introduced in [[13-random-walks.pdf|Lesson-2]]. How can you interpret the PageRank centrality equation based on random walks?
 
 ## 03 — Closeness Centrality and Harmonic Centrality
 
@@ -203,7 +203,7 @@ Note that node E, in the visualization, has higher betweenness centrality than n
 
 For weighted networks, where the (non-negative) weight represents the cost of an edge, the shortest-paths can be computed using Dijkstra's algorithm for weighted networks.
 
-There are many variants of the betweenness centrality metric, depending on what kind of paths we use. One such variant is the *flow betweenness centrality* in which we compute the max-flow from any source node $s$ to any target node $t$ – and then replace the fraction $\frac{n_{s,t}(i)}{n_{s,t}}$ with the fraction of the max-flow that traverses node $i$ – see Lesson-2 if you do not remember the definition of max-flow.
+There are many variants of the betweenness centrality metric, depending on what kind of paths we use. One such variant is the *flow betweenness centrality* in which we compute the max-flow from any source node $s$ to any target node $t$ – and then replace the fraction $\frac{n_{s,t}(i)}{n_{s,t}}$ with the fraction of the max-flow that traverses node $i$ – see [[15-max-flow-problem.pdf|Lesson-2]] if you do not remember the definition of max-flow.
 
 Yet another variant is the *random-walk betweenness centrality*, which considers the number of random walks from node-$s$ to node-$t$ that traverse node-$i$.
 
@@ -215,13 +215,13 @@ In some cases, we are interested in the centrality of edges, rather than nodes. 
 
 One such metric is the edge betweenness centrality. The definition is the same as for node betweenness centrality – but instead of considering the fraction of paths that traverse a node $i$, we consider the fraction of paths that traverse an edge $(i,j)$. These paths can be shortest-paths or any other well-defined set of paths, as we discussed on the previous page.
 
-Another way to define the centrality of an edge is to quantify the impact of its removal. For instance, one could measure the increase in the Characteristic Path Length *(CPL, see Lesson-5)* after removing edge $(i,j)$ – the higher that CPL increase is, the more important that edge is for the network.
+Another way to define the centrality of an edge is to quantify the impact of its removal. For instance, one could measure the increase in the Characteristic Path Length *(CPL, see [[06-diameter-cpl-and-network-efficiency.pdf|Lesson-5]])* after removing edge $(i,j)$ – the higher that CPL increase is, the more important that edge is for the network.
 
 **Food For Thought**
 
 An interesting question is how to compute the shortest-path betweenness centrality metric efficiently. We recommend you review the following paper for an efficient algorithm:
 
-Ulrik Brandes: A Faster Algorithm for Betweenness Centrality. Journal of Mathematical Sociology 25(2):163-177, 2001 (<https://doi.org/10.1080/0022250X.2001.9990249>)
+Ulrik Brandes: A Faster Algorithm for Betweenness Centrality. Journal of Mathematical Sociology 25(2):163-177, 2001 ([https://doi.org/10.1080/0022250X.2001.9990249](https://doi.org/10.1080/0022250X.2001.9990249)) — see [[faster-algorithm-for-betweenness-centrality.pdf|local copy]]
 
 ## 05 — Path Centrality For Directed Acyclic Graphs
 
@@ -317,7 +317,7 @@ $$\phi(k) = \frac{2\, e_k}{n_k(n_k - 1)}$$
 
 and it quantifies the density of the connections between nodes of degree greater than $k$.
 
-How can we tell however whether the value of $\phi(k)$ is statistically significant for a given $k$? It could be that even randomly wired networks have about the same value of $\phi(k)$, at least for some degree values. To do so, we also generate an ensemble of random networks with the same number of nodes and degree distribution *(as we did in Lesson-4 for the detection of network motifs)*. These random networks represent our *null model*. We can then compute the average value of $\phi(k)$ for each $k$, averaging across all random networks.
+How can we tell however whether the value of $\phi(k)$ is statistically significant for a given $k$? It could be that even randomly wired networks have about the same value of $\phi(k)$, at least for some degree values. To do so, we also generate an ensemble of random networks with the same number of nodes and degree distribution *(as we did in [[09-degree-preserving-randomization.pdf|Lesson-4]] for the detection of network motifs)*. These random networks represent our *null model*. We can then compute the average value of $\phi(k)$ for each $k$, averaging across all random networks.
 
 If the rich-club coefficient for degree $k$ in the given network is much larger than the corresponding coefficient in the null model, we can mark that value of $k$ as statistically significant for the existence of a rich-club. If there is at least one such statistically significant value of $k$, we conclude that the network includes a rich-club -- the set of nodes with degree greater than $k$. If there are multiple such values of $k$, the rich-club nodes can be identified based on the value of $k$ for which we have the largest difference between the rich-club coefficient in the real network versus the null model (even though there is some variation about this in the literature).
 
@@ -357,7 +357,7 @@ The visualization shows the two core nodes *(d and i)* for the value of $\tau = 
 
 ## 11 — Applications
 
-You can find additional details about the *C. Elegans* network analysis mentioned here in the following paper: [The hourglass organization of the Caenorhabditis elegans connectome](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007526) by K. Sabrin et al., PLOS Computational Biology, 2020.
+You can find additional details about the *C. Elegans* network analysis mentioned here in the following paper: [The hourglass organization of the Caenorhabditis elegans connectome](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007526) by K. Sabrin et al., PLOS Computational Biology, 2020 — see [[hourglass-organization-celegans-connectome.pdf|local copy]].
 
 ### Video: Applications
 
