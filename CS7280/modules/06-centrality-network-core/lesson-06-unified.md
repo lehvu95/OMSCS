@@ -19,7 +19,7 @@ Students will be able to:
 
 **Required Reading**
 
-- Chapter 7 (mostly sections 7.1-7.8) — M.E.J. Newman, [Networks: An Introduction](https://www.amazon.com/Networks-Mark-Newman/dp/0198805098), Oxford University Press.
+- Chapter 7 (mostly sections 7.1-7.8) — M.E.J. Newman, [Networks: An Introduction](https://www.amazon.com/Networks-Mark-Newman/dp/0198805098), Oxford University Press — see [[newman-networks-ch07.pdf|local copy]].
 - Section 14.3 — D. Easley and J. Kleinberg, [Networks, Crowds and Markets](https://www.cambridge.org/core/books/networks-crowds-and-markets/A70C7855A3003FE1079C25F8397AF641), Cambridge Univ Press, 2010 (also available [online](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)).
 - ["Rich-clubness test: how to determine whether a complex network has or doesn't have a rich-club?"](https://arxiv.org/abs/1704.03526) by Alessandro Muscoloni and Carlo Vittorio Cannistraci — see [[rich-clubness-test.pdf|local copy]]
 
