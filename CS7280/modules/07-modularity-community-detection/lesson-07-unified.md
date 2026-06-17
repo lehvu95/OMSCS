@@ -517,7 +517,7 @@ This process generates self-loops, corresponding to links between nodes in the s
 
 **Food For Thought**
 
-The description of the Louvain algorithm here is only at a high-level. We recommend you also read the original publication that proposed this algorithm. Also, show that the computational complexity of this algorithm is $O(L)$.
+The description of the Louvain algorithm here is only at a high-level. We recommend you also read the original publication that proposed this algorithm — Blondel, Guillaume, Lambiotte and Lefebvre, *Fast unfolding of communities in large networks* (2008) — see [[fast-unfolding-of-communities-in-large-networks.pdf|local copy]]. Also, show that the computational complexity of this algorithm is $O(L)$.
 
 ## 13 — Modularity Resolution
 
