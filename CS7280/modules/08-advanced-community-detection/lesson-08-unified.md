@@ -501,7 +501,7 @@ Clearly, these four types are heuristically defined and there are always nodes t
 
 ![[img/17-metabolic-network.jpg|600]]
 
-*Figure 3: Cartographic representation of the metabolic network of E. coli, from [Functional cartography of complex metabolic networks](https://www.nature.com/articles/nature03288) by Guimerà, R., Nunes Amaral, L.*
+*Figure 3: Cartographic representation of the metabolic network of E. coli, from [Functional cartography of complex metabolic networks](https://www.nature.com/articles/nature03288) by Guimerà, R., Nunes Amaral, L. — see [[functional-cartography-complex-metabolic-networks.pdf|local copy]].*
 
 To illustrate these concepts, let us review the main results of a research article *("Functional cartography of complex metabolic networks" by Guimera and Luis A. Nunes Amaral, Nature 2005)* that analyzed the metabolic networks of twelve organisms. They identified an average of 15 communities *(the maximum was 19 communities for Homo sapiens and the minimum was 11 for Archaeoglobus fulgidus)*.
 
