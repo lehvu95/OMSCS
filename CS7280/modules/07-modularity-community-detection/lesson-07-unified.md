@@ -473,7 +473,7 @@ Since the calculation of each $\Delta M$ can be done in constant time, Step-2 of
 
 **Optimized Greedy Algorithm**
 
-The use of data structures for sparse matrices can decrease the greedy algorithm's computational complexity to $O(N \log^2 N)$. For more details please read the paper [Finding community structure in very large networks](http://cs.unm.edu/~aaron/research/fastmodularity.htm) by Clauset, Newman and Moore.
+The use of data structures for sparse matrices can decrease the greedy algorithm's computational complexity to $O(N \log^2 N)$. For more details please read the paper [Finding community structure in very large networks](http://cs.unm.edu/~aaron/research/fastmodularity.htm) by Clauset, Newman and Moore — see [[finding-community-structure-very-large-networks.pdf|local copy]].
 
 ## 12 — Louvain Algorithm
 
