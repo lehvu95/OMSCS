@@ -20,9 +20,9 @@ Students will:
 
 **Required Reading**
 
-- *Sampling and estimation in network graphs*, by Eric D. Kolaczyk, 2009 (Chapter 5 of *Statistical Analysis of Network Data: Methods and Models*) — [Springer chapter](https://link.springer.com/chapter/10.1007/978-0-387-88146-1_5) (purchase-only; no local copy available).
+- *Sampling and estimation in network graphs*, by Eric D. Kolaczyk, 2009 (Chapter 5 of *Statistical Analysis of Network Data: Methods and Models*) — see [[kolaczyk-mm-ch05.pdf|local copy]].
 - *Network inference with confidence from multivariate time series*, by Mark Kramer et al., 2009 — see [[network-inference-confidence-multivariate-time-series.pdf|local copy]].
-- *Network topology inference*, by Eric D. Kolaczyk, 2009 (Chapter 7) — see [[kolaczyk-ch7-network-topology-inference.pdf|local copy]].
+- *Network topology inference*, by Eric D. Kolaczyk, 2009 (Chapter 7 of *Statistical Analysis of Network Data: Methods and Models*) — see [[kolaczyk-mm-ch07.pdf|local copy]].
 
 **Recommended Reading**
 
