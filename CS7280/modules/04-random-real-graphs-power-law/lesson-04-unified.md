@@ -205,7 +205,7 @@ Another approach, that addresses the low-degree saturation effect, is to "rescal
 
 ### Food for Thought
 
-A more rigorous statistical approach to examine if a network has a power-law degree distribution is described at the following site: [Power-law Distributions in Empirical Data](https://aaronclauset.github.io/powerlaws). You will experiment with this (or similar) method in an assignment. For now, you may just want to read the description of that method from the given URL.
+A more rigorous statistical approach to examine if a network has a power-law degree distribution is described at the following site: [Power-law Distributions in Empirical Data](https://aaronclauset.github.io/powerlaws). You will experiment with this (or similar) method in an assignment. For now, you may just want to read the description of that method from the given URL. — see [[power-law-distributions-in-empirical-data.pdf|local copy]]
 
 ## L4: How to Plot Power-law Degree Distribution
 

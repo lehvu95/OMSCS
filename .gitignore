@@ -1,5 +1,11 @@
 .DS_Store
 
+# Claude Code local config
+.claude/
+
+# Obsidian per-machine workspace state
+.obsidian/workspace.json
+
 # Video/recording files — keep out of git history (large, re-downloadable from OMSCS)
 *.mp4
 *.mov
