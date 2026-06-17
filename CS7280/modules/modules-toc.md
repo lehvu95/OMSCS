@@ -44,7 +44,7 @@
 14. [L1: The Birth of Network Science](01-what-is-network-science/sections/13-birth-of-network-science.pdf)
 15. [L1: Lesson Summary](01-what-is-network-science/sections/14-lesson-summary.pdf)
 16. [L1: TED Lecture: Albert-László Barabási](01-what-is-network-science/sections/15-ted-lecture-barabasi.pdf)
-17. [L1: Knowledge Check](01-what-is-network-science/sections/16-knowledge-check.pdf)
+17. [L1: Knowledge Check](01-what-is-network-science/lesson01-knowledge-check.pdf)
 
 ### [Lesson 2 — Relevant Concepts From Graph Theory](02-concepts-from-graph-theory/lesson-02-unified.md)
 
@@ -69,7 +69,7 @@
 19. [L2: A Recommendation System as a Bipartite Graph](02-concepts-from-graph-theory/sections/18-recommendation-system-as-a-bipartite-graph.pdf)
 20. [L2: Co-citation and Bibliographic Coupling](02-concepts-from-graph-theory/sections/19-co-citation-and-bibliographic-coupling.pdf)
 21. [L2: Lesson Summary](02-concepts-from-graph-theory/sections/20-lesson-summary.pdf)
-22. [L2: Knowledge Check](02-concepts-from-graph-theory/sections/21-knowledge-check.pdf)
+22. [L2: Knowledge Check](02-concepts-from-graph-theory/lesson02-knowledge-check.pdf)
 
 ---
 
@@ -94,7 +94,7 @@
 15. [L3: How to Measure Degree Correlations](03-degree-distrib-friendship/sections/14-how-to-measure-degree-correlations.pdf)
 16. [L3: Assortative, Neutral and Disassortative Networks](03-degree-distrib-friendship/sections/15-assortative-neutral-disassortative.pdf)
 17. [L3: Lesson Summary](03-degree-distrib-friendship/sections/16-lesson-summary.pdf)
-18. [L3: Knowledge Check](03-degree-distrib-friendship/sections/17-knowledge-check.pdf)
+18. [L3: Knowledge Check](03-degree-distrib-friendship/lesson03-knowledge-check.pdf)
 
 ### [Lesson 4 — Random vs. Real Graphs and Power-Law Networks](04-random-real-graphs-power-law/lesson-04-unified.md)
 
@@ -115,7 +115,7 @@
 15. [L4: What Does The Power-law Property Mean in Practice?](04-random-real-graphs-power-law/sections/14-power-law-property-in-practice.pdf)
 16. [L4: Case Studies: Superspreaders](04-random-real-graphs-power-law/sections/15-case-studies-superspreaders.pdf)
 17. [L4: Lesson Summary](04-random-real-graphs-power-law/sections/16-lesson-summary.pdf)
-18. [L4: Knowledge Check](04-random-real-graphs-power-law/sections/17-knowledge-check.pdf)
+18. [L4: Knowledge Check](04-random-real-graphs-power-law/lesson04-knowledge-check.pdf)
 
 ### [Lesson 5 — Network Paths, Clustering and The "Small World" Property](05-paths-clustering-small-world/lesson-05-unified.md)
 
@@ -135,7 +135,7 @@
 14. [L5: Directed Subgraph Connectivity Patterns](05-paths-clustering-small-world/sections/13-directed-subgraph-connectivity-patterns.pdf)
 15. [L5: Statistical Test For The Frequency of a Network Motif](05-paths-clustering-small-world/sections/14-statistical-test-frequency-of-a-network-motif.pdf)
 16. [L5: Frequent Motifs and Their Function](05-paths-clustering-small-world/sections/15-frequent-motifs-and-their-function.pdf)
-17. [L5: Knowledge Check](05-paths-clustering-small-world/sections/16-knowledge-check.pdf)
+17. [L5: Knowledge Check](05-paths-clustering-small-world/lesson05-knowledge-check.pdf)
 
 ---
 
