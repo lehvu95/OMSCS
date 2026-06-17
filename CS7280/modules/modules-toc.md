@@ -336,4 +336,3 @@
 12. [L14: Lesson Summary](14-ml-in-network-science/sections/11-lesson-summary.pdf)
 13. [L14: A Final Note](14-ml-in-network-science/sections/12-a-final-note.pdf)
 14. [L14: Knowledge Check](14-ml-in-network-science/lesson14-knowledge-check.pdf)
-14. [A Final Note](https://gatech.instructure.com/courses/552990/modules/items/6023246)
