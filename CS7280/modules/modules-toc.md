@@ -283,25 +283,25 @@
 
 ## Module Five
 
-### Lesson 12 — Network Modeling
+### [Lesson 12 — Network Modeling](12-network-modeling/lesson-12-unified.md)
 
-1. [Lesson Twelve Overview](https://gatech.instructure.com/courses/552990/modules/items/6023108)
-2. [L12: Why Network Modeling?](https://gatech.instructure.com/courses/552990/modules/items/6023112)
-3. [L12: Preferential Attachment Model](https://gatech.instructure.com/courses/552990/modules/items/6023116)
-4. [L12: Mathematical Analysis of PA Model](https://gatech.instructure.com/courses/552990/modules/items/6023120)
-5. [L12: Degree Dynamics in PA Model](https://gatech.instructure.com/courses/552990/modules/items/6023126)
-6. [L12: Nonlinear Preferential Attachment](https://gatech.instructure.com/courses/552990/modules/items/6023128)
-7. [L12: Link-Copy Model](https://gatech.instructure.com/courses/552990/modules/items/6023130)
-8. [L12: Generating Networks with Community Structure](https://gatech.instructure.com/courses/552990/modules/items/6023132)
-9. [L12: Generating Networks with Degree Correlations](https://gatech.instructure.com/courses/552990/modules/items/6023136)
-10. [L12: Optimization-based Network Formation Model](https://gatech.instructure.com/courses/552990/modules/items/6023140)
-11. [L12: Optimization-based Network Formation Model (cont')](https://gatech.instructure.com/courses/552990/modules/items/6023142)
-12. [L12: Hierarchical Graph Model](https://gatech.instructure.com/courses/552990/modules/items/6023144)
-13. [L12: Maximum Likelihood Estimation of HRG Probabilities](https://gatech.instructure.com/courses/552990/modules/items/6023148)
-14. [L12: How to Find the Optimal Dendrogram?](https://gatech.instructure.com/courses/552990/modules/items/6023152)
-15. [L12: Hierarchical Graph Model Applications](https://gatech.instructure.com/courses/552990/modules/items/6023156)
-16. [L12: Lesson Summary](https://gatech.instructure.com/courses/552990/modules/items/6023158)
-17. [L12: Knowledge Check](https://gatech.instructure.com/courses/552990/modules/items/6023162)
+1. [Lesson Twelve Overview](12-network-modeling/sections/00-lesson-overview.pdf)
+2. [L12: Why Network Modeling?](12-network-modeling/sections/01-why-network-modeling.pdf)
+3. [L12: Preferential Attachment Model](12-network-modeling/sections/02-preferential-attachment-model.pdf)
+4. [L12: Mathematical Analysis of PA Model](12-network-modeling/sections/03-mathematical-analysis-of-pa-model.pdf)
+5. [L12: Degree Dynamics in PA Model](12-network-modeling/sections/04-degree-dynamics-in-pa-model.pdf)
+6. [L12: Nonlinear Preferential Attachment](12-network-modeling/sections/05-nonlinear-preferential-attachment.pdf)
+7. [L12: Link-Copy Model](12-network-modeling/sections/06-link-copy-model.pdf)
+8. [L12: Generating Networks with Community Structure](12-network-modeling/sections/07-generating-networks-with-community-structure.pdf)
+9. [L12: Generating Networks with Degree Correlations](12-network-modeling/sections/08-generating-networks-with-degree-correlations.pdf)
+10. [L12: Optimization-based Network Formation Model](12-network-modeling/sections/09-optimization-based-network-formation-model.pdf)
+11. [L12: Optimization-based Network Formation Model (cont')](12-network-modeling/sections/10-optimization-based-network-formation-model-cont.pdf)
+12. [L12: Hierarchical Graph Model](12-network-modeling/sections/11-hierarchical-graph-model.pdf)
+13. [L12: Maximum Likelihood Estimation of HRG Probabilities](12-network-modeling/sections/12-maximum-likelihood-estimation-of-hrg-probabilities.pdf)
+14. [L12: How to Find the Optimal Dendrogram?](12-network-modeling/sections/13-how-to-find-the-optimal-dendrogram.pdf)
+15. [L12: Hierarchical Graph Model Applications](12-network-modeling/sections/14-hierarchical-graph-model-applications.pdf)
+16. [L12: Lesson Summary](12-network-modeling/sections/15-lesson-summary.pdf)
+17. [L12: Knowledge Check](12-network-modeling/lesson12-knowledge-check.pdf)
 
 ### Lesson 13 — Statistical Analysis of Network Data
 
