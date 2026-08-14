@@ -59,3 +59,11 @@
   text-transform: uppercase;
   letter-spacing: 0.04em;
 }
+/* Fix: inline code inside a heading keeps monospace (reading view + Live Preview) */
+.markdown-rendered :is(h1, h2, h3, h4, h5, h6) code,
+.HyperMD-header .cm-inline-code,
+.cm-header.cm-inline-code {
+  font-family: var(--font-monospace) !important;
+  text-transform: none !important;
+  letter-spacing: normal !important;
+}
